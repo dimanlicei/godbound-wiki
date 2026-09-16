@@ -159,8 +159,3 @@ gifts:
       получаете секрет, что хранит жертва, связанный с его богатством или тайной
       целью; 20 — вы крадёте усилие жертвы и можете восстановить себе одно
       усилие, что ранее потратили."
-  - name: абоба
-    slug: aboba
-    tier: lesser
-    icon: https://dimanlicei.github.io/godbound-wiki/images/icons/gifts/bezdna-anafema.webp
-    body: абоба
