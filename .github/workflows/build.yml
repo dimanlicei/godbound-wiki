@@ -1,0 +1,36 @@
+name: Пересборка index.html
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'template.html'
+      - 'build.js'
+      - 'package.json'
+      - 'package-lock.json'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Закоммитить пересобранный index.html
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git diff --cached --quiet || git commit -m "Автопересборка index.html после правки content/ [skip ci]"
+          git push
