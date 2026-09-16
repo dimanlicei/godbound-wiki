@@ -23,10 +23,11 @@ collections:
     identifier_field: "name"
     summary: "{{name}} ({{kind}})"
     fields:
-      - label: "Slug (латиницей, определяет имя файла и id на странице)"
+      - label: "Slug (латиницей, определяет имя файла — обязательно только при создании НОВОГО Слова, на уже существующие не влияет)"
         name: "slug"
         widget: "string"
         meta: true
+        required: false
         pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "только строчные латинские буквы, цифры и дефисы, например bogatstvo"]
       - {label: "Название", name: "name", widget: "string"}
       - label: "Тип"
