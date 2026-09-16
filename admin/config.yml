@@ -1,0 +1,105 @@
+backend:
+  name: github
+  repo: dimanlicei/godbound-wiki
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+site_url: https://dimanlicei.github.io/godbound-wiki/
+display_url: https://dimanlicei.github.io/godbound-wiki/
+
+media_folder: "images/icons"
+public_folder: "/images/icons"
+
+collections:
+  - name: "words"
+    label: "Слова"
+    label_singular: "Слово"
+    folder: "content/words"
+    create: true
+    slug: "{{fields.slug}}"
+    identifier_field: "name"
+    summary: "{{name}} ({{kind}})"
+    fields:
+      - label: "Slug (латиницей, определяет имя файла и id на странице)"
+        name: "slug"
+        widget: "string"
+        meta: true
+        pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "только строчные латинские буквы, цифры и дефисы, например bogatstvo"]
+      - {label: "Название", name: "name", widget: "string"}
+      - label: "Тип"
+        name: "kind"
+        widget: "select"
+        options:
+          - {label: "Рулбук", value: "canon"}
+          - {label: "Анафема", value: "anathema"}
+          - {label: "Дополнение", value: "supplement"}
+          - {label: "Самописное", value: "homebrew"}
+      - label: "Цвета"
+        name: "colors"
+        widget: "object"
+        fields:
+          - {label: "Glow", name: "glow", widget: "color"}
+          - {label: "Deep", name: "deep", widget: "color"}
+          - {label: "Dark", name: "dark", widget: "color"}
+      - label: "Иконка"
+        name: "icon"
+        widget: "image"
+        media_folder: "/images/icons/words"
+        public_folder: "/images/icons/words"
+      - {label: "Описание", name: "description", widget: "text"}
+      - label: "Дары"
+        name: "gifts"
+        widget: "list"
+        summary: "{{fields.name}} ({{fields.tier}})"
+        fields:
+          - {label: "Название", name: "name", widget: "string"}
+          - label: "Slug (латиницей, определяет имя файла иконки)"
+            name: "slug"
+            widget: "string"
+            pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "только строчные латинские буквы, цифры и дефисы"]
+          - label: "Уровень"
+            name: "tier"
+            widget: "select"
+            options:
+              - {label: "Малый Дар", value: "lesser"}
+              - {label: "Большой Дар", value: "greater"}
+          - label: "Иконка"
+            name: "icon"
+            widget: "image"
+            media_folder: "/images/icons/gifts/{{slug}}"
+            public_folder: "/images/icons/gifts/{{slug}}"
+          - label: "Бейджи"
+            name: "badges"
+            widget: "list"
+            required: false
+            summary: "{{fields.text}}"
+            fields:
+              - label: "Тип"
+                name: "type"
+                widget: "select"
+                options:
+                  - {label: "Действие", value: "act"}
+                  - {label: "Усилие", value: "eff"}
+                  - {label: "Кара", value: "smite"}
+              - {label: "Текст", name: "text", widget: "string"}
+          - {label: "Описание", name: "body", widget: "text"}
+
+  - name: "order"
+    label: "Порядок Слов"
+    files:
+      - name: "order"
+        label: "Порядок на странице"
+        file: "content/order.yml"
+        fields:
+          - label: "Порядок"
+            name: "order"
+            widget: "list"
+            field:
+              label: "Слово"
+              name: "slug"
+              widget: "relation"
+              collection: "words"
+              search_fields: ["name", "slug"]
+              value_field: "{{slug}}"
+              display_fields: ["name"]
