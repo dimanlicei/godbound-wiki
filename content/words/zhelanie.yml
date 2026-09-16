@@ -4,7 +4,7 @@ colors:
   glow: '#ffa0e0'
   deep: '#33112c'
   dark: '#130610'
-icon: /images/icons/words/zhelanie.webp
+icon: images/icons/words/zhelanie.webp
 description: |-
   Слово Желания говорит о влечениях любого рода — как плотских, так и умственных. Оно правит хотением и теми уступками, на которые идут ради утоления мучительной нужды.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Невыносимая Красота
   slug: nevynosimaya-krasota
   tier: lesser
-  icon: /images/icons/gifts/zhelanie/nevynosimaya-krasota.webp
+  icon: images/icons/gifts/zhelanie/nevynosimaya-krasota.webp
   badges:
   - type: act
     text: Постоянно
@@ -26,7 +26,7 @@ gifts:
 - name: Порабощающая Страсть
   slug: poraboschayuschaya-strast
   tier: lesser
-  icon: /images/icons/gifts/zhelanie/poraboschayuschaya-strast.webp
+  icon: images/icons/gifts/zhelanie/poraboschayuschaya-strast.webp
   badges:
   - type: act
     text: В свой ход
@@ -42,7 +42,7 @@ gifts:
 - name: Пылающая Нужда
   slug: pylayuschaya-nuzhda
   tier: lesser
-  icon: /images/icons/gifts/zhelanie/pylayuschaya-nuzhda.webp
+  icon: images/icons/gifts/zhelanie/pylayuschaya-nuzhda.webp
   badges:
   - type: act
     text: Действие
@@ -59,7 +59,7 @@ gifts:
 - name: Самообладание
   slug: samoobladanie
   tier: lesser
-  icon: /images/icons/gifts/zhelanie/samoobladanie.webp
+  icon: images/icons/gifts/zhelanie/samoobladanie.webp
   badges:
   - type: act
     text: Постоянно
@@ -73,7 +73,7 @@ gifts:
 - name: Утолить Сердце
   slug: utolit-serdtse
   tier: lesser
-  icon: /images/icons/gifts/zhelanie/utolit-serdtse.webp
+  icon: images/icons/gifts/zhelanie/utolit-serdtse.webp
   badges:
   - type: act
     text: Действие
@@ -90,7 +90,7 @@ gifts:
 - name: Чутьё Блудницы
   slug: chute-bludnitsy
   tier: lesser
-  icon: /images/icons/gifts/zhelanie/chute-bludnitsy.webp
+  icon: images/icons/gifts/zhelanie/chute-bludnitsy.webp
   badges:
   - type: act
     text: В свой ход
@@ -106,7 +106,7 @@ gifts:
 - name: Мука Желания
   slug: muka-zhelaniya
   tier: greater
-  icon: /images/icons/gifts/zhelanie/muka-zhelaniya.webp
+  icon: images/icons/gifts/zhelanie/muka-zhelaniya.webp
   badges:
   - type: act
     text: Действие
@@ -124,7 +124,7 @@ gifts:
 - name: Раб Желания
   slug: rab-zhelaniya
   tier: greater
-  icon: /images/icons/gifts/zhelanie/rab-zhelaniya.webp
+  icon: images/icons/gifts/zhelanie/rab-zhelaniya.webp
   badges:
   - type: act
     text: Действие
@@ -138,7 +138,7 @@ gifts:
 - name: Яблоко Раздора
   slug: yabloko-razdora
   tier: greater
-  icon: /images/icons/gifts/zhelanie/yabloko-razdora.webp
+  icon: images/icons/gifts/zhelanie/yabloko-razdora.webp
   badges:
   - type: act
     text: Действие

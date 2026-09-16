@@ -4,7 +4,7 @@ colors:
   glow: '#d8c184'
   deep: '#241e10'
   dark: '#0e0b06'
-icon: /images/icons/words/oborotnichestvo.webp
+icon: images/icons/words/oborotnichestvo.webp
 description: |-
   Слово Оборотничества повелевает телесными превращениями всех видов — как самого владельца, так и тех, на кого направлены его силы. Оборотничество — Слово весьма плотское и осязаемое; оно не изменяет умы дальше того озарения, что необходимо для пользования новыми конечностями или подражания другим. Вместо этого оно лепит плоть по желанию владельца.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Дар Заимствованного Облика
   slug: dar-zaimstvovannogo-oblika
   tier: lesser
-  icon: /images/icons/gifts/oborotnichestvo/dar-zaimstvovannogo-oblika.webp
+  icon: images/icons/gifts/oborotnichestvo/dar-zaimstvovannogo-oblika.webp
   badges:
   - type: act
     text: Мгновенно
@@ -29,7 +29,7 @@ gifts:
 - name: Десять Тысяч Шкур
   slug: desyat-tysyach-shkur
   tier: lesser
-  icon: /images/icons/gifts/oborotnichestvo/desyat-tysyach-shkur.webp
+  icon: images/icons/gifts/oborotnichestvo/desyat-tysyach-shkur.webp
   badges:
   - type: act
     text: Действие
@@ -44,7 +44,7 @@ gifts:
 - name: Зализать Раны
   slug: zalizat-rany
   tier: lesser
-  icon: /images/icons/gifts/oborotnichestvo/zalizat-rany.webp
+  icon: images/icons/gifts/oborotnichestvo/zalizat-rany.webp
   badges:
   - type: act
     text: Действие
@@ -57,7 +57,7 @@ gifts:
 - name: Когти, Что Настигают
   slug: kogti-chto-nastigayut
   tier: lesser
-  icon: /images/icons/gifts/oborotnichestvo/kogti-chto-nastigayut.webp
+  icon: images/icons/gifts/oborotnichestvo/kogti-chto-nastigayut.webp
   badges:
   - type: act
     text: В свой ход
@@ -73,7 +73,7 @@ gifts:
 - name: Маскарад
   slug: maskarad
   tier: lesser
-  icon: /images/icons/gifts/oborotnichestvo/maskarad.webp
+  icon: images/icons/gifts/oborotnichestvo/maskarad.webp
   badges:
   - type: act
     text: Действие
@@ -89,7 +89,7 @@ gifts:
 - name: Текучее Тело
   slug: tekuchee-telo
   tier: lesser
-  icon: /images/icons/gifts/oborotnichestvo/tekuchee-telo.webp
+  icon: images/icons/gifts/oborotnichestvo/tekuchee-telo.webp
   badges:
   - type: act
     text: Действие
@@ -102,7 +102,7 @@ gifts:
 - name: Величие Внутри
   slug: velichie-vnutri
   tier: greater
-  icon: /images/icons/gifts/oborotnichestvo/velichie-vnutri.webp
+  icon: images/icons/gifts/oborotnichestvo/velichie-vnutri.webp
   badges:
   - type: act
     text: Постоянно
@@ -115,7 +115,7 @@ gifts:
 - name: Ковка Плоти и Кости
   slug: kovka-ploti-i-kosti
   tier: greater
-  icon: /images/icons/gifts/oborotnichestvo/kovka-ploti-i-kosti.webp
+  icon: images/icons/gifts/oborotnichestvo/kovka-ploti-i-kosti.webp
   badges:
   - type: act
     text: Действие
@@ -129,7 +129,7 @@ gifts:
 - name: Обманчивые Лица
   slug: obmanchivye-litsa
   tier: greater
-  icon: /images/icons/gifts/oborotnichestvo/obmanchivye-litsa.webp
+  icon: images/icons/gifts/oborotnichestvo/obmanchivye-litsa.webp
   badges:
   - type: act
     text: Постоянно
@@ -142,7 +142,7 @@ gifts:
 - name: Холодная, Неподвижная Форма
   slug: holodnaya-nepodvizhnaya-forma
   tier: greater
-  icon: /images/icons/gifts/oborotnichestvo/holodnaya-nepodvizhnaya-forma.webp
+  icon: images/icons/gifts/oborotnichestvo/holodnaya-nepodvizhnaya-forma.webp
   badges:
   - type: act
     text: Действие

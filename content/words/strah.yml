@@ -4,7 +4,7 @@ colors:
   glow: '#d79ad0'
   deep: '#20141f'
   dark: '#0c070c'
-icon: /images/icons/words/strah.webp
+icon: images/icons/words/strah.webp
 description: |-
   Обожествлённый Страха — посланник кошмара. Он несёт с собой неотвратимость ужасов и ожидание кошмаров, выжигая на смертных умах муку того, что ещё не случилось, и страх того, что ещё может статься. Даже безмозглые твари откликаются на ужасы, которых не способны по-настоящему осмыслить.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Аура Осязаемого Страха
   slug: aura-osyazaemogo-straha
   tier: lesser
-  icon: /images/icons/gifts/strah/aura-osyazaemogo-straha.webp
+  icon: images/icons/gifts/strah/aura-osyazaemogo-straha.webp
   badges:
   - type: act
     text: Постоянно
@@ -25,7 +25,7 @@ gifts:
 - name: Внушить Страх
   slug: vnushit-strah
   tier: lesser
-  icon: /images/icons/gifts/strah/vnushit-strah.webp
+  icon: images/icons/gifts/strah/vnushit-strah.webp
   badges:
   - type: act
     text: Действие
@@ -40,7 +40,7 @@ gifts:
 - name: Копьё Даймоны
   slug: kope-daymony
   tier: lesser
-  icon: /images/icons/gifts/strah/kope-daymony.webp
+  icon: images/icons/gifts/strah/kope-daymony.webp
   badges:
   - type: act
     text: В свой ход
@@ -52,7 +52,7 @@ gifts:
 - name: Напугать Незваного Гостя
   slug: napugat-nezvanogo-gostya
   tier: lesser
-  icon: /images/icons/gifts/strah/napugat-nezvanogo-gostya.webp
+  icon: images/icons/gifts/strah/napugat-nezvanogo-gostya.webp
   badges:
   - type: act
     text: Действие
@@ -68,7 +68,7 @@ gifts:
 - name: Ощутить Трепет Души
   slug: oschutit-trepet-dushi
   tier: lesser
-  icon: /images/icons/gifts/strah/oschutit-trepet-dushi.webp
+  icon: images/icons/gifts/strah/oschutit-trepet-dushi.webp
   badges:
   - type: act
     text: Действие
@@ -83,7 +83,7 @@ gifts:
 - name: Породить Древний Ужас
   slug: porodit-drevniy-uzhas
   tier: lesser
-  icon: /images/icons/gifts/strah/porodit-drevniy-uzhas.webp
+  icon: images/icons/gifts/strah/porodit-drevniy-uzhas.webp
   badges:
   - type: act
     text: Действие
@@ -101,7 +101,7 @@ gifts:
 - name: Почерневшее Сердце
   slug: pochernevshee-serdtse
   tier: lesser
-  icon: /images/icons/gifts/strah/pochernevshee-serdtse.webp
+  icon: images/icons/gifts/strah/pochernevshee-serdtse.webp
   badges:
   - type: act
     text: Постоянно
@@ -114,7 +114,7 @@ gifts:
 - name: Мантия Наваждения
   slug: mantiya-navazhdeniya
   tier: greater
-  icon: /images/icons/gifts/strah/mantiya-navazhdeniya.webp
+  icon: images/icons/gifts/strah/mantiya-navazhdeniya.webp
   badges:
   - type: act
     text: Действие
@@ -133,7 +133,7 @@ gifts:
 - name: Мать/Отец Невыразимых Ужасов
   slug: mat-otets-nevyrazimyh-uzhasov
   tier: greater
-  icon: /images/icons/gifts/strah/mat-otets-nevyrazimyh-uzhasov.webp
+  icon: images/icons/gifts/strah/mat-otets-nevyrazimyh-uzhasov.webp
   badges:
   - type: act
     text: Действие
@@ -146,7 +146,7 @@ gifts:
 - name: Неотвратимый Кошмар
   slug: neotvratimyy-koshmar
   tier: greater
-  icon: /images/icons/gifts/strah/neotvratimyy-koshmar.webp
+  icon: images/icons/gifts/strah/neotvratimyy-koshmar.webp
   badges:
   - type: act
     text: Действие

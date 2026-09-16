@@ -4,7 +4,7 @@ colors:
   glow: '#c7a97e'
   deep: '#221a12'
   dark: '#0d0a07'
-icon: /images/icons/words/tonneli-anafema.webp
+icon: images/icons/words/tonneli-anafema.webp
 description: |-
   Слово Тоннелей уже Слова Земли и сосредоточено на подземных понятиях: пещерах, тьме, зарытых сокровищах и незрячей жизни. Оно может лепить и придавать форму необработанному камню почти как Слово Земли, но лишено крепости скалы и силы творить великие каменные громады. Взамен оно обретает власть над тьмой внизу, над сокрытыми самоцветами земли и над удушающим ужасом безвоздушной, беспросветной гробницы. Когда оно убивает, оно убивает зловонными парами и смертоносным жаром трещин, что разверзаются на дне мира.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Беспредельная Тьма
   slug: bespredelnaya-tma
   tier: lesser
-  icon: /images/icons/gifts/tonneli-anafema/bespredelnaya-tma.webp
+  icon: images/icons/gifts/tonneli-anafema/bespredelnaya-tma.webp
   badges:
   - type: act
     text: Действие
@@ -30,7 +30,7 @@ gifts:
 - name: Благословение Безглазых
   slug: blagoslovenie-bezglazyh
   tier: lesser
-  icon: /images/icons/gifts/tonneli-anafema/blagoslovenie-bezglazyh.webp
+  icon: images/icons/gifts/tonneli-anafema/blagoslovenie-bezglazyh.webp
   badges:
   - type: act
     text: Постоянно
@@ -44,7 +44,7 @@ gifts:
 - name: Ваятель Пещер
   slug: vayatel-pescher
   tier: lesser
-  icon: /images/icons/gifts/tonneli-anafema/vayatel-pescher.webp
+  icon: images/icons/gifts/tonneli-anafema/vayatel-pescher.webp
   badges:
   - type: act
     text: Действие
@@ -58,7 +58,7 @@ gifts:
 - name: Прорывающий Недра
   slug: proryvayuschiy-nedra
   tier: lesser
-  icon: /images/icons/gifts/tonneli-anafema/proryvayuschiy-nedra.webp
+  icon: images/icons/gifts/tonneli-anafema/proryvayuschiy-nedra.webp
   badges:
   - type: act
     text: Постоянно
@@ -70,7 +70,7 @@ gifts:
 - name: Сокровища Земли
   slug: sokrovischa-zemli
   tier: lesser
-  icon: /images/icons/gifts/tonneli-anafema/sokrovischa-zemli.webp
+  icon: images/icons/gifts/tonneli-anafema/sokrovischa-zemli.webp
   badges:
   - type: act
     text: В свой ход
@@ -83,7 +83,7 @@ gifts:
 - name: Удушающий Ужас
   slug: udushayuschiy-uzhas
   tier: lesser
-  icon: /images/icons/gifts/tonneli-anafema/udushayuschiy-uzhas.webp
+  icon: images/icons/gifts/tonneli-anafema/udushayuschiy-uzhas.webp
   badges:
   - type: act
     text: Действие
@@ -98,7 +98,7 @@ gifts:
 - name: Поглотить Город
   slug: poglotit-gorod
   tier: greater
-  icon: /images/icons/gifts/tonneli-anafema/poglotit-gorod.webp
+  icon: images/icons/gifts/tonneli-anafema/poglotit-gorod.webp
   badges:
   - type: act
     text: Действие
@@ -113,7 +113,7 @@ gifts:
 - name: Стигийский Ветер
   slug: stigiyskiy-veter
   tier: greater
-  icon: /images/icons/gifts/tonneli-anafema/stigiyskiy-veter.webp
+  icon: images/icons/gifts/tonneli-anafema/stigiyskiy-veter.webp
   badges:
   - type: act
     text: Действие
@@ -128,7 +128,7 @@ gifts:
 - name: Хранитель Всего, Что Внизу
   slug: hranitel-vsego-chto-vnizu
   tier: greater
-  icon: /images/icons/gifts/tonneli-anafema/hranitel-vsego-chto-vnizu.webp
+  icon: images/icons/gifts/tonneli-anafema/hranitel-vsego-chto-vnizu.webp
   badges:
   - type: act
     text: Действие

@@ -4,7 +4,7 @@ colors:
   glow: '#f0a2e8'
   deep: '#331434'
   dark: '#140816'
-icon: /images/icons/words/tanets.webp
+icon: images/icons/words/tanets.webp
 description: |-
   Танец — это сила страсти и движения, смысла в самом себе и слов без произнесения. Связанные со Словом Танца могут склонять сердца зрителей и попирать волю тех, кто вздумает им помешать. Впрочем, ту грацию, что это Слово дарует, оно может и отнять.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Выразить Душу
   slug: vyrazit-dushu
   tier: lesser
-  icon: /images/icons/gifts/tanets/vyrazit-dushu.webp
+  icon: images/icons/gifts/tanets/vyrazit-dushu.webp
   badges:
   - type: act
     text: Действие
@@ -26,7 +26,7 @@ gifts:
 - name: Двигаться в Полной Гармонии
   slug: dvigatsya-v-polnoy-garmonii
   tier: lesser
-  icon: /images/icons/gifts/tanets/dvigatsya-v-polnoy-garmonii.webp
+  icon: images/icons/gifts/tanets/dvigatsya-v-polnoy-garmonii.webp
   badges:
   - type: act
     text: Мгновенно
@@ -39,7 +39,7 @@ gifts:
 - name: Идеальный Ритм
   slug: idealnyy-ritm
   tier: lesser
-  icon: /images/icons/gifts/tanets/idealnyy-ritm.webp
+  icon: images/icons/gifts/tanets/idealnyy-ritm.webp
   badges:
   - type: act
     text: Постоянно
@@ -51,7 +51,7 @@ gifts:
 - name: Искусный Уход в Сторону
   slug: iskusnyy-uhod-v-storonu
   tier: lesser
-  icon: /images/icons/gifts/tanets/iskusnyy-uhod-v-storonu.webp
+  icon: images/icons/gifts/tanets/iskusnyy-uhod-v-storonu.webp
   badges:
   - type: act
     text: Мгновенно
@@ -63,7 +63,7 @@ gifts:
 - name: Неземная Грация
   slug: nezemnaya-gratsiya
   tier: lesser
-  icon: /images/icons/gifts/tanets/nezemnaya-gratsiya.webp
+  icon: images/icons/gifts/tanets/nezemnaya-gratsiya.webp
   badges:
   - type: act
     text: В свой ход
@@ -75,7 +75,7 @@ gifts:
 - name: Неудержимая Энергия
   slug: neuderzhimaya-energiya
   tier: lesser
-  icon: /images/icons/gifts/tanets/neuderzhimaya-energiya.webp
+  icon: images/icons/gifts/tanets/neuderzhimaya-energiya.webp
   badges:
   - type: act
     text: Постоянно
@@ -90,7 +90,7 @@ gifts:
 - name: Вневременной Ритм
   slug: vnevremennoy-ritm
   tier: greater
-  icon: /images/icons/gifts/tanets/vnevremennoy-ritm.webp
+  icon: images/icons/gifts/tanets/vnevremennoy-ritm.webp
   badges:
   - type: act
     text: Действие
@@ -106,7 +106,7 @@ gifts:
 - name: Сотрясение Стен
   slug: sotryasenie-sten
   tier: greater
-  icon: /images/icons/gifts/tanets/sotryasenie-sten.webp
+  icon: images/icons/gifts/tanets/sotryasenie-sten.webp
   badges:
   - type: act
     text: Действие
@@ -122,7 +122,7 @@ gifts:
 - name: Танец Ужасающей Славы
   slug: tanets-uzhasayuschey-slavy
   tier: greater
-  icon: /images/icons/gifts/tanets/tanets-uzhasayuschey-slavy.webp
+  icon: images/icons/gifts/tanets/tanets-uzhasayuschey-slavy.webp
   badges:
   - type: act
     text: В свой ход

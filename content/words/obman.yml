@@ -4,7 +4,7 @@ colors:
   glow: '#bfc3e0'
   deep: '#20202c'
   dark: '#0b0b12'
-icon: /images/icons/words/obman.webp
+icon: images/icons/words/obman.webp
 description: |-
   Искусства Обмана — это искусства скрытности, иллюзий и лжи. Искусный плут умеет распознавать подлоги не хуже, чем их творить, и его чудеса могут как навязывать обман чужим умам, так и разоблачать его. Дары скрытности и сокрытия обычно действуют, пока герой избегает внимания и ведёт себя неприметно. Насилие, громкие звуки и появление прямо перед стражей или иными бдительными людьми грозят потерей укрытости.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Безукоризненное Изящество Лжеца
   slug: bezukoriznennoe-izyaschestvo-lzhetsa
   tier: lesser
-  icon: /images/icons/gifts/obman/bezukoriznennoe-izyaschestvo-lzhetsa.webp
+  icon: images/icons/gifts/obman/bezukoriznennoe-izyaschestvo-lzhetsa.webp
   badges:
   - type: act
     text: Постоянно
@@ -25,7 +25,7 @@ gifts:
 - name: Знакомое Лицо
   slug: znakomoe-litso
   tier: lesser
-  icon: /images/icons/gifts/obman/znakomoe-litso.webp
+  icon: images/icons/gifts/obman/znakomoe-litso.webp
   badges:
   - type: act
     text: Действие
@@ -38,7 +38,7 @@ gifts:
 - name: Игра Теней
   slug: igra-teney
   tier: lesser
-  icon: /images/icons/gifts/obman/igra-teney.webp
+  icon: images/icons/gifts/obman/igra-teney.webp
   badges:
   - type: act
     text: Действие
@@ -51,7 +51,7 @@ gifts:
 - name: Идеальный Маскарад
   slug: idealnyy-maskarad
   tier: lesser
-  icon: /images/icons/gifts/obman/idealnyy-maskarad.webp
+  icon: images/icons/gifts/obman/idealnyy-maskarad.webp
   badges:
   - type: act
     text: В свой ход
@@ -64,7 +64,7 @@ gifts:
 - name: Немигающий Глаз Обманщика
   slug: nemigayuschiy-glaz-obmanschika
   tier: lesser
-  icon: /images/icons/gifts/obman/nemigayuschiy-glaz-obmanschika.webp
+  icon: images/icons/gifts/obman/nemigayuschiy-glaz-obmanschika.webp
   badges:
   - type: act
     text: Постоянно
@@ -75,7 +75,7 @@ gifts:
 - name: Скрытый Шаг
   slug: skrytyy-shag
   tier: lesser
-  icon: /images/icons/gifts/obman/skrytyy-shag.webp
+  icon: images/icons/gifts/obman/skrytyy-shag.webp
   badges:
   - type: act
     text: В свой ход
@@ -87,7 +87,7 @@ gifts:
 - name: Непроницаемый Обман
   slug: nepronitsaemyy-obman
   tier: greater
-  icon: /images/icons/gifts/obman/nepronitsaemyy-obman.webp
+  icon: images/icons/gifts/obman/nepronitsaemyy-obman.webp
   badges:
   - type: act
     text: Действие
@@ -101,7 +101,7 @@ gifts:
 - name: Убеждение в Ошибке
   slug: ubezhdenie-v-oshibke
   tier: greater
-  icon: /images/icons/gifts/obman/ubezhdenie-v-oshibke.webp
+  icon: images/icons/gifts/obman/ubezhdenie-v-oshibke.webp
   badges:
   - type: act
     text: Действие
@@ -115,7 +115,7 @@ gifts:
 - name: Ходячий Призрак
   slug: hodyachiy-prizrak
   tier: greater
-  icon: /images/icons/gifts/obman/hodyachiy-prizrak.webp
+  icon: images/icons/gifts/obman/hodyachiy-prizrak.webp
   badges:
   - type: act
     text: В свой ход

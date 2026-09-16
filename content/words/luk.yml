@@ -4,7 +4,7 @@ colors:
   glow: '#bfe0a0'
   deep: '#22301c'
   dark: '#0d1409'
-icon: /images/icons/words/luk.webp
+icon: images/icons/words/luk.webp
 description: |-
   Слово Лука охватывает всех божеств дальнего боя — с луком, метательным копьём, пистолетом, ружьём, брошенным кинжалом или пущенной молнией. Герои с даром «Вездесущая Дальнобойность» могут вовсе не пользоваться физическим оружием, а метать заряды подходящей энергии. Такие заряды могут наносить стихийный урон, если герой связан с соответствующими Словами, а могут быть и физическими ударами сокрушительной божественной силы. Чудеса Лука связаны с невероятно точным уроном на огромных расстояниях либо с проклятием и срывом чужой попытки дальней атаки. Учтите, что преимущества даров Лука распространяются только на снаряды и иное оружие или заряды, вызванные дарами этого Слова. Они не действуют на дальние атаки от других Слов и на магию, которая просто применяется на расстоянии, — например, на дар «Божественный Гнев», доступный всем Словам.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Вездесущая Дальнобойность
   slug: vezdesuschaya-dalnoboynost
   tier: lesser
-  icon: /images/icons/gifts/luk/vezdesuschaya-dalnoboynost.webp
+  icon: images/icons/gifts/luk/vezdesuschaya-dalnoboynost.webp
   badges:
   - type: act
     text: Постоянно
@@ -25,7 +25,7 @@ gifts:
 - name: Ищущий Полёт
   slug: ischuschiy-polet
   tier: lesser
-  icon: /images/icons/gifts/luk/ischuschiy-polet.webp
+  icon: images/icons/gifts/luk/ischuschiy-polet.webp
   badges:
   - type: act
     text: В свой ход
@@ -37,7 +37,7 @@ gifts:
 - name: Никто Не Вне Досягаемости
   slug: nikto-ne-vne-dosyagaemosti
   tier: lesser
-  icon: /images/icons/gifts/luk/nikto-ne-vne-dosyagaemosti.webp
+  icon: images/icons/gifts/luk/nikto-ne-vne-dosyagaemosti.webp
   badges:
   - type: act
     text: Мгновенно
@@ -49,7 +49,7 @@ gifts:
 - name: Оперённая Буря
   slug: operennaya-burya
   tier: lesser
-  icon: /images/icons/gifts/luk/operennaya-burya.webp
+  icon: images/icons/gifts/luk/operennaya-burya.webp
   badges:
   - type: act
     text: В свой ход
@@ -61,7 +61,7 @@ gifts:
 - name: Преградить Алый Спуск
   slug: pregradit-alyy-spusk
   tier: lesser
-  icon: /images/icons/gifts/luk/pregradit-alyy-spusk.webp
+  icon: images/icons/gifts/luk/pregradit-alyy-spusk.webp
   badges:
   - type: act
     text: В свой ход
@@ -73,7 +73,7 @@ gifts:
 - name: Стрела Неодолимого Мастерства
   slug: strela-neodolimogo-masterstva
   tier: lesser
-  icon: /images/icons/gifts/luk/strela-neodolimogo-masterstva.webp
+  icon: images/icons/gifts/luk/strela-neodolimogo-masterstva.webp
   badges:
   - type: act
     text: Мгновенно
@@ -88,7 +88,7 @@ gifts:
 - name: Владыка Всего Падающего
   slug: vladyka-vsego-padayuschego
   tier: greater
-  icon: /images/icons/gifts/luk/vladyka-vsego-padayuschego.webp
+  icon: images/icons/gifts/luk/vladyka-vsego-padayuschego.webp
   badges:
   - type: act
     text: Мгновенно
@@ -102,7 +102,7 @@ gifts:
 - name: Дождь Скорби
   slug: dozhd-skorbi
   tier: greater
-  icon: /images/icons/gifts/luk/dozhd-skorbi.webp
+  icon: images/icons/gifts/luk/dozhd-skorbi.webp
   badges:
   - type: act
     text: В свой ход
@@ -115,7 +115,7 @@ gifts:
 - name: Неумолимое Древко
   slug: neumolimoe-drevko
   tier: greater
-  icon: /images/icons/gifts/luk/neumolimoe-drevko.webp
+  icon: images/icons/gifts/luk/neumolimoe-drevko.webp
   badges:
   - type: act
     text: В свой ход

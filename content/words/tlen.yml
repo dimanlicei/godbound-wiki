@@ -4,7 +4,7 @@ colors:
   glow: '#cbbd7e'
   deep: '#232012'
   dark: '#0e0c07'
-icon: /images/icons/words/tlen.webp
+icon: images/icons/words/tlen.webp
 description: |-
   Обожествлённые Тлена — воплощения беспорядка, хаоса и энтропии. Сталь, тщательные планы и крепкие валы — всё это рассыпается перед волей Обожествлённого. И всё же это Слово не только разрушительно: владеющий Словом Тлена может и отвести его разъедающее влияние от выбранного предмета, сохраняя его в безупречном и противоестественном порядке, пока не отнимет эту милость.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Аура Беспорядка
   slug: aura-besporyadka
   tier: lesser
-  icon: /images/icons/gifts/tlen/aura-besporyadka.webp
+  icon: images/icons/gifts/tlen/aura-besporyadka.webp
   badges:
   - type: act
     text: Действие
@@ -28,7 +28,7 @@ gifts:
 - name: Всё Рассыпается в Прах
   slug: vse-rassypaetsya-v-prah
   tier: lesser
-  icon: /images/icons/gifts/tlen/vse-rassypaetsya-v-prah.webp
+  icon: images/icons/gifts/tlen/vse-rassypaetsya-v-prah.webp
   badges:
   - type: act
     text: Постоянно
@@ -41,7 +41,7 @@ gifts:
 - name: Иссушить Божественную Силу
   slug: issushit-bozhestvennuyu-silu
   tier: lesser
-  icon: /images/icons/gifts/tlen/issushit-bozhestvennuyu-silu.webp
+  icon: images/icons/gifts/tlen/issushit-bozhestvennuyu-silu.webp
   badges:
   - type: act
     text: Мгновенно
@@ -53,7 +53,7 @@ gifts:
 - name: Коснуться Рвущейся Нити
   slug: kosnutsya-rvuscheysya-niti
   tier: lesser
-  icon: /images/icons/gifts/tlen/kosnutsya-rvuscheysya-niti.webp
+  icon: images/icons/gifts/tlen/kosnutsya-rvuscheysya-niti.webp
   badges:
   - type: act
     text: Действие
@@ -68,7 +68,7 @@ gifts:
 - name: Кража Движения
   slug: krazha-dvizheniya
   tier: lesser
-  icon: /images/icons/gifts/tlen/krazha-dvizheniya.webp
+  icon: images/icons/gifts/tlen/krazha-dvizheniya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -81,7 +81,7 @@ gifts:
 - name: Обратить в Прах
   slug: obratit-v-prah
   tier: lesser
-  icon: /images/icons/gifts/tlen/obratit-v-prah.webp
+  icon: images/icons/gifts/tlen/obratit-v-prah.webp
   badges:
   - type: act
     text: Действие
@@ -100,7 +100,7 @@ gifts:
 - name: Остановить Течение Лет
   slug: ostanovit-techenie-let
   tier: lesser
-  icon: /images/icons/gifts/tlen/ostanovit-techenie-let.webp
+  icon: images/icons/gifts/tlen/ostanovit-techenie-let.webp
   badges:
   - type: act
     text: Действие
@@ -114,7 +114,7 @@ gifts:
 - name: Вестник Бабочек
   slug: vestnik-babochek
   tier: greater
-  icon: /images/icons/gifts/tlen/vestnik-babochek.webp
+  icon: images/icons/gifts/tlen/vestnik-babochek.webp
   badges:
   - type: act
     text: Действие
@@ -130,7 +130,7 @@ gifts:
 - name: Незыблемая Поступь
   slug: nezyblemaya-postup
   tier: greater
-  icon: /images/icons/gifts/tlen/nezyblemaya-postup.webp
+  icon: images/icons/gifts/tlen/nezyblemaya-postup.webp
   badges:
   - type: act
     text: В свой ход
@@ -145,7 +145,7 @@ gifts:
 - name: Энтропийная Пиявка
   slug: entropiynaya-piyavka
   tier: greater
-  icon: /images/icons/gifts/tlen/entropiynaya-piyavka.webp
+  icon: images/icons/gifts/tlen/entropiynaya-piyavka.webp
   badges:
   - type: act
     text: Постоянно

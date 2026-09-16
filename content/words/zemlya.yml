@@ -4,7 +4,7 @@ colors:
   glow: '#e0bd82'
   deep: '#2c2114'
   dark: '#110c07'
-icon: /images/icons/words/zemlya.webp
+icon: images/icons/words/zemlya.webp
 description: |-
   Слово Земли даёт власть над камнем и почвой и взывает к твёрдости и неподатливости скалы. Чудеса Земли вращаются вокруг камня, земли, силы, твёрдости и прочности и могут ненадолго даровать эти качества герою или другим. Этим Словом можно уничтожить металл или очистить его из руды, но нельзя лепить его так же, как необработанный камень или почву.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Восстание Земли
   slug: vosstanie-zemli
   tier: lesser
-  icon: /images/icons/gifts/zemlya/vosstanie-zemli.webp
+  icon: images/icons/gifts/zemlya/vosstanie-zemli.webp
   badges:
   - type: act
     text: Действие
@@ -26,7 +26,7 @@ gifts:
 - name: Глаза Ярче Самоцветов
   slug: glaza-yarche-samotsvetov
   tier: lesser
-  icon: /images/icons/gifts/zemlya/glaza-yarche-samotsvetov.webp
+  icon: images/icons/gifts/zemlya/glaza-yarche-samotsvetov.webp
   badges:
   - type: act
     text: В свой ход
@@ -38,7 +38,7 @@ gifts:
 - name: Говорящий с Камнем
   slug: govoryaschiy-s-kamnem
   tier: lesser
-  icon: /images/icons/gifts/zemlya/govoryaschiy-s-kamnem.webp
+  icon: images/icons/gifts/zemlya/govoryaschiy-s-kamnem.webp
   badges:
   - type: act
     text: В свой ход
@@ -51,7 +51,7 @@ gifts:
 - name: Горные Жилы
   slug: gornye-zhily
   tier: lesser
-  icon: /images/icons/gifts/zemlya/gornye-zhily.webp
+  icon: images/icons/gifts/zemlya/gornye-zhily.webp
   badges:
   - type: act
     text: Действие
@@ -63,7 +63,7 @@ gifts:
 - name: Идущий Сквозь Землю
   slug: iduschiy-skvoz-zemlyu
   tier: lesser
-  icon: /images/icons/gifts/zemlya/iduschiy-skvoz-zemlyu.webp
+  icon: images/icons/gifts/zemlya/iduschiy-skvoz-zemlyu.webp
   badges:
   - type: act
     text: В свой ход
@@ -76,7 +76,7 @@ gifts:
 - name: Непреклонность Камня
   slug: nepreklonnost-kamnya
   tier: lesser
-  icon: /images/icons/gifts/zemlya/nepreklonnost-kamnya.webp
+  icon: images/icons/gifts/zemlya/nepreklonnost-kamnya.webp
   badges:
   - type: act
     text: Постоянно
@@ -87,7 +87,7 @@ gifts:
 - name: Дрожь Сердца Мира
   slug: drozh-serdtsa-mira
   tier: greater
-  icon: /images/icons/gifts/zemlya/drozh-serdtsa-mira.webp
+  icon: images/icons/gifts/zemlya/drozh-serdtsa-mira.webp
   badges:
   - type: act
     text: Действие
@@ -100,7 +100,7 @@ gifts:
 - name: Строитель Горных Пиков
   slug: stroitel-gornyh-pikov
   tier: greater
-  icon: /images/icons/gifts/zemlya/stroitel-gornyh-pikov.webp
+  icon: images/icons/gifts/zemlya/stroitel-gornyh-pikov.webp
   badges:
   - type: act
     text: Действие
@@ -115,7 +115,7 @@ gifts:
 - name: Ярость Лавины
   slug: yarost-laviny
   tier: greater
-  icon: /images/icons/gifts/zemlya/yarost-laviny.webp
+  icon: images/icons/gifts/zemlya/yarost-laviny.webp
   badges:
   - type: act
     text: В свой ход

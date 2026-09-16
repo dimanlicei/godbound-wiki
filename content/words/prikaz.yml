@@ -4,7 +4,7 @@ colors:
   glow: '#ffd98f'
   deep: '#332a10'
   dark: '#130f06'
-icon: /images/icons/words/prikaz.webp
+icon: images/icons/words/prikaz.webp
 description: |-
   Слово Приказа говорит о повиновении, предводительстве и власти. Обожествлённый Приказа может принудить других подчиниться его воле и принять его правление, но не может тронуть сердца тех, кем повелевает. Хотя покорённые подданные будут исполнять приказы дотошно и разумно, собственной инициативы они проявлять не станут, если только не разделяют желаний Обожествлённого.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Мудрость Лейтенанта
   slug: mudrost-leytenanta
   tier: lesser
-  icon: /images/icons/gifts/prikaz/mudrost-leytenanta.webp
+  icon: images/icons/gifts/prikaz/mudrost-leytenanta.webp
   badges:
   - type: act
     text: Действие
@@ -27,7 +27,7 @@ gifts:
 - name: Преданное Сердце Солдата
   slug: predannoe-serdtse-soldata
   tier: lesser
-  icon: /images/icons/gifts/prikaz/predannoe-serdtse-soldata.webp
+  icon: images/icons/gifts/prikaz/predannoe-serdtse-soldata.webp
   badges:
   - type: act
     text: Постоянно
@@ -41,7 +41,7 @@ gifts:
 - name: Сердца и Умы
   slug: serdtsa-i-umy
   tier: lesser
-  icon: /images/icons/gifts/prikaz/serdtsa-i-umy.webp
+  icon: images/icons/gifts/prikaz/serdtsa-i-umy.webp
   badges:
   - type: act
     text: В свой ход
@@ -53,7 +53,7 @@ gifts:
 - name: Стража! Взять его!
   slug: strazha-vzyat-ego
   tier: lesser
-  icon: /images/icons/gifts/prikaz/strazha-vzyat-ego.webp
+  icon: images/icons/gifts/prikaz/strazha-vzyat-ego.webp
   badges:
   - type: act
     text: Действие
@@ -67,7 +67,7 @@ gifts:
 - name: Тысяча Верных Воинов
   slug: tysyacha-vernyh-voinov
   tier: lesser
-  icon: /images/icons/gifts/prikaz/tysyacha-vernyh-voinov.webp
+  icon: images/icons/gifts/prikaz/tysyacha-vernyh-voinov.webp
   badges:
   - type: act
     text: Действие
@@ -80,7 +80,7 @@ gifts:
 - name: Цепь Подчинения
   slug: tsep-podchineniya
   tier: lesser
-  icon: /images/icons/gifts/prikaz/tsep-podchineniya.webp
+  icon: images/icons/gifts/prikaz/tsep-podchineniya.webp
   badges:
   - type: act
     text: В свой ход
@@ -95,7 +95,7 @@ gifts:
 - name: Непобедимый Железный Генерал
   slug: nepobedimyy-zheleznyy-general
   tier: greater
-  icon: /images/icons/gifts/prikaz/nepobedimyy-zheleznyy-general.webp
+  icon: images/icons/gifts/prikaz/nepobedimyy-zheleznyy-general.webp
   badges:
   - type: act
     text: Постоянно
@@ -107,7 +107,7 @@ gifts:
 - name: Носитель Алой Короны
   slug: nositel-aloy-korony
   tier: greater
-  icon: /images/icons/gifts/prikaz/nositel-aloy-korony.webp
+  icon: images/icons/gifts/prikaz/nositel-aloy-korony.webp
   badges:
   - type: act
     text: Постоянно
@@ -121,7 +121,7 @@ gifts:
 - name: Порабощающий Крик
   slug: poraboschayuschiy-krik
   tier: greater
-  icon: /images/icons/gifts/prikaz/poraboschayuschiy-krik.webp
+  icon: images/icons/gifts/prikaz/poraboschayuschiy-krik.webp
   badges:
   - type: act
     text: Действие

@@ -4,7 +4,7 @@ colors:
   glow: '#c9a4ff'
   deep: '#221338'
   dark: '#0c0718'
-icon: /images/icons/words/koldovstvo.webp
+icon: images/icons/words/koldovstvo.webp
 description: |-
   Колдовство — необычное Слово, воплощающее связь с основополагающими законами мироздания и глубокими, неявными тайнами их работы. У Колдовства нет собственных чудес, и само по себе оно не может создавать эффекты или подражать своим дарам. Вместо этого владение его дарами позволяет Обожествлённому применять гибкие и мощные силы теургии.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Адепт Врат
   slug: adept-vrat
   tier: lesser
-  icon: /images/icons/gifts/koldovstvo/adept-vrat.webp
+  icon: images/icons/gifts/koldovstvo/adept-vrat.webp
   badges:
   - type: act
     text: Постоянно
@@ -25,7 +25,7 @@ gifts:
 - name: Безупречная Пауза
   slug: bezuprechnaya-pauza
   tier: lesser
-  icon: /images/icons/gifts/koldovstvo/bezuprechnaya-pauza.webp
+  icon: images/icons/gifts/koldovstvo/bezuprechnaya-pauza.webp
   badges:
   - type: act
     text: Мгновенно
@@ -39,7 +39,7 @@ gifts:
 - name: Большая Павеза Власти
   slug: bolshaya-paveza-vlasti
   tier: lesser
-  icon: /images/icons/gifts/koldovstvo/bolshaya-paveza-vlasti.webp
+  icon: images/icons/gifts/koldovstvo/bolshaya-paveza-vlasti.webp
   badges:
   - type: act
     text: Действие
@@ -51,7 +51,7 @@ gifts:
 - name: Гнев Колдуна
   slug: gnev-kolduna
   tier: lesser
-  icon: /images/icons/gifts/koldovstvo/gnev-kolduna.webp
+  icon: images/icons/gifts/koldovstvo/gnev-kolduna.webp
   badges:
   - type: act
     text: Мгновенно
@@ -63,7 +63,7 @@ gifts:
 - name: Обжигающая Воля
   slug: obzhigayuschaya-volya
   tier: lesser
-  icon: /images/icons/gifts/koldovstvo/obzhigayuschaya-volya.webp
+  icon: images/icons/gifts/koldovstvo/obzhigayuschaya-volya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -75,7 +75,7 @@ gifts:
 - name: Проницательный Глаз Знания
   slug: pronitsatelnyy-glaz-znaniya
   tier: lesser
-  icon: /images/icons/gifts/koldovstvo/pronitsatelnyy-glaz-znaniya.webp
+  icon: images/icons/gifts/koldovstvo/pronitsatelnyy-glaz-znaniya.webp
   badges:
   - type: act
     text: В свой ход
@@ -88,7 +88,7 @@ gifts:
 - name: Совершенство Понимания
   slug: sovershenstvo-ponimaniya
   tier: lesser
-  icon: /images/icons/gifts/koldovstvo/sovershenstvo-ponimaniya.webp
+  icon: images/icons/gifts/koldovstvo/sovershenstvo-ponimaniya.webp
   badges:
   - type: act
     text: Постоянно
@@ -103,7 +103,7 @@ gifts:
 - name: Адепт Пути
   slug: adept-puti
   tier: greater
-  icon: /images/icons/gifts/koldovstvo/adept-puti.webp
+  icon: images/icons/gifts/koldovstvo/adept-puti.webp
   badges:
   - type: act
     text: Постоянно
@@ -115,7 +115,7 @@ gifts:
 - name: Адепт Трона
   slug: adept-trona
   tier: greater
-  icon: /images/icons/gifts/koldovstvo/adept-trona.webp
+  icon: images/icons/gifts/koldovstvo/adept-trona.webp
   badges:
   - type: act
     text: Постоянно
@@ -127,7 +127,7 @@ gifts:
 - name: Повелитель Меньших Путей
   slug: povelitel-menshih-putey
   tier: greater
-  icon: /images/icons/gifts/koldovstvo/povelitel-menshih-putey.webp
+  icon: images/icons/gifts/koldovstvo/povelitel-menshih-putey.webp
   badges:
   - type: act
     text: Постоянно

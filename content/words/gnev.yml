@@ -4,14 +4,14 @@ colors:
   glow: '#ff8a6b'
   deep: '#3d0f0f'
   dark: '#150404'
-icon: /images/icons/words/gnev.webp
+icon: images/icons/words/gnev.webp
 description: 'Слово Греха: Гнев. Поднимите Силу или Телосложение до 18. Раз в сцену вы можете восстановить
   хп, равное уровню персонажа, ваши атаки одноручным оружием наносят 1d10, а двуручным — 1d12.'
 gifts:
 - name: Безумная ярость
   slug: bezumnaya-yarost
   tier: lesser
-  icon: /images/icons/gifts/gnev/bezumnaya-yarost.webp
+  icon: images/icons/gifts/gnev/bezumnaya-yarost.webp
   badges:
   - type: act
     text: Действие
@@ -23,7 +23,7 @@ gifts:
 - name: Гремящая ярость
   slug: gremyaschaya-yarost
   tier: lesser
-  icon: /images/icons/gifts/gnev/gremyaschaya-yarost.webp
+  icon: images/icons/gifts/gnev/gremyaschaya-yarost.webp
   badges:
   - type: act
     text: Постоянно
@@ -35,7 +35,7 @@ gifts:
 - name: Потаённая ненависть
   slug: potaennaya-nenavist
   tier: lesser
-  icon: /images/icons/gifts/gnev/potaennaya-nenavist.webp
+  icon: images/icons/gifts/gnev/potaennaya-nenavist.webp
   badges:
   - type: act
     text: В свой ход
@@ -47,7 +47,7 @@ gifts:
 - name: Распирающая злоба
   slug: raspirayuschaya-zloba
   tier: lesser
-  icon: /images/icons/gifts/gnev/raspirayuschaya-zloba.webp
+  icon: images/icons/gifts/gnev/raspirayuschaya-zloba.webp
   badges:
   - type: eff
     text: 'Усилие: по желанию'
@@ -57,7 +57,7 @@ gifts:
 - name: Расплата
   slug: rasplata
   tier: lesser
-  icon: /images/icons/gifts/gnev/rasplata.webp
+  icon: images/icons/gifts/gnev/rasplata.webp
   badges:
   - type: act
     text: Действие
@@ -68,7 +68,7 @@ gifts:
 - name: Стена гнева
   slug: stena-gneva
   tier: lesser
-  icon: /images/icons/gifts/gnev/stena-gneva.webp
+  icon: images/icons/gifts/gnev/stena-gneva.webp
   badges:
   - type: act
     text: Постоянно
@@ -79,7 +79,7 @@ gifts:
 - name: Икона гнева
   slug: ikona-gneva
   tier: greater
-  icon: /images/icons/gifts/gnev/ikona-gneva.webp
+  icon: images/icons/gifts/gnev/ikona-gneva.webp
   badges:
   - type: eff
     text: 'Усилие: день'
@@ -92,7 +92,7 @@ gifts:
 - name: Нечестивая кара
   slug: nechestivaya-kara
   tier: greater
-  icon: /images/icons/gifts/gnev/nechestivaya-kara.webp
+  icon: images/icons/gifts/gnev/nechestivaya-kara.webp
   badges:
   - type: act
     text: Действие
@@ -107,7 +107,7 @@ gifts:
 - name: Таран ада
   slug: taran-ada
   tier: greater
-  icon: /images/icons/gifts/gnev/taran-ada.webp
+  icon: images/icons/gifts/gnev/taran-ada.webp
   badges:
   - type: eff
     text: 'Усилие: день'
@@ -119,7 +119,7 @@ gifts:
 - name: Тысяча столпов силы
   slug: tysyacha-stolpov-sily
   tier: greater
-  icon: /images/icons/gifts/gnev/tysyacha-stolpov-sily.webp
+  icon: images/icons/gifts/gnev/tysyacha-stolpov-sily.webp
   badges:
   - type: act
     text: Мгновенно

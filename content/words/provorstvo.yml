@@ -4,7 +4,7 @@ colors:
   glow: '#8fe6d4'
   deep: '#16302c'
   dark: '#071412'
-icon: /images/icons/words/provorstvo.webp
+icon: images/icons/words/provorstvo.webp
 description: |-
   Слово Проворства дарует дары стремительности и невозможного изящества. Чудеса этой силы могут заключаться в том, чтобы выполнить некую задачу за считанные мгновения, уйти от иначе неотвратимой опасности или отозваться на событие прежде, чем его виновник вообще успеет начать. Впрочем, Проворство — это не Странствие, и его перемещения обычно ограничены одним конкретным местом или коротким расстоянием, а не быстрым переносом между далёкими краями.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Буря Разражается
   slug: burya-razrazhaetsya
   tier: lesser
-  icon: /images/icons/gifts/provorstvo/burya-razrazhaetsya.webp
+  icon: images/icons/gifts/provorstvo/burya-razrazhaetsya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -26,7 +26,7 @@ gifts:
 - name: Быстрее Солнца
   slug: bystree-solntsa
   tier: lesser
-  icon: /images/icons/gifts/provorstvo/bystree-solntsa.webp
+  icon: images/icons/gifts/provorstvo/bystree-solntsa.webp
   badges:
   - type: act
     text: В свой ход
@@ -39,7 +39,7 @@ gifts:
 - name: Все Направления как Одно
   slug: vse-napravleniya-kak-odno
   tier: lesser
-  icon: /images/icons/gifts/provorstvo/vse-napravleniya-kak-odno.webp
+  icon: images/icons/gifts/provorstvo/vse-napravleniya-kak-odno.webp
   badges:
   - type: act
     text: Постоянно
@@ -51,7 +51,7 @@ gifts:
 - name: Мерцающее Продвижение
   slug: mertsayuschee-prodvizhenie
   tier: lesser
-  icon: /images/icons/gifts/provorstvo/mertsayuschee-prodvizhenie.webp
+  icon: images/icons/gifts/provorstvo/mertsayuschee-prodvizhenie.webp
   badges:
   - type: act
     text: В свой ход
@@ -63,7 +63,7 @@ gifts:
 - name: Прогулка Между Каплями Дождя
   slug: progulka-mezhdu-kaplyami-dozhdya
   tier: lesser
-  icon: /images/icons/gifts/provorstvo/progulka-mezhdu-kaplyami-dozhdya.webp
+  icon: images/icons/gifts/provorstvo/progulka-mezhdu-kaplyami-dozhdya.webp
   badges:
   - type: act
     text: Постоянно
@@ -76,7 +76,7 @@ gifts:
 - name: Туман над Водой
   slug: tuman-nad-vodoy
   tier: lesser
-  icon: /images/icons/gifts/provorstvo/tuman-nad-vodoy.webp
+  icon: images/icons/gifts/provorstvo/tuman-nad-vodoy.webp
   badges:
   - type: act
     text: В свой ход
@@ -90,7 +90,7 @@ gifts:
 - name: Быстрее Мысли
   slug: bystree-mysli
   tier: greater
-  icon: /images/icons/gifts/provorstvo/bystree-mysli.webp
+  icon: images/icons/gifts/provorstvo/bystree-mysli.webp
   badges:
   - type: act
     text: Мгновенно
@@ -105,7 +105,7 @@ gifts:
 - name: Всеохватывающее Присутствие
   slug: vseohvatyvayuschee-prisutstvie
   tier: greater
-  icon: /images/icons/gifts/provorstvo/vseohvatyvayuschee-prisutstvie.webp
+  icon: images/icons/gifts/provorstvo/vseohvatyvayuschee-prisutstvie.webp
   badges:
   - type: act
     text: В свой ход
@@ -117,7 +117,7 @@ gifts:
 - name: Неприкасаемый
   slug: neprikasaemyy
   tier: greater
-  icon: /images/icons/gifts/provorstvo/neprikasaemyy.webp
+  icon: images/icons/gifts/provorstvo/neprikasaemyy.webp
   badges:
   - type: act
     text: Мгновенно

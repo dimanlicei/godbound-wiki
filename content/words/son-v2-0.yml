@@ -4,7 +4,7 @@ colors:
   glow: '#c0aeff'
   deep: '#221a3a'
   dark: '#0d0819'
-icon: /images/icons/words/son-v2-0.webp
+icon: images/icons/words/son-v2-0.webp
 description: |-
   Слово Снов властвует над сном и сновидениями. Оно заставляет других погружаться в воодушевляющие сны, которые длятся долго или терзают жертву бесконечными кошмарами.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Мастер снов
   slug: master-snov
   tier: lesser
-  icon: /images/icons/gifts/son-v2-0/master-snov.webp
+  icon: images/icons/gifts/son-v2-0/master-snov.webp
   badges:
   - type: act
     text: Постоянно
@@ -25,7 +25,7 @@ gifts:
 - name: Песочный человек
   slug: pesochnyy-chelovek
   tier: lesser
-  icon: /images/icons/gifts/son-v2-0/pesochnyy-chelovek.webp
+  icon: images/icons/gifts/son-v2-0/pesochnyy-chelovek.webp
   badges:
   - type: act
     text: Действие
@@ -39,7 +39,7 @@ gifts:
 - name: Путеводитель сомнамбулы
   slug: putevoditel-somnambuly
   tier: lesser
-  icon: /images/icons/gifts/son-v2-0/putevoditel-somnambuly.webp
+  icon: images/icons/gifts/son-v2-0/putevoditel-somnambuly.webp
   badges:
   - type: act
     text: Действие
@@ -53,7 +53,7 @@ gifts:
 - name: Разговоры во сне
   slug: razgovory-vo-sne
   tier: lesser
-  icon: /images/icons/gifts/son-v2-0/razgovory-vo-sne.webp
+  icon: images/icons/gifts/son-v2-0/razgovory-vo-sne.webp
   badges:
   - type: act
     text: Действие
@@ -65,7 +65,7 @@ gifts:
 - name: Ты не можешь умереть во сне
   slug: ty-ne-mozhesh-umeret-vo-sne
   tier: lesser
-  icon: /images/icons/gifts/son-v2-0/ty-ne-mozhesh-umeret-vo-sne.webp
+  icon: images/icons/gifts/son-v2-0/ty-ne-mozhesh-umeret-vo-sne.webp
   badges:
   - type: act
     text: Постоянно
@@ -78,7 +78,7 @@ gifts:
 - name: Увидеть спящий разум
   slug: uvidet-spyaschiy-razum
   tier: lesser
-  icon: /images/icons/gifts/son-v2-0/uvidet-spyaschiy-razum.webp
+  icon: images/icons/gifts/son-v2-0/uvidet-spyaschiy-razum.webp
   badges:
   - type: act
     text: Действие
@@ -89,7 +89,7 @@ gifts:
 - name: Целебный сон
   slug: tselebnyy-son
   tier: lesser
-  icon: /images/icons/gifts/son-v2-0/tselebnyy-son.webp
+  icon: images/icons/gifts/son-v2-0/tselebnyy-son.webp
   badges:
   - type: act
     text: Действие
@@ -100,7 +100,7 @@ gifts:
 - name: Вечный сон
   slug: vechnyy-son
   tier: greater
-  icon: /images/icons/gifts/son-v2-0/vechnyy-son.webp
+  icon: images/icons/gifts/son-v2-0/vechnyy-son.webp
   badges:
   - type: act
     text: Действие
@@ -113,7 +113,7 @@ gifts:
 - name: Мечты, ставшие явью
   slug: mechty-stavshie-yavyu
   tier: greater
-  icon: /images/icons/gifts/son-v2-0/mechty-stavshie-yavyu.webp
+  icon: images/icons/gifts/son-v2-0/mechty-stavshie-yavyu.webp
   badges:
   - type: act
     text: Действие
@@ -131,7 +131,7 @@ gifts:
 - name: Сноходец
   slug: snohodets
   tier: greater
-  icon: /images/icons/gifts/son-v2-0/snohodets.webp
+  icon: images/icons/gifts/son-v2-0/snohodets.webp
   badges:
   - type: act
     text: Действие

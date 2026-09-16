@@ -4,13 +4,13 @@ colors:
   glow: '#b6f07a'
   deep: '#173312'
   dark: '#081507'
-icon: /images/icons/words/sliz.webp
+icon: images/icons/words/sliz.webp
 description: ''
 gifts:
 - name: Живые кусочки
   slug: zhivye-kusochki
   tier: lesser
-  icon: /images/icons/gifts/sliz/zhivye-kusochki.webp
+  icon: images/icons/gifts/sliz/zhivye-kusochki.webp
   badges:
   - type: eff
     text: 'Усилие: по желанию'
@@ -21,7 +21,7 @@ gifts:
 - name: Изменчивая форма
   slug: izmenchivaya-forma
   tier: lesser
-  icon: /images/icons/gifts/sliz/izmenchivaya-forma.webp
+  icon: images/icons/gifts/sliz/izmenchivaya-forma.webp
   badges:
   - type: act
     text: Действие
@@ -33,7 +33,7 @@ gifts:
 - name: Корка стихий
   slug: korka-stihiy
   tier: lesser
-  icon: /images/icons/gifts/sliz/korka-stihiy.webp
+  icon: images/icons/gifts/sliz/korka-stihiy.webp
   badges:
   - type: act
     text: Мгновенно
@@ -44,7 +44,7 @@ gifts:
 - name: Обед!
   slug: obed
   tier: lesser
-  icon: /images/icons/gifts/sliz/obed.webp
+  icon: images/icons/gifts/sliz/obed.webp
   badges:
   - type: eff
     text: 'Усилие: по желанию'
@@ -53,7 +53,7 @@ gifts:
 - name: Тело слизи
   slug: telo-slizi
   tier: lesser
-  icon: /images/icons/gifts/sliz/telo-slizi.webp
+  icon: images/icons/gifts/sliz/telo-slizi.webp
   badges:
   - type: act
     text: Постоянно
@@ -66,7 +66,7 @@ gifts:
 - name: Большой Блоппа
   slug: bolshoy-bloppa
   tier: greater
-  icon: /images/icons/gifts/sliz/bolshoy-bloppa.webp
+  icon: images/icons/gifts/sliz/bolshoy-bloppa.webp
   badges:
   - type: eff
     text: 'Усилие: день'
@@ -75,7 +75,7 @@ gifts:
 - name: Насильная дегидрация
   slug: nasilnaya-degidratsiya
   tier: greater
-  icon: /images/icons/gifts/sliz/nasilnaya-degidratsiya.webp
+  icon: images/icons/gifts/sliz/nasilnaya-degidratsiya.webp
   badges:
   - type: act
     text: Действие
@@ -90,7 +90,7 @@ gifts:
 - name: Симбиоз
   slug: simbioz
   tier: greater
-  icon: /images/icons/gifts/sliz/simbioz.webp
+  icon: images/icons/gifts/sliz/simbioz.webp
   badges:
   - type: act
     text: Постоянно

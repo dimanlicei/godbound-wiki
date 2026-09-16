@@ -4,7 +4,7 @@ colors:
   glow: '#ffc07f'
   deep: '#312414'
   dark: '#130e08'
-icon: /images/icons/words/mosch.webp
+icon: images/icons/words/mosch.webp
 description: |-
   Первобытная сила воплощена в Слове Мощи. Многие воинственные Обожествлённые сильны, но Обожествлённый Мощи превосходит их всех в чистой телесной силе и может творить чудеса поднятия, метания и ломания вещей голыми руками. Он также способен благословлять союзников схожей милостью силы, хотя обычно для определённых действий или испытаний, а не как постоянную прибавку к их способностям.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Всплеск Силы
   slug: vsplesk-sily
   tier: lesser
-  icon: /images/icons/gifts/mosch/vsplesk-sily.webp
+  icon: images/icons/gifts/mosch/vsplesk-sily.webp
   badges:
   - type: act
     text: Мгновенно
@@ -25,7 +25,7 @@ gifts:
 - name: Кулаки Чёрного Железа
   slug: kulaki-chernogo-zheleza
   tier: lesser
-  icon: /images/icons/gifts/mosch/kulaki-chernogo-zheleza.webp
+  icon: images/icons/gifts/mosch/kulaki-chernogo-zheleza.webp
   badges:
   - type: act
     text: Постоянно
@@ -37,7 +37,7 @@ gifts:
 - name: Падение Горы
   slug: padenie-gory
   tier: lesser
-  icon: /images/icons/gifts/mosch/padenie-gory.webp
+  icon: images/icons/gifts/mosch/padenie-gory.webp
   badges:
   - type: act
     text: Действие
@@ -50,7 +50,7 @@ gifts:
 - name: Плечи Шириною в Мир
   slug: plechi-shirinoyu-v-mir
   tier: lesser
-  icon: /images/icons/gifts/mosch/plechi-shirinoyu-v-mir.webp
+  icon: images/icons/gifts/mosch/plechi-shirinoyu-v-mir.webp
   badges:
   - type: act
     text: В свой ход
@@ -62,7 +62,7 @@ gifts:
 - name: Сила Без Меры
   slug: sila-bez-mery
   tier: lesser
-  icon: /images/icons/gifts/mosch/sila-bez-mery.webp
+  icon: images/icons/gifts/mosch/sila-bez-mery.webp
   badges:
   - type: act
     text: Постоянно
@@ -75,7 +75,7 @@ gifts:
 - name: Удар Падающего Метеора
   slug: udar-padayuschego-meteora
   tier: lesser
-  icon: /images/icons/gifts/mosch/udar-padayuschego-meteora.webp
+  icon: images/icons/gifts/mosch/udar-padayuschego-meteora.webp
   badges:
   - type: act
     text: Действие
@@ -92,7 +92,7 @@ gifts:
 - name: Жилы Богов
   slug: zhily-bogov
   tier: greater
-  icon: /images/icons/gifts/mosch/zhily-bogov.webp
+  icon: images/icons/gifts/mosch/zhily-bogov.webp
   badges:
   - type: act
     text: Постоянно
@@ -105,7 +105,7 @@ gifts:
 - name: Перепрыгнуть Луну
   slug: pereprygnut-lunu
   tier: greater
-  icon: /images/icons/gifts/mosch/pereprygnut-lunu.webp
+  icon: images/icons/gifts/mosch/pereprygnut-lunu.webp
   badges:
   - type: act
     text: В свой ход
@@ -118,7 +118,7 @@ gifts:
 - name: Расшатать Богу Зубы
   slug: rasshatat-bogu-zuby
   tier: greater
-  icon: /images/icons/gifts/mosch/rasshatat-bogu-zuby.webp
+  icon: images/icons/gifts/mosch/rasshatat-bogu-zuby.webp
   badges:
   - type: act
     text: Действие

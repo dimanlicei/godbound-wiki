@@ -4,7 +4,7 @@ colors:
   glow: '#ffcf63'
   deep: '#332807'
   dark: '#130e03'
-icon: /images/icons/words/alchnost.webp
+icon: images/icons/words/alchnost.webp
 description: 'Слово Греха: Алчность. Несмотря на то что алчность тяжело отличима от других грехов по своему
   смыслу, такое не стоит говорить демонам, что стали гонцами этого греха, ведь каждый из них знает это
   рвущее желание иметь всё лишь для себя без капли милосердия для других, без крохи благочестия для всех
@@ -15,7 +15,7 @@ gifts:
 - name: Без Жалости
   slug: bez-zhalosti
   tier: lesser
-  icon: /images/icons/gifts/alchnost/bez-zhalosti.webp
+  icon: images/icons/gifts/alchnost/bez-zhalosti.webp
   badges:
   - type: act
     text: Мгновенно
@@ -27,7 +27,7 @@ gifts:
 - name: Безжалостная Страсть
   slug: bezzhalostnaya-strast
   tier: lesser
-  icon: /images/icons/gifts/alchnost/bezzhalostnaya-strast.webp
+  icon: images/icons/gifts/alchnost/bezzhalostnaya-strast.webp
   badges:
   - type: act
     text: Действие
@@ -42,7 +42,7 @@ gifts:
 - name: Гончая Черного Рынка
   slug: gonchaya-chernogo-rynka
   tier: lesser
-  icon: /images/icons/gifts/alchnost/gonchaya-chernogo-rynka.webp
+  icon: images/icons/gifts/alchnost/gonchaya-chernogo-rynka.webp
   badges:
   - type: act
     text: Постоянно
@@ -56,7 +56,7 @@ gifts:
 - name: Дьявольская Сделка
   slug: dyavolskaya-sdelka
   tier: lesser
-  icon: /images/icons/gifts/alchnost/dyavolskaya-sdelka.webp
+  icon: images/icons/gifts/alchnost/dyavolskaya-sdelka.webp
   badges:
   - type: act
     text: Постоянно
@@ -69,7 +69,7 @@ gifts:
 - name: Жабий Резерв
   slug: zhabiy-rezerv
   tier: lesser
-  icon: /images/icons/gifts/alchnost/zhabiy-rezerv.webp
+  icon: images/icons/gifts/alchnost/zhabiy-rezerv.webp
   badges:
   - type: act
     text: Постоянно
@@ -81,7 +81,7 @@ gifts:
 - name: Клад чахнущего Змея
   slug: klad-chahnuschego-zmeya
   tier: lesser
-  icon: /images/icons/gifts/alchnost/klad-chahnuschego-zmeya.webp
+  icon: images/icons/gifts/alchnost/klad-chahnuschego-zmeya.webp
   badges:
   - type: act
     text: Постоянно
@@ -95,7 +95,7 @@ gifts:
 - name: Вор Асклепия
   slug: vor-asklepiya
   tier: greater
-  icon: /images/icons/gifts/alchnost/vor-asklepiya.webp
+  icon: images/icons/gifts/alchnost/vor-asklepiya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -109,7 +109,7 @@ gifts:
 - name: Златое Руно
   slug: zlatoe-runo
   tier: greater
-  icon: /images/icons/gifts/alchnost/zlatoe-runo.webp
+  icon: images/icons/gifts/alchnost/zlatoe-runo.webp
   badges:
   - type: eff
     text: Без Усилия
@@ -121,7 +121,7 @@ gifts:
 - name: Мастерство Мародёра
   slug: masterstvo-marodera
   tier: greater
-  icon: /images/icons/gifts/alchnost/masterstvo-marodera.webp
+  icon: images/icons/gifts/alchnost/masterstvo-marodera.webp
   badges:
   - type: act
     text: Действие

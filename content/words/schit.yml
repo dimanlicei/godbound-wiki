@@ -4,7 +4,7 @@ colors:
   glow: '#a6cbe6'
   deep: '#1a2836'
   dark: '#0a1017'
-icon: /images/icons/words/schit.webp
+icon: images/icons/words/schit.webp
 description: |-
   Слово Щита по природе своей прежде всего защитное, хотя может обрушить Божественный Гнев, как и любое другое Слово. Его обереги отражают и физический, и неосязаемый урон, но такие неуязвимые защиты редко предназначены для охраны самого Обожествлённого.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Вечная Бдительность
   slug: vechnaya-bditelnost
   tier: lesser
-  icon: /images/icons/gifts/schit/vechnaya-bditelnost.webp
+  icon: images/icons/gifts/schit/vechnaya-bditelnost.webp
   badges:
   - type: act
     text: Постоянно
@@ -27,7 +27,7 @@ gifts:
 - name: Готовность к Удару
   slug: gotovnost-k-udaru
   tier: lesser
-  icon: /images/icons/gifts/schit/gotovnost-k-udaru.webp
+  icon: images/icons/gifts/schit/gotovnost-k-udaru.webp
   badges:
   - type: act
     text: В свой ход
@@ -39,7 +39,7 @@ gifts:
 - name: Защитник Городов
   slug: zaschitnik-gorodov
   tier: lesser
-  icon: /images/icons/gifts/schit/zaschitnik-gorodov.webp
+  icon: images/icons/gifts/schit/zaschitnik-gorodov.webp
   badges:
   - type: act
     text: Мгновенно
@@ -54,7 +54,7 @@ gifts:
 - name: Оградить Стены
   slug: ogradit-steny
   tier: lesser
-  icon: /images/icons/gifts/schit/ogradit-steny.webp
+  icon: images/icons/gifts/schit/ogradit-steny.webp
   badges:
   - type: act
     text: Действие
@@ -71,7 +71,7 @@ gifts:
 - name: Освящённый Щит
   slug: osvyaschennyy-schit
   tier: lesser
-  icon: /images/icons/gifts/schit/osvyaschennyy-schit.webp
+  icon: images/icons/gifts/schit/osvyaschennyy-schit.webp
   badges:
   - type: act
     text: Действие
@@ -85,7 +85,7 @@ gifts:
 - name: Священный Эгид
   slug: svyaschennyy-egid
   tier: lesser
-  icon: /images/icons/gifts/schit/svyaschennyy-egid.webp
+  icon: images/icons/gifts/schit/svyaschennyy-egid.webp
   badges:
   - type: act
     text: Мгновенно
@@ -99,7 +99,7 @@ gifts:
 - name: Изменчивые Обереги
   slug: izmenchivye-oberegi
   tier: greater
-  icon: /images/icons/gifts/schit/izmenchivye-oberegi.webp
+  icon: images/icons/gifts/schit/izmenchivye-oberegi.webp
   badges:
   - type: act
     text: В свой ход
@@ -117,7 +117,7 @@ gifts:
 - name: Несокрушимый Страж
   slug: nesokrushimyy-strazh
   tier: greater
-  icon: /images/icons/gifts/schit/nesokrushimyy-strazh.webp
+  icon: images/icons/gifts/schit/nesokrushimyy-strazh.webp
   badges:
   - type: act
     text: Мгновенно
@@ -131,7 +131,7 @@ gifts:
 - name: Отведённое Бедствие
   slug: otvedennoe-bedstvie
   tier: greater
-  icon: /images/icons/gifts/schit/otvedennoe-bedstvie.webp
+  icon: images/icons/gifts/schit/otvedennoe-bedstvie.webp
   badges:
   - type: act
     text: Действие

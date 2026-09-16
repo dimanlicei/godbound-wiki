@@ -4,7 +4,7 @@ colors:
   glow: '#c8c8e4'
   deep: '#242433'
   dark: '#0e0e16'
-icon: /images/icons/words/vremya.webp
+icon: images/icons/words/vremya.webp
 description: |-
   Время — сложное Слово, правящее событиями прошлого и будущего. Хотя временные дары часто позволяют видеть будущее, эти исходы не предрешены. Предсказания можно опрокинуть событиями и решениями, хотя некоторые дары Времени позволяют владельцу закрепить будущее наверняка — если только его волю не пересилит более могучая власть. Чудеса Времени могут менять прошлое и переписывать бывшие события, но обычно приходится работать с определёнными событиями, а не просто предписывать целый пласт истории. Временные ухищрения не могут убивать людей и стирать вещи великой оккультной силы, но могут изменить, как разворачивались прошлые события.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Взгляд в Будущее
   slug: vzglyad-v-buduschee
   tier: lesser
-  icon: /images/icons/gifts/vremya/vzglyad-v-buduschee.webp
+  icon: images/icons/gifts/vremya/vzglyad-v-buduschee.webp
   badges:
   - type: act
     text: Действие
@@ -25,7 +25,7 @@ gifts:
 - name: Мгновенное Предвидение
   slug: mgnovennoe-predvidenie
   tier: lesser
-  icon: /images/icons/gifts/vremya/mgnovennoe-predvidenie.webp
+  icon: images/icons/gifts/vremya/mgnovennoe-predvidenie.webp
   badges:
   - type: act
     text: Постоянно
@@ -36,7 +36,7 @@ gifts:
 - name: Отражение Сожаления
   slug: otrazhenie-sozhaleniya
   tier: lesser
-  icon: /images/icons/gifts/vremya/otrazhenie-sozhaleniya.webp
+  icon: images/icons/gifts/vremya/otrazhenie-sozhaleniya.webp
   badges:
   - type: act
     text: В свой ход
@@ -48,7 +48,7 @@ gifts:
 - name: Пророческое Прозрение
   slug: prorocheskoe-prozrenie
   tier: lesser
-  icon: /images/icons/gifts/vremya/prorocheskoe-prozrenie.webp
+  icon: images/icons/gifts/vremya/prorocheskoe-prozrenie.webp
   badges:
   - type: act
     text: В свой ход
@@ -63,7 +63,7 @@ gifts:
 - name: Час Увядания
   slug: chas-uvyadaniya
   tier: lesser
-  icon: /images/icons/gifts/vremya/chas-uvyadaniya.webp
+  icon: images/icons/gifts/vremya/chas-uvyadaniya.webp
   badges:
   - type: act
     text: В свой ход
@@ -75,7 +75,7 @@ gifts:
 - name: Эхо Прошлого
   slug: eho-proshlogo
   tier: lesser
-  icon: /images/icons/gifts/vremya/eho-proshlogo.webp
+  icon: images/icons/gifts/vremya/eho-proshlogo.webp
   badges:
   - type: act
     text: Действие
@@ -86,7 +86,7 @@ gifts:
 - name: Переткать Время
   slug: peretkat-vremya
   tier: greater
-  icon: /images/icons/gifts/vremya/peretkat-vremya.webp
+  icon: images/icons/gifts/vremya/peretkat-vremya.webp
   badges:
   - type: act
     text: Действие
@@ -100,7 +100,7 @@ gifts:
 - name: Расколотое Мгновение
   slug: raskolotoe-mgnovenie
   tier: greater
-  icon: /images/icons/gifts/vremya/raskolotoe-mgnovenie.webp
+  icon: images/icons/gifts/vremya/raskolotoe-mgnovenie.webp
   badges:
   - type: act
     text: В свой ход
@@ -115,7 +115,7 @@ gifts:
 - name: Рука на Весах
   slug: ruka-na-vesah
   tier: greater
-  icon: /images/icons/gifts/vremya/ruka-na-vesah.webp
+  icon: images/icons/gifts/vremya/ruka-na-vesah.webp
   badges:
   - type: act
     text: Действие

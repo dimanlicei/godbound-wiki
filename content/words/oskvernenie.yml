@@ -4,7 +4,7 @@ colors:
   glow: '#c79bf0'
   deep: '#1d1226'
   dark: '#0a0710'
-icon: /images/icons/words/oskvernenie.webp
+icon: images/icons/words/oskvernenie.webp
 description: |-
   Где есть святость, есть и то, что живёт в её тени. Враги добродетели и света обретают своё покровительство в Слове Осквернения. Это Слово тех, кто рушит установленные порядки, оспаривает принятые понятия о нравственности и предаётся неописуемым нарушениям общественных устоев. В силу природы этого Слова связанные с Осквернением чаще всего оказываются вольными божествами, хотя некоторые всё же держат малые, разбросанные далеко друг от друга культы, что втайне правят свои кощунственные обряды и существуют в основном чтобы подтачивать господствующую в их краю религию.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Взгляд, Разъедающий Любовь
   slug: vzglyad-razedayuschiy-lyubov
   tier: lesser
-  icon: /images/icons/gifts/oskvernenie/vzglyad-razedayuschiy-lyubov.webp
+  icon: images/icons/gifts/oskvernenie/vzglyad-razedayuschiy-lyubov.webp
   badges:
   - type: act
     text: Действие
@@ -27,7 +27,7 @@ gifts:
 - name: Лик Противника
   slug: lik-protivnika
   tier: lesser
-  icon: /images/icons/gifts/oskvernenie/lik-protivnika.webp
+  icon: images/icons/gifts/oskvernenie/lik-protivnika.webp
   badges:
   - type: act
     text: В свой ход
@@ -41,7 +41,7 @@ gifts:
 - name: Наш Маленький Секрет
   slug: nash-malenkiy-sekret
   tier: lesser
-  icon: /images/icons/gifts/oskvernenie/nash-malenkiy-sekret.webp
+  icon: images/icons/gifts/oskvernenie/nash-malenkiy-sekret.webp
   badges:
   - type: act
     text: Мгновенно
@@ -56,7 +56,7 @@ gifts:
 - name: Немощь Молитв без Подаяний
   slug: nemosch-molitv-bez-podayaniy
   tier: lesser
-  icon: /images/icons/gifts/oskvernenie/nemosch-molitv-bez-podayaniy.webp
+  icon: images/icons/gifts/oskvernenie/nemosch-molitv-bez-podayaniy.webp
   badges:
   - type: act
     text: В свой ход
@@ -69,7 +69,7 @@ gifts:
 - name: Прана Пустого Сердца
   slug: prana-pustogo-serdtsa
   tier: lesser
-  icon: /images/icons/gifts/oskvernenie/prana-pustogo-serdtsa.webp
+  icon: images/icons/gifts/oskvernenie/prana-pustogo-serdtsa.webp
   badges:
   - type: act
     text: Постоянно
@@ -84,7 +84,7 @@ gifts:
 - name: Чутьё, Провоцирующее Кощунство
   slug: chute-provotsiruyuschee-koschunstvo
   tier: lesser
-  icon: /images/icons/gifts/oskvernenie/chute-provotsiruyuschee-koschunstvo.webp
+  icon: images/icons/gifts/oskvernenie/chute-provotsiruyuschee-koschunstvo.webp
   badges:
   - type: act
     text: Постоянно
@@ -100,7 +100,7 @@ gifts:
 - name: Литургия Горького Урожая
   slug: liturgiya-gorkogo-urozhaya
   tier: greater
-  icon: /images/icons/gifts/oskvernenie/liturgiya-gorkogo-urozhaya.webp
+  icon: images/icons/gifts/oskvernenie/liturgiya-gorkogo-urozhaya.webp
   badges:
   - type: act
     text: Действие
@@ -113,7 +113,7 @@ gifts:
 - name: Мор, Разлагающий Веру
   slug: mor-razlagayuschiy-veru
   tier: greater
-  icon: /images/icons/gifts/oskvernenie/mor-razlagayuschiy-veru.webp
+  icon: images/icons/gifts/oskvernenie/mor-razlagayuschiy-veru.webp
   badges:
   - type: act
     text: Действие

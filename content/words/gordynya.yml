@@ -4,7 +4,7 @@ colors:
   glow: '#ffd97a'
   deep: '#382c08'
   dark: '#151003'
-icon: /images/icons/words/gordynya.webp
+icon: images/icons/words/gordynya.webp
 description: 'Слово Греха: Гордыня, грех великих. Лишь немногие способны по-настоящему быть запятнанными
   грехом Гордыни, многие из грешников лишь прикрываются им для своей защиты или же меняют его слишком
   быстро на другие. Но истинные короли, цари, владыки и командиры, что пропитались им и не отдались другим
@@ -17,7 +17,7 @@ gifts:
 - name: Величайший из тиранов
   slug: velichayshiy-iz-tiranov
   tier: lesser
-  icon: /images/icons/gifts/gordynya/velichayshiy-iz-tiranov.webp
+  icon: images/icons/gifts/gordynya/velichayshiy-iz-tiranov.webp
   badges:
   - type: act
     text: Действие
@@ -29,7 +29,7 @@ gifts:
 - name: Владения Нечистого
   slug: vladeniya-nechistogo
   tier: lesser
-  icon: /images/icons/gifts/gordynya/vladeniya-nechistogo.webp
+  icon: images/icons/gifts/gordynya/vladeniya-nechistogo.webp
   badges:
   - type: act
     text: Постоянно
@@ -43,7 +43,7 @@ gifts:
 - name: Вызов достойного
   slug: vyzov-dostoynogo
   tier: lesser
-  icon: /images/icons/gifts/gordynya/vyzov-dostoynogo.webp
+  icon: images/icons/gifts/gordynya/vyzov-dostoynogo.webp
   badges:
   - type: act
     text: В свой ход
@@ -57,7 +57,7 @@ gifts:
 - name: Гнев царя
   slug: gnev-tsarya
   tier: lesser
-  icon: /images/icons/gifts/gordynya/gnev-tsarya.webp
+  icon: images/icons/gifts/gordynya/gnev-tsarya.webp
   badges:
   - type: act
     text: В свой ход
@@ -69,7 +69,7 @@ gifts:
 - name: Лезвие души
   slug: lezvie-dushi
   tier: lesser
-  icon: /images/icons/gifts/gordynya/lezvie-dushi.webp
+  icon: images/icons/gifts/gordynya/lezvie-dushi.webp
   badges:
   - type: act
     text: Постоянно
@@ -81,7 +81,7 @@ gifts:
 - name: Лик владыки
   slug: lik-vladyki
   tier: lesser
-  icon: /images/icons/gifts/gordynya/lik-vladyki.webp
+  icon: images/icons/gifts/gordynya/lik-vladyki.webp
   badges:
   - type: act
     text: Постоянно
@@ -94,7 +94,7 @@ gifts:
 - name: Душа Короля
   slug: dusha-korolya
   tier: greater
-  icon: /images/icons/gifts/gordynya/dusha-korolya.webp
+  icon: images/icons/gifts/gordynya/dusha-korolya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -107,7 +107,7 @@ gifts:
 - name: Корона Великого
   slug: korona-velikogo
   tier: greater
-  icon: /images/icons/gifts/gordynya/korona-velikogo.webp
+  icon: images/icons/gifts/gordynya/korona-velikogo.webp
   badges:
   - type: act
     text: Постоянно
@@ -120,7 +120,7 @@ gifts:
 - name: Недостижимый
   slug: nedostizhimyy
   tier: greater
-  icon: /images/icons/gifts/gordynya/nedostizhimyy.webp
+  icon: images/icons/gifts/gordynya/nedostizhimyy.webp
   badges:
   - type: act
     text: Мгновенно

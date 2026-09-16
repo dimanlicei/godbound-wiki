@@ -4,7 +4,7 @@ colors:
   glow: '#8fe8c8'
   deep: '#123028'
   dark: '#061410'
-icon: /images/icons/words/svoboda.webp
+icon: images/icons/words/svoboda.webp
 description: |-
   Божественное Слово Свободы охватывает вольность разума и тела и ничем не скованное проявление человеческой воли. Оно способно стирать принуждения, расторгать договоры, отпирать оковы и растворять связывающие узы. Такое освобождение проходит без непосредственных дурных последствий: расторгнутые договоры, например, не считаются нарушенными сделками, а разорванные узы не влекут за собой злобы. Божество Свободы может насаждать эту вольность даже неохотным подопечным, вынуждая их принять собственный выбор, хотят они того или нет.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Клич Освободителя
   slug: klich-osvoboditelya
   tier: lesser
-  icon: /images/icons/gifts/svoboda/klich-osvoboditelya.webp
+  icon: images/icons/gifts/svoboda/klich-osvoboditelya.webp
   badges:
   - type: act
     text: Действие
@@ -26,7 +26,7 @@ gifts:
 - name: Отринуть Нужду
   slug: otrinut-nuzhdu
   tier: lesser
-  icon: /images/icons/gifts/svoboda/otrinut-nuzhdu.webp
+  icon: images/icons/gifts/svoboda/otrinut-nuzhdu.webp
   badges:
   - type: act
     text: Постоянно
@@ -37,7 +37,7 @@ gifts:
 - name: Путь к Свободе
   slug: put-k-svobode
   tier: lesser
-  icon: /images/icons/gifts/svoboda/put-k-svobode.webp
+  icon: images/icons/gifts/svoboda/put-k-svobode.webp
   badges:
   - type: act
     text: Действие
@@ -50,7 +50,7 @@ gifts:
 - name: Раскованный Шаг
   slug: raskovannyy-shag
   tier: lesser
-  icon: /images/icons/gifts/svoboda/raskovannyy-shag.webp
+  icon: images/icons/gifts/svoboda/raskovannyy-shag.webp
   badges:
   - type: act
     text: Постоянно
@@ -64,7 +64,7 @@ gifts:
 - name: Сжечь Сделку
   slug: szhech-sdelku
   tier: lesser
-  icon: /images/icons/gifts/svoboda/szhech-sdelku.webp
+  icon: images/icons/gifts/svoboda/szhech-sdelku.webp
   badges:
   - type: act
     text: Действие
@@ -79,7 +79,7 @@ gifts:
 - name: Сломить Могучего
   slug: slomit-moguchego
   tier: lesser
-  icon: /images/icons/gifts/svoboda/slomit-moguchego.webp
+  icon: images/icons/gifts/svoboda/slomit-moguchego.webp
   badges:
   - type: act
     text: В свой ход
@@ -91,7 +91,7 @@ gifts:
 - name: Одинокий Огонь
   slug: odinokiy-ogon
   tier: greater
-  icon: /images/icons/gifts/svoboda/odinokiy-ogon.webp
+  icon: images/icons/gifts/svoboda/odinokiy-ogon.webp
   badges:
   - type: act
     text: Действие
@@ -106,7 +106,7 @@ gifts:
 - name: Раб Воздаёт
   slug: rab-vozdaet
   tier: greater
-  icon: /images/icons/gifts/svoboda/rab-vozdaet.webp
+  icon: images/icons/gifts/svoboda/rab-vozdaet.webp
   badges:
   - type: act
     text: В свой ход
@@ -121,7 +121,7 @@ gifts:
 - name: С Тобой во Тьме
   slug: s-toboy-vo-tme
   tier: greater
-  icon: /images/icons/gifts/svoboda/s-toboy-vo-tme.webp
+  icon: images/icons/gifts/svoboda/s-toboy-vo-tme.webp
   badges:
   - type: act
     text: Действие

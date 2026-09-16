@@ -4,7 +4,7 @@ colors:
   glow: '#9fd4e0'
   deep: '#1e262c'
   dark: '#0b1013'
-icon: /images/icons/words/inzheneriya.webp
+icon: images/icons/words/inzheneriya.webp
 description: |-
   Слово Инженерии — замещающее Слово, призванное занять место Мастерства в кампаниях с развитой техникой, какая встретится в игре о современности или о далёком будущем. Мастерство рассчитано на миры, где самое передовое устройство — это арбалет или акведук, тогда как Инженерия больше подходит для кампаний с рюкзачными боеголовками.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Благословенные Чертежи
   slug: blagoslovennye-chertezhi
   tier: lesser
-  icon: /images/icons/gifts/inzheneriya/blagoslovennye-chertezhi.webp
+  icon: images/icons/gifts/inzheneriya/blagoslovennye-chertezhi.webp
   badges:
   - type: act
     text: Постоянно
@@ -26,7 +26,7 @@ gifts:
 - name: Блистательное Изобретение
   slug: blistatelnoe-izobretenie
   tier: lesser
-  icon: /images/icons/gifts/inzheneriya/blistatelnoe-izobretenie.webp
+  icon: images/icons/gifts/inzheneriya/blistatelnoe-izobretenie.webp
   badges:
   - type: act
     text: Действие
@@ -39,7 +39,7 @@ gifts:
 - name: Взять Штурвал
   slug: vzyat-shturval
   tier: lesser
-  icon: /images/icons/gifts/inzheneriya/vzyat-shturval.webp
+  icon: images/icons/gifts/inzheneriya/vzyat-shturval.webp
   badges:
   - type: act
     text: Действие
@@ -54,7 +54,7 @@ gifts:
 - name: Долговечное Мастерство
   slug: dolgovechnoe-masterstvo
   tier: lesser
-  icon: /images/icons/gifts/inzheneriya/dolgovechnoe-masterstvo.webp
+  icon: images/icons/gifts/inzheneriya/dolgovechnoe-masterstvo.webp
   badges:
   - type: act
     text: Действие
@@ -67,7 +67,7 @@ gifts:
 - name: Научный Метод
   slug: nauchnyy-metod
   tier: lesser
-  icon: /images/icons/gifts/inzheneriya/nauchnyy-metod.webp
+  icon: images/icons/gifts/inzheneriya/nauchnyy-metod.webp
   badges:
   - type: act
     text: Постоянно
@@ -79,7 +79,7 @@ gifts:
 - name: Починка Создателя
   slug: pochinka-sozdatelya
   tier: lesser
-  icon: /images/icons/gifts/inzheneriya/pochinka-sozdatelya.webp
+  icon: images/icons/gifts/inzheneriya/pochinka-sozdatelya.webp
   badges:
   - type: act
     text: Действие
@@ -92,7 +92,7 @@ gifts:
 - name: Душа Машины
   slug: dusha-mashiny
   tier: greater
-  icon: /images/icons/gifts/inzheneriya/dusha-mashiny.webp
+  icon: images/icons/gifts/inzheneriya/dusha-mashiny.webp
   badges:
   - type: act
     text: Мгновенно
@@ -108,7 +108,7 @@ gifts:
 - name: Передний Край
   slug: peredniy-kray
   tier: greater
-  icon: /images/icons/gifts/inzheneriya/peredniy-kray.webp
+  icon: images/icons/gifts/inzheneriya/peredniy-kray.webp
   badges:
   - type: act
     text: Постоянно
@@ -128,7 +128,7 @@ gifts:
 - name: Слабое Место
   slug: slaboe-mesto
   tier: greater
-  icon: /images/icons/gifts/inzheneriya/slaboe-mesto.webp
+  icon: images/icons/gifts/inzheneriya/slaboe-mesto.webp
   badges:
   - type: act
     text: Постоянно

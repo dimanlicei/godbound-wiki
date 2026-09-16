@@ -4,7 +4,7 @@ colors:
   glow: '#a9dcc6'
   deep: '#1c2a24'
   dark: '#0a100e'
-icon: /images/icons/words/stranstviya.webp
+icon: images/icons/words/stranstviya.webp
 description: |-
   Со Словом Странствий герой забирается далеко: оно ведает дальними путешествиями, прохождением опасных троп и преодолением препятствий. Чудеса Странствий включают стремительное перемещение в желаемое место, разрушение преград на пути героя и избегание опасностей в дороге. Иные чудеса могут запечатывать или открывать существующие Ночные Дороги.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Дающий Задание
   slug: dayuschiy-zadanie
   tier: lesser
-  icon: /images/icons/gifts/stranstviya/dayuschiy-zadanie.webp
+  icon: images/icons/gifts/stranstviya/dayuschiy-zadanie.webp
   badges:
   - type: act
     text: Действие
@@ -27,7 +27,7 @@ gifts:
 - name: Знающий Путь
   slug: znayuschiy-put
   tier: lesser
-  icon: /images/icons/gifts/stranstviya/znayuschiy-put.webp
+  icon: images/icons/gifts/stranstviya/znayuschiy-put.webp
   badges:
   - type: act
     text: Постоянно
@@ -42,7 +42,7 @@ gifts:
 - name: Открывая Путь
   slug: otkryvaya-put
   tier: lesser
-  icon: /images/icons/gifts/stranstviya/otkryvaya-put.webp
+  icon: images/icons/gifts/stranstviya/otkryvaya-put.webp
   badges:
   - type: act
     text: Действие
@@ -56,7 +56,7 @@ gifts:
 - name: Повелитель Ключей
   slug: povelitel-klyuchey
   tier: lesser
-  icon: /images/icons/gifts/stranstviya/povelitel-klyuchey.webp
+  icon: images/icons/gifts/stranstviya/povelitel-klyuchey.webp
   badges:
   - type: act
     text: Мгновенно
@@ -71,7 +71,7 @@ gifts:
 - name: Путь Мчащегося Рассвета
   slug: put-mchaschegosya-rassveta
   tier: lesser
-  icon: /images/icons/gifts/stranstviya/put-mchaschegosya-rassveta.webp
+  icon: images/icons/gifts/stranstviya/put-mchaschegosya-rassveta.webp
   badges:
   - type: act
     text: Действие
@@ -84,7 +84,7 @@ gifts:
 - name: Спокойный Проход
   slug: spokoynyy-prohod
   tier: lesser
-  icon: /images/icons/gifts/stranstviya/spokoynyy-prohod.webp
+  icon: images/icons/gifts/stranstviya/spokoynyy-prohod.webp
   badges:
   - type: act
     text: В свой ход
@@ -96,7 +96,7 @@ gifts:
 - name: Стремительное Продвижение
   slug: stremitelnoe-prodvizhenie
   tier: lesser
-  icon: /images/icons/gifts/stranstviya/stremitelnoe-prodvizhenie.webp
+  icon: images/icons/gifts/stranstviya/stremitelnoe-prodvizhenie.webp
   badges:
   - type: act
     text: В свой ход
@@ -112,7 +112,7 @@ gifts:
 - name: Возглавить Исход
   slug: vozglavit-ishod
   tier: greater
-  icon: /images/icons/gifts/stranstviya/vozglavit-ishod.webp
+  icon: images/icons/gifts/stranstviya/vozglavit-ishod.webp
   badges:
   - type: act
     text: В свой ход
@@ -123,7 +123,7 @@ gifts:
 - name: Дальноходец
   slug: dalnohodets
   tier: greater
-  icon: /images/icons/gifts/stranstviya/dalnohodets.webp
+  icon: images/icons/gifts/stranstviya/dalnohodets.webp
   badges:
   - type: act
     text: Постоянно
@@ -138,7 +138,7 @@ gifts:
 - name: Час Нужды
   slug: chas-nuzhdy
   tier: greater
-  icon: /images/icons/gifts/stranstviya/chas-nuzhdy.webp
+  icon: images/icons/gifts/stranstviya/chas-nuzhdy.webp
   badges:
   - type: act
     text: Действие

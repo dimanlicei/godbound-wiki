@@ -4,7 +4,7 @@ colors:
   glow: '#7fe8b8'
   deep: '#0d3123'
   dark: '#04140e'
-icon: /images/icons/words/zdorove.webp
+icon: images/icons/words/zdorove.webp
 description: |-
   Хлеб, дети и здоровье — эти вещи вечно в молитвах простого люда. Слово Здоровья предлагает хотя бы одну из них: оно изгоняет хвори и выправляет искажённую плоть. Чудеса Здоровья могут прогонять моровые поветрия и излечивать увечья, хотя для крупных деяний обычно нужны дары — за исключением сравнительно скромных исцелений. Мстительные полубоги Здоровья могут и насылать те самые поветрия, что способны излечить.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Горн Жизни
   slug: gorn-zhizni
   tier: lesser
-  icon: /images/icons/gifts/zdorove/gorn-zhizni.webp
+  icon: images/icons/gifts/zdorove/gorn-zhizni.webp
   badges:
   - type: act
     text: В свой ход
@@ -26,7 +26,7 @@ gifts:
 - name: Исправленная Плоть
   slug: ispravlennaya-plot
   tier: lesser
-  icon: /images/icons/gifts/zdorove/ispravlennaya-plot.webp
+  icon: images/icons/gifts/zdorove/ispravlennaya-plot.webp
   badges:
   - type: act
     text: Действие
@@ -37,7 +37,7 @@ gifts:
 - name: Милосердный Взгляд
   slug: miloserdnyy-vzglyad
   tier: lesser
-  icon: /images/icons/gifts/zdorove/miloserdnyy-vzglyad.webp
+  icon: images/icons/gifts/zdorove/miloserdnyy-vzglyad.webp
   badges:
   - type: act
     text: Действие
@@ -49,7 +49,7 @@ gifts:
 - name: Наложение Рук
   slug: nalozhenie-ruk
   tier: lesser
-  icon: /images/icons/gifts/zdorove/nalozhenie-ruk.webp
+  icon: images/icons/gifts/zdorove/nalozhenie-ruk.webp
   badges:
   - type: act
     text: Постоянно
@@ -65,7 +65,7 @@ gifts:
 - name: Природное Здоровье
   slug: prirodnoe-zdorove
   tier: lesser
-  icon: /images/icons/gifts/zdorove/prirodnoe-zdorove.webp
+  icon: images/icons/gifts/zdorove/prirodnoe-zdorove.webp
   badges:
   - type: act
     text: Постоянно
@@ -76,7 +76,7 @@ gifts:
 - name: Усмиритель Чумы
   slug: usmiritel-chumy
   tier: lesser
-  icon: /images/icons/gifts/zdorove/usmiritel-chumy.webp
+  icon: images/icons/gifts/zdorove/usmiritel-chumy.webp
   badges:
   - type: act
     text: Действие
@@ -91,7 +91,7 @@ gifts:
 - name: Божественный Целитель
   slug: bozhestvennyy-tselitel
   tier: greater
-  icon: /images/icons/gifts/zdorove/bozhestvennyy-tselitel.webp
+  icon: images/icons/gifts/zdorove/bozhestvennyy-tselitel.webp
   badges:
   - type: act
     text: Постоянно
@@ -106,7 +106,7 @@ gifts:
 - name: Источник Жизни
   slug: istochnik-zhizni
   tier: greater
-  icon: /images/icons/gifts/zdorove/istochnik-zhizni.webp
+  icon: images/icons/gifts/zdorove/istochnik-zhizni.webp
   badges:
   - type: act
     text: Постоянно
@@ -123,7 +123,7 @@ gifts:
 - name: Пылающая Живучесть
   slug: pylayuschaya-zhivuchest
   tier: greater
-  icon: /images/icons/gifts/zdorove/pylayuschaya-zhivuchest.webp
+  icon: images/icons/gifts/zdorove/pylayuschaya-zhivuchest.webp
   badges:
   - type: act
     text: В свой ход

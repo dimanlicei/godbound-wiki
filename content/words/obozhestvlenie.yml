@@ -4,7 +4,7 @@ colors:
   glow: '#ffe999'
   deep: '#3a3208'
   dark: '#151204'
-icon: /images/icons/words/obozhestvlenie.webp
+icon: images/icons/words/obozhestvlenie.webp
 description: |-
   Слово Обожествления — особое Слово. Его нельзя выбрать как связанное Слово, и собственных чудес у него нет. Вместо этого оно отражает те особые способности, что подобают взрастающему божеству и обретаются сами собой по мере роста его мощи.
 
@@ -19,7 +19,7 @@ gifts:
 - name: 'Уровень 2: Принять Фимиам Веры'
   slug: uroven-2-prinyat-fimiam-very
   tier: lesser
-  icon: /images/icons/gifts/obozhestvlenie/uroven-2-prinyat-fimiam-very.webp
+  icon: images/icons/gifts/obozhestvlenie/uroven-2-prinyat-fimiam-very.webp
   badges:
   - type: act
     text: Постоянно
@@ -30,7 +30,7 @@ gifts:
 - name: 'Уровень 3: Освятить Святилище'
   slug: uroven-3-osvyatit-svyatilische
   tier: lesser
-  icon: /images/icons/gifts/obozhestvlenie/uroven-3-osvyatit-svyatilische.webp
+  icon: images/icons/gifts/obozhestvlenie/uroven-3-osvyatit-svyatilische.webp
   badges:
   - type: act
     text: Действие
@@ -48,7 +48,7 @@ gifts:
 - name: 'Уровень 3: Покарать Отступника'
   slug: uroven-3-pokarat-otstupnika
   tier: lesser
-  icon: /images/icons/gifts/obozhestvlenie/uroven-3-pokarat-otstupnika.webp
+  icon: images/icons/gifts/obozhestvlenie/uroven-3-pokarat-otstupnika.webp
   badges:
   - type: act
     text: Действие
@@ -60,7 +60,7 @@ gifts:
 - name: 'Уровень 4: Услышать Молитву'
   slug: uroven-4-uslyshat-molitvu
   tier: lesser
-  icon: /images/icons/gifts/obozhestvlenie/uroven-4-uslyshat-molitvu.webp
+  icon: images/icons/gifts/obozhestvlenie/uroven-4-uslyshat-molitvu.webp
   badges:
   - type: act
     text: Постоянно
@@ -74,7 +74,7 @@ gifts:
 - name: 'Уровень 5: Узреть Просителя'
   slug: uroven-5-uzret-prositelya
   tier: lesser
-  icon: /images/icons/gifts/obozhestvlenie/uroven-5-uzret-prositelya.webp
+  icon: images/icons/gifts/obozhestvlenie/uroven-5-uzret-prositelya.webp
   badges:
   - type: act
     text: Действие
@@ -86,7 +86,7 @@ gifts:
 - name: 'Уровень 6: Знак Пророка'
   slug: uroven-6-znak-proroka
   tier: lesser
-  icon: /images/icons/gifts/obozhestvlenie/uroven-6-znak-proroka.webp
+  icon: images/icons/gifts/obozhestvlenie/uroven-6-znak-proroka.webp
   badges:
   - type: act
     text: Действие
@@ -103,7 +103,7 @@ gifts:
 - name: 'Уровень 7: Явиться Верным'
   slug: uroven-7-yavitsya-vernym
   tier: lesser
-  icon: /images/icons/gifts/obozhestvlenie/uroven-7-yavitsya-vernym.webp
+  icon: images/icons/gifts/obozhestvlenie/uroven-7-yavitsya-vernym.webp
   badges:
   - type: act
     text: Действие
@@ -116,7 +116,7 @@ gifts:
 - name: 'Уровень 8: Благословить Народы'
   slug: uroven-8-blagoslovit-narody
   tier: lesser
-  icon: /images/icons/gifts/obozhestvlenie/uroven-8-blagoslovit-narody.webp
+  icon: images/icons/gifts/obozhestvlenie/uroven-8-blagoslovit-narody.webp
   badges:
   - type: act
     text: Действие

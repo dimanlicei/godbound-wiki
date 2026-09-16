@@ -4,7 +4,7 @@ colors:
   glow: '#ff8fd0'
   deep: '#380b28'
   dark: '#14050f'
-icon: /images/icons/words/pohot.webp
+icon: images/icons/words/pohot.webp
 description: 'Слово Греха: Похоть. Демоны похоти желанны всеми, будь то смертный или божество, их красота
   и невероятная выносливость манит их всех. Улучшите параметр Выносливости или Харизмы до 18. Вы становитесь
   иммунны к воздействию на ваш разум и эмоции. А так же интимная близость восстанавливает вам количество
@@ -14,7 +14,7 @@ gifts:
 - name: Запретные сны
   slug: zapretnye-sny
   tier: lesser
-  icon: /images/icons/gifts/pohot/zapretnye-sny.webp
+  icon: images/icons/gifts/pohot/zapretnye-sny.webp
   badges:
   - type: act
     text: Действие
@@ -29,7 +29,7 @@ gifts:
 - name: Интуиция проститутки
   slug: intuitsiya-prostitutki
   tier: lesser
-  icon: /images/icons/gifts/pohot/intuitsiya-prostitutki.webp
+  icon: images/icons/gifts/pohot/intuitsiya-prostitutki.webp
   badges:
   - type: act
     text: Действие
@@ -43,7 +43,7 @@ gifts:
 - name: Невероятная красота
   slug: neveroyatnaya-krasota
   tier: lesser
-  icon: /images/icons/gifts/pohot/neveroyatnaya-krasota.webp
+  icon: images/icons/gifts/pohot/neveroyatnaya-krasota.webp
   badges:
   - type: act
     text: Постоянно
@@ -55,7 +55,7 @@ gifts:
 - name: Пылающая страсть
   slug: pylayuschaya-strast
   tier: lesser
-  icon: /images/icons/gifts/pohot/pylayuschaya-strast.webp
+  icon: images/icons/gifts/pohot/pylayuschaya-strast.webp
   badges:
   - type: act
     text: В свой ход
@@ -67,7 +67,7 @@ gifts:
 - name: Форма похоти
   slug: forma-pohoti
   tier: lesser
-  icon: /images/icons/gifts/pohot/forma-pohoti.webp
+  icon: images/icons/gifts/pohot/forma-pohoti.webp
   badges:
   - type: act
     text: В свой ход
@@ -80,7 +80,7 @@ gifts:
 - name: Безумство Любви
   slug: bezumstvo-lyubvi
   tier: greater
-  icon: /images/icons/gifts/pohot/bezumstvo-lyubvi.webp
+  icon: images/icons/gifts/pohot/bezumstvo-lyubvi.webp
   badges:
   - type: act
     text: Действие
@@ -94,7 +94,7 @@ gifts:
 - name: Касание суккуба
   slug: kasanie-sukkuba
   tier: greater
-  icon: /images/icons/gifts/pohot/kasanie-sukkuba.webp
+  icon: images/icons/gifts/pohot/kasanie-sukkuba.webp
   badges:
   - type: act
     text: Действие
@@ -109,7 +109,7 @@ gifts:
 - name: Обжигающая страсть
   slug: obzhigayuschaya-strast
   tier: greater
-  icon: /images/icons/gifts/pohot/obzhigayuschaya-strast.webp
+  icon: images/icons/gifts/pohot/obzhigayuschaya-strast.webp
   badges:
   - type: act
     text: Действие

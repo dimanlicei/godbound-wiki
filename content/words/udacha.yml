@@ -4,7 +4,7 @@ colors:
   glow: '#8ceb96'
   deep: '#123014'
   dark: '#061407'
-icon: /images/icons/words/udacha.webp
+icon: images/icons/words/udacha.webp
 description: |-
   Слово Удачи в основном незаметно, без явных и очевидных эффектов других сфер. Вместо этого Удача просто осеняет тех, кто благословлён её силой, устраивая так, что дела для них складываются хорошо, а для тех, кто им не угодил, — очень плохо. Чудеса Удачи можно использовать, чтобы перекраивать судьбу, добиваясь, чтобы кажущиеся случайными события обернулись хорошо или плохо для тех, на кого обращено внимание героя.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Девять Жизней
   slug: devyat-zhizney
   tier: lesser
-  icon: /images/icons/gifts/udacha/devyat-zhizney.webp
+  icon: images/icons/gifts/udacha/devyat-zhizney.webp
   badges:
   - type: act
     text: Постоянно
@@ -24,7 +24,7 @@ gifts:
 - name: Засолить Удачу
   slug: zasolit-udachu
   tier: lesser
-  icon: /images/icons/gifts/udacha/zasolit-udachu.webp
+  icon: images/icons/gifts/udacha/zasolit-udachu.webp
   badges:
   - type: act
     text: Мгновенно
@@ -38,7 +38,7 @@ gifts:
 - name: Мир Против Тебя
   slug: mir-protiv-tebya
   tier: lesser
-  icon: /images/icons/gifts/udacha/mir-protiv-tebya.webp
+  icon: images/icons/gifts/udacha/mir-protiv-tebya.webp
   badges:
   - type: act
     text: В свой ход
@@ -51,7 +51,7 @@ gifts:
 - name: Незамутнённое Благодеяние
   slug: nezamutnennoe-blagodeyanie
   tier: lesser
-  icon: /images/icons/gifts/udacha/nezamutnennoe-blagodeyanie.webp
+  icon: images/icons/gifts/udacha/nezamutnennoe-blagodeyanie.webp
   badges:
   - type: act
     text: Постоянно
@@ -63,7 +63,7 @@ gifts:
 - name: Поворот Судьбы
   slug: povorot-sudby
   tier: lesser
-  icon: /images/icons/gifts/udacha/povorot-sudby.webp
+  icon: images/icons/gifts/udacha/povorot-sudby.webp
   badges:
   - type: act
     text: Мгновенно
@@ -74,7 +74,7 @@ gifts:
 - name: Проклятая Удача
   slug: proklyataya-udacha
   tier: lesser
-  icon: /images/icons/gifts/udacha/proklyataya-udacha.webp
+  icon: images/icons/gifts/udacha/proklyataya-udacha.webp
   badges:
   - type: act
     text: Действие
@@ -90,7 +90,7 @@ gifts:
 - name: Невозможная Победа
   slug: nevozmozhnaya-pobeda
   tier: greater
-  icon: /images/icons/gifts/udacha/nevozmozhnaya-pobeda.webp
+  icon: images/icons/gifts/udacha/nevozmozhnaya-pobeda.webp
   badges:
   - type: act
     text: Постоянно
@@ -103,7 +103,7 @@ gifts:
 - name: Неизменное Везение
   slug: neizmennoe-vezenie
   tier: greater
-  icon: /images/icons/gifts/udacha/neizmennoe-vezenie.webp
+  icon: images/icons/gifts/udacha/neizmennoe-vezenie.webp
   badges:
   - type: act
     text: Постоянно
@@ -114,7 +114,7 @@ gifts:
 - name: По Воле Случая
   slug: po-vole-sluchaya
   tier: greater
-  icon: /images/icons/gifts/udacha/po-vole-sluchaya.webp
+  icon: images/icons/gifts/udacha/po-vole-sluchaya.webp
   badges:
   - type: act
     text: Действие

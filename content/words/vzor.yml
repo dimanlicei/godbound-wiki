@@ -4,7 +4,7 @@ colors:
   glow: '#8fdcea'
   deep: '#152a34'
   dark: '#071115'
-icon: /images/icons/words/vzor.webp
+icon: images/icons/words/vzor.webp
 description: |-
   Врождённая сила Слова Взора — невозможность быть ослеплённым, каким бы ни было освещение и повреждения глаз, а также неуязвимая способность видеть сквозь личины, зрительные иллюзии и силы невидимости в непосредственном окружении. Прочих чувств это не касается. Эта чудовищная сила восприятия также поднимает значение Мудрости до 19, давая модификатор атрибута +4.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Второе Зрение
   slug: vtoroe-zrenie
   tier: lesser
-  icon: /images/icons/gifts/vzor/vtoroe-zrenie.webp
+  icon: images/icons/gifts/vzor/vtoroe-zrenie.webp
   badges:
   - type: act
     text: В свой ход
@@ -25,7 +25,7 @@ gifts:
 - name: Незримый Взору
   slug: nezrimyy-vzoru
   tier: lesser
-  icon: /images/icons/gifts/vzor/nezrimyy-vzoru.webp
+  icon: images/icons/gifts/vzor/nezrimyy-vzoru.webp
   badges:
   - type: act
     text: В свой ход
@@ -37,7 +37,7 @@ gifts:
 - name: Окна Души
   slug: okna-dushi
   tier: lesser
-  icon: /images/icons/gifts/vzor/okna-dushi.webp
+  icon: images/icons/gifts/vzor/okna-dushi.webp
   badges:
   - type: act
     text: Постоянно
@@ -48,7 +48,7 @@ gifts:
 - name: Опустить Завесу
   slug: opustit-zavesu
   tier: lesser
-  icon: /images/icons/gifts/vzor/opustit-zavesu.webp
+  icon: images/icons/gifts/vzor/opustit-zavesu.webp
   badges:
   - type: act
     text: Действие
@@ -60,7 +60,7 @@ gifts:
 - name: Орлиный Глаз
   slug: orlinyy-glaz
   tier: lesser
-  icon: /images/icons/gifts/vzor/orlinyy-glaz.webp
+  icon: images/icons/gifts/vzor/orlinyy-glaz.webp
   badges:
   - type: act
     text: В свой ход
@@ -73,7 +73,7 @@ gifts:
 - name: Пронзающий Взгляд
   slug: pronzayuschiy-vzglyad
   tier: lesser
-  icon: /images/icons/gifts/vzor/pronzayuschiy-vzglyad.webp
+  icon: images/icons/gifts/vzor/pronzayuschiy-vzglyad.webp
   badges:
   - type: act
     text: В свой ход
@@ -89,7 +89,7 @@ gifts:
 - name: Бдение Дозорной Башни
   slug: bdenie-dozornoy-bashni
   tier: greater
-  icon: /images/icons/gifts/vzor/bdenie-dozornoy-bashni.webp
+  icon: images/icons/gifts/vzor/bdenie-dozornoy-bashni.webp
   badges:
   - type: act
     text: Постоянно
@@ -105,7 +105,7 @@ gifts:
 - name: Всевидящее Око
   slug: vsevidyaschee-oko
   tier: greater
-  icon: /images/icons/gifts/vzor/vsevidyaschee-oko.webp
+  icon: images/icons/gifts/vzor/vsevidyaschee-oko.webp
   badges:
   - type: act
     text: В свой ход
@@ -118,7 +118,7 @@ gifts:
 - name: Рождённый в Сорочке
   slug: rozhdennyy-v-sorochke
   tier: greater
-  icon: /images/icons/gifts/vzor/rozhdennyy-v-sorochke.webp
+  icon: images/icons/gifts/vzor/rozhdennyy-v-sorochke.webp
   badges:
   - type: act
     text: Постоянно

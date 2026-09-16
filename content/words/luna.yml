@@ -4,7 +4,7 @@ colors:
   glow: '#cdd8ff'
   deep: '#1a2140'
   dark: '#080c1c'
-icon: /images/icons/words/luna.webp
+icon: images/icons/words/luna.webp
 description: |-
   Слово Луны правит страстным безрассудством, сломанной логикой, бредовыми видениями и иррациональными убеждениями. Хотя это Слово не властно создавать осязаемые физические эффекты, оно способно выжигать себе путь сквозь чужие умы, оставляя шрамы, калечащие жертв до конца их дней… или пока Обожествлённый не смилуется.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Восторг Делирия
   slug: vostorg-deliriya
   tier: lesser
-  icon: /images/icons/gifts/luna/vostorg-deliriya.webp
+  icon: images/icons/gifts/luna/vostorg-deliriya.webp
   badges:
   - type: act
     text: В свой ход
@@ -27,7 +27,7 @@ gifts:
 - name: Ласка Одержимости
   slug: laska-oderzhimosti
   tier: lesser
-  icon: /images/icons/gifts/luna/laska-oderzhimosti.webp
+  icon: images/icons/gifts/luna/laska-oderzhimosti.webp
   badges:
   - type: act
     text: Действие
@@ -41,7 +41,7 @@ gifts:
 - name: Непризнанная Правда
   slug: nepriznannaya-pravda
   tier: lesser
-  icon: /images/icons/gifts/luna/nepriznannaya-pravda.webp
+  icon: images/icons/gifts/luna/nepriznannaya-pravda.webp
   badges:
   - type: act
     text: Действие
@@ -56,7 +56,7 @@ gifts:
 - name: Отражения Луны
   slug: otrazheniya-luny
   tier: lesser
-  icon: /images/icons/gifts/luna/otrazheniya-luny.webp
+  icon: images/icons/gifts/luna/otrazheniya-luny.webp
   badges:
   - type: act
     text: Действие
@@ -72,7 +72,7 @@ gifts:
 - name: Поцелованный Луной
   slug: potselovannyy-lunoy
   tier: lesser
-  icon: /images/icons/gifts/luna/potselovannyy-lunoy.webp
+  icon: images/icons/gifts/luna/potselovannyy-lunoy.webp
   badges:
   - type: act
     text: В свой ход
@@ -84,7 +84,7 @@ gifts:
 - name: Успокоить Подёрнутые Рябью Воды
   slug: uspokoit-podernutye-ryabyu-vody
   tier: lesser
-  icon: /images/icons/gifts/luna/uspokoit-podernutye-ryabyu-vody.webp
+  icon: images/icons/gifts/luna/uspokoit-podernutye-ryabyu-vody.webp
   badges:
   - type: act
     text: Мгновенно
@@ -100,7 +100,7 @@ gifts:
 - name: Молоко Безумия
   slug: moloko-bezumiya
   tier: greater
-  icon: /images/icons/gifts/luna/moloko-bezumiya.webp
+  icon: images/icons/gifts/luna/moloko-bezumiya.webp
   badges:
   - type: act
     text: Действие
@@ -116,7 +116,7 @@ gifts:
 - name: Плач Бледной Дочери
   slug: plach-blednoy-docheri
   tier: greater
-  icon: /images/icons/gifts/luna/plach-blednoy-docheri.webp
+  icon: images/icons/gifts/luna/plach-blednoy-docheri.webp
   badges:
   - type: act
     text: В свой ход
@@ -131,7 +131,7 @@ gifts:
 - name: При Свете Луны
   slug: pri-svete-luny
   tier: greater
-  icon: /images/icons/gifts/luna/pri-svete-luny.webp
+  icon: images/icons/gifts/luna/pri-svete-luny.webp
   badges:
   - type: act
     text: Постоянно

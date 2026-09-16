@@ -4,7 +4,7 @@ colors:
   glow: '#f0a884'
   deep: '#301a12'
   dark: '#120907'
-icon: /images/icons/words/voyna.webp
+icon: images/icons/words/voyna.webp
 description: |-
   Слово Войны — не просто о личной доблести в бою или обаянии героического полководца. Оно о столкновении множеств на кровавом поле и об организованном истреблении масс людей. Обожествлённые Войны могут и не блистать в поединке (хотя часто блистают), но никто не сравнится с ними в управлении крупными построениями вооружённых солдат. Они — неудержимые орудия тактического уничтожения, способные срежиссировать истребление целых армий меньших противников. Только армии во главе с великими героями и при поддержке противостоящих божеств могут надеяться победить бога войны в поле.
 
@@ -13,7 +13,7 @@ gifts:
 - name: В Пролом
   slug: v-prolom
   tier: lesser
-  icon: /images/icons/gifts/voyna/v-prolom.webp
+  icon: images/icons/gifts/voyna/v-prolom.webp
   badges:
   - type: act
     text: Действие
@@ -25,7 +25,7 @@ gifts:
 - name: Глас Труб
   slug: glas-trub
   tier: lesser
-  icon: /images/icons/gifts/voyna/glas-trub.webp
+  icon: images/icons/gifts/voyna/glas-trub.webp
   badges:
   - type: act
     text: Действие
@@ -39,7 +39,7 @@ gifts:
 - name: Мастер Войны
   slug: master-voyny
   tier: lesser
-  icon: /images/icons/gifts/voyna/master-voyny.webp
+  icon: images/icons/gifts/voyna/master-voyny.webp
   badges:
   - type: act
     text: Действие
@@ -56,7 +56,7 @@ gifts:
 - name: Павеза из Крови и Железа
   slug: paveza-iz-krovi-i-zheleza
   tier: lesser
-  icon: /images/icons/gifts/voyna/paveza-iz-krovi-i-zheleza.webp
+  icon: images/icons/gifts/voyna/paveza-iz-krovi-i-zheleza.webp
   badges:
   - type: act
     text: Мгновенно
@@ -69,7 +69,7 @@ gifts:
 - name: Познай Врага Своего
   slug: poznay-vraga-svoego
   tier: lesser
-  icon: /images/icons/gifts/voyna/poznay-vraga-svoego.webp
+  icon: images/icons/gifts/voyna/poznay-vraga-svoego.webp
   badges:
   - type: act
     text: Действие
@@ -84,7 +84,7 @@ gifts:
 - name: Пробудить Преторианцев
   slug: probudit-pretoriantsev
   tier: lesser
-  icon: /images/icons/gifts/voyna/probudit-pretoriantsev.webp
+  icon: images/icons/gifts/voyna/probudit-pretoriantsev.webp
   badges:
   - type: act
     text: Действие
@@ -103,7 +103,7 @@ gifts:
 - name: Форсированный Марш
   slug: forsirovannyy-marsh
   tier: lesser
-  icon: /images/icons/gifts/voyna/forsirovannyy-marsh.webp
+  icon: images/icons/gifts/voyna/forsirovannyy-marsh.webp
   badges:
   - type: act
     text: Постоянно
@@ -122,7 +122,7 @@ gifts:
 - name: Избранник Бога Войны
   slug: izbrannik-boga-voyny
   tier: greater
-  icon: /images/icons/gifts/voyna/izbrannik-boga-voyny.webp
+  icon: images/icons/gifts/voyna/izbrannik-boga-voyny.webp
   badges:
   - type: act
     text: Постоянно
@@ -137,7 +137,7 @@ gifts:
 - name: Мясник Легионов
   slug: myasnik-legionov
   tier: greater
-  icon: /images/icons/gifts/voyna/myasnik-legionov.webp
+  icon: images/icons/gifts/voyna/myasnik-legionov.webp
   badges:
   - type: act
     text: Действие
@@ -153,7 +153,7 @@ gifts:
 - name: Поднять Павшее Воинство
   slug: podnyat-pavshee-voinstvo
   tier: greater
-  icon: /images/icons/gifts/voyna/podnyat-pavshee-voinstvo.webp
+  icon: images/icons/gifts/voyna/podnyat-pavshee-voinstvo.webp
   badges:
   - type: act
     text: Действие

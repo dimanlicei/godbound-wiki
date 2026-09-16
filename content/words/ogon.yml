@@ -4,7 +4,7 @@ colors:
   glow: '#ffb057'
   deep: '#3a1206'
   dark: '#120503'
-icon: /images/icons/words/ogon.webp
+icon: images/icons/words/ogon.webp
 description: |-
   Рождённое из алого пламени, Слово Огня даёт силы жечь, плавить и уничтожать то, что герою не по нраву. Его же можно использовать, чтобы укрыть союзников от ярости пламени или исправить вред, который огонь причинил человеку или предмету. Его чудеса могут нести свет в тёмное место или скрывать всё пеленой удушливого дыма. Более тонкие чудеса могут воззвать к связи Огня со страстями ярости и вожделения, разжигая эти чувства в других или заставляя их перекидываться на окружающих, как разгорающееся пламя.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Вернуть из Пепла
   slug: vernut-iz-pepla
   tier: lesser
-  icon: /images/icons/gifts/ogon/vernut-iz-pepla.webp
+  icon: images/icons/gifts/ogon/vernut-iz-pepla.webp
   badges:
   - type: act
     text: Действие
@@ -25,7 +25,7 @@ gifts:
 - name: Владыка Горнила
   slug: vladyka-gornila
   tier: lesser
-  icon: /images/icons/gifts/ogon/vladyka-gornila.webp
+  icon: images/icons/gifts/ogon/vladyka-gornila.webp
   badges:
   - type: act
     text: В свой ход
@@ -37,7 +37,7 @@ gifts:
 - name: Идущий Сквозь Огонь
   slug: iduschiy-skvoz-ogon
   tier: lesser
-  icon: /images/icons/gifts/ogon/iduschiy-skvoz-ogon.webp
+  icon: images/icons/gifts/ogon/iduschiy-skvoz-ogon.webp
   badges:
   - type: act
     text: В свой ход
@@ -50,7 +50,7 @@ gifts:
 - name: Огненная Буря
   slug: ognennaya-burya
   tier: lesser
-  icon: /images/icons/gifts/ogon/ognennaya-burya.webp
+  icon: images/icons/gifts/ogon/ognennaya-burya.webp
   badges:
   - type: act
     text: Действие
@@ -64,7 +64,7 @@ gifts:
 - name: Пламенный Нимб
   slug: plamennyy-nimb
   tier: lesser
-  icon: /images/icons/gifts/ogon/plamennyy-nimb.webp
+  icon: images/icons/gifts/ogon/plamennyy-nimb.webp
   badges:
   - type: act
     text: В свой ход
@@ -76,7 +76,7 @@ gifts:
 - name: Поглощающий Взгляд
   slug: pogloschayuschiy-vzglyad
   tier: lesser
-  icon: /images/icons/gifts/ogon/pogloschayuschiy-vzglyad.webp
+  icon: images/icons/gifts/ogon/pogloschayuschiy-vzglyad.webp
   badges:
   - type: act
     text: Действие
@@ -89,7 +89,7 @@ gifts:
 - name: Жгучий Упрёк
   slug: zhguchiy-uprek
   tier: greater
-  icon: /images/icons/gifts/ogon/zhguchiy-uprek.webp
+  icon: images/icons/gifts/ogon/zhguchiy-uprek.webp
   badges:
   - type: act
     text: В свой ход
@@ -102,7 +102,7 @@ gifts:
 - name: Обжигающий Клинок
   slug: obzhigayuschiy-klinok
   tier: greater
-  icon: /images/icons/gifts/ogon/obzhigayuschiy-klinok.webp
+  icon: images/icons/gifts/ogon/obzhigayuschiy-klinok.webp
   badges:
   - type: act
     text: В свой ход
@@ -115,7 +115,7 @@ gifts:
 - name: Слова из Углей
   slug: slova-iz-ugley
   tier: greater
-  icon: /images/icons/gifts/ogon/slova-iz-ugley.webp
+  icon: images/icons/gifts/ogon/slova-iz-ugley.webp
   badges:
   - type: act
     text: В свой ход

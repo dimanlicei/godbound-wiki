@@ -4,7 +4,7 @@ colors:
   glow: '#a8b6ff'
   deep: '#141a30'
   dark: '#070a16'
-icon: /images/icons/words/noch.webp
+icon: images/icons/words/noch.webp
 description: Сновидения, сон, тьма и спокойствие можно найти под знаменем ночи. Ночь проходит над многими
   местами одновременно и проникает даже в самые охраняемые покои. Слово Ночи может совершать чудеса, включающие
   сон, слепоту, стремительный переход во тьме и физическую неосязаемость. Для лучшего эффекта этим дарам
@@ -14,7 +14,7 @@ gifts:
 - name: Дорога Теней
   slug: doroga-teney
   tier: lesser
-  icon: /images/icons/gifts/noch/doroga-teney.webp
+  icon: images/icons/gifts/noch/doroga-teney.webp
   badges:
   - type: act
     text: Действие
@@ -26,7 +26,7 @@ gifts:
 - name: Ножи Ночи
   slug: nozhi-nochi
   tier: lesser
-  icon: /images/icons/gifts/noch/nozhi-nochi.webp
+  icon: images/icons/gifts/noch/nozhi-nochi.webp
   badges:
   - type: act
     text: В свой ход
@@ -36,7 +36,7 @@ gifts:
 - name: Приветствуя Закат
   slug: privetstvuya-zakat
   tier: lesser
-  icon: /images/icons/gifts/noch/privetstvuya-zakat.webp
+  icon: images/icons/gifts/noch/privetstvuya-zakat.webp
   badges:
   - type: act
     text: Действие
@@ -47,7 +47,7 @@ gifts:
 - name: Проклятье Их Глазам
   slug: proklyate-ih-glazam
   tier: lesser
-  icon: /images/icons/gifts/noch/proklyate-ih-glazam.webp
+  icon: images/icons/gifts/noch/proklyate-ih-glazam.webp
   badges:
   - type: act
     text: Действие
@@ -64,7 +64,7 @@ gifts:
 - name: Темнеющая Лестница
   slug: temneyuschaya-lestnitsa
   tier: lesser
-  icon: /images/icons/gifts/noch/temneyuschaya-lestnitsa.webp
+  icon: images/icons/gifts/noch/temneyuschaya-lestnitsa.webp
   badges:
   - type: act
     text: Постоянно
@@ -76,7 +76,7 @@ gifts:
 - name: Тихое Безмолвие Сна
   slug: tihoe-bezmolvie-sna
   tier: lesser
-  icon: /images/icons/gifts/noch/tihoe-bezmolvie-sna.webp
+  icon: images/icons/gifts/noch/tihoe-bezmolvie-sna.webp
   badges:
   - type: act
     text: Действие
@@ -89,7 +89,7 @@ gifts:
 - name: Говорящий в Снах
   slug: govoryaschiy-v-snah
   tier: greater
-  icon: /images/icons/gifts/noch/govoryaschiy-v-snah.webp
+  icon: images/icons/gifts/noch/govoryaschiy-v-snah.webp
   badges:
   - type: act
     text: Действие
@@ -102,7 +102,7 @@ gifts:
 - name: Плоть Тени
   slug: plot-teni
   tier: greater
-  icon: /images/icons/gifts/noch/plot-teni.webp
+  icon: images/icons/gifts/noch/plot-teni.webp
   badges:
   - type: act
     text: Действие
@@ -113,7 +113,7 @@ gifts:
 - name: Тьма в Полдень
   slug: tma-v-polden
   tier: greater
-  icon: /images/icons/gifts/noch/tma-v-polden.webp
+  icon: images/icons/gifts/noch/tma-v-polden.webp
   badges:
   - type: act
     text: Действие

@@ -4,7 +4,7 @@ colors:
   glow: '#ee8fa6'
   deep: '#33101c'
   dark: '#14060c'
-icon: /images/icons/words/vino.webp
+icon: images/icons/words/vino.webp
 description: |-
   Несмотря на название, под Слово Вина подпадают все вещества, изменяющие сознание, — будь то дурманящее зелье или священное вино, — а также состояния опьянения, отравления, исступлённого неистовства и общественного разложения.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Венец Благоуханных Лоз
   slug: venets-blagouhannyh-loz
   tier: lesser
-  icon: /images/icons/gifts/vino/venets-blagouhannyh-loz.webp
+  icon: images/icons/gifts/vino/venets-blagouhannyh-loz.webp
   badges:
   - type: act
     text: Действие
@@ -33,7 +33,7 @@ gifts:
 - name: Вода в Вино
   slug: voda-v-vino
   tier: lesser
-  icon: /images/icons/gifts/vino/voda-v-vino.webp
+  icon: images/icons/gifts/vino/voda-v-vino.webp
   badges:
   - type: act
     text: Действие
@@ -50,7 +50,7 @@ gifts:
 - name: Грохот Барабанов и Тарелок
   slug: grohot-barabanov-i-tarelok
   tier: lesser
-  icon: /images/icons/gifts/vino/grohot-barabanov-i-tarelok.webp
+  icon: images/icons/gifts/vino/grohot-barabanov-i-tarelok.webp
   badges:
   - type: act
     text: Постоянно
@@ -65,7 +65,7 @@ gifts:
 - name: Проказы Сатира
   slug: prokazy-satira
   tier: lesser
-  icon: /images/icons/gifts/vino/prokazy-satira.webp
+  icon: images/icons/gifts/vino/prokazy-satira.webp
   badges:
   - type: act
     text: Действие
@@ -80,7 +80,7 @@ gifts:
 - name: Раб Вакханалии
   slug: rab-vakhanalii
   tier: lesser
-  icon: /images/icons/gifts/vino/rab-vakhanalii.webp
+  icon: images/icons/gifts/vino/rab-vakhanalii.webp
   badges:
   - type: act
     text: В свой ход
@@ -96,7 +96,7 @@ gifts:
 - name: Хмельной Мираж
   slug: hmelnoy-mirazh
   tier: lesser
-  icon: /images/icons/gifts/vino/hmelnoy-mirazh.webp
+  icon: images/icons/gifts/vino/hmelnoy-mirazh.webp
   badges:
   - type: act
     text: В свой ход
@@ -112,7 +112,7 @@ gifts:
 - name: Горько-сладкая Трапеза
   slug: gorko-sladkaya-trapeza
   tier: greater
-  icon: /images/icons/gifts/vino/gorko-sladkaya-trapeza.webp
+  icon: images/icons/gifts/vino/gorko-sladkaya-trapeza.webp
   badges:
   - type: act
     text: В свой ход
@@ -129,7 +129,7 @@ gifts:
 - name: Исступлённое Неистовство Менады
   slug: isstuplennoe-neistovstvo-menady
   tier: greater
-  icon: /images/icons/gifts/vino/isstuplennoe-neistovstvo-menady.webp
+  icon: images/icons/gifts/vino/isstuplennoe-neistovstvo-menady.webp
   badges:
   - type: act
     text: Действие
@@ -146,7 +146,7 @@ gifts:
 - name: Карналии
   slug: karnalii
   tier: greater
-  icon: /images/icons/gifts/vino/karnalii.webp
+  icon: images/icons/gifts/vino/karnalii.webp
   badges:
   - type: act
     text: Постоянно

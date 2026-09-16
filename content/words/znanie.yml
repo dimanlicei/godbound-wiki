@@ -4,7 +4,7 @@ colors:
   glow: '#9fd0ee'
   deep: '#122334'
   dark: '#060e16'
-icon: /images/icons/words/znanie.webp
+icon: images/icons/words/znanie.webp
 description: |-
   Знание — это Слово понимания. Всё, что известно смертным учёным, находится в сфере действия этого Слова, вместе с тайнами прошлого и настоящего. Слово Знания не может пронзить завесу будущего, но может раскрыть практически что угодно о настоящем мире. Однако глубокие тайны мира кампании ему не по зубам. Факты или события, совершённые кем-то со Словом Обмана, позволяют их автору пройти спасбросок Духа, чтобы скрыть их от Слова Знания.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Весть Издалека
   slug: vest-izdaleka
   tier: lesser
-  icon: /images/icons/gifts/znanie/vest-izdaleka.webp
+  icon: images/icons/gifts/znanie/vest-izdaleka.webp
   badges:
   - type: act
     text: Действие
@@ -25,7 +25,7 @@ gifts:
 - name: Иссечение Понимания
   slug: issechenie-ponimaniya
   tier: lesser
-  icon: /images/icons/gifts/znanie/issechenie-ponimaniya.webp
+  icon: images/icons/gifts/znanie/issechenie-ponimaniya.webp
   badges:
   - type: act
     text: Действие
@@ -38,7 +38,7 @@ gifts:
 - name: Лучшие Планы
   slug: luchshie-plany
   tier: lesser
-  icon: /images/icons/gifts/znanie/luchshie-plany.webp
+  icon: images/icons/gifts/znanie/luchshie-plany.webp
   badges:
   - type: act
     text: Действие
@@ -50,7 +50,7 @@ gifts:
 - name: Лучший Способ
   slug: luchshiy-sposob
   tier: lesser
-  icon: /images/icons/gifts/znanie/luchshiy-sposob.webp
+  icon: images/icons/gifts/znanie/luchshiy-sposob.webp
   badges:
   - type: act
     text: Действие
@@ -62,7 +62,7 @@ gifts:
 - name: Обжигающая Истина
   slug: obzhigayuschaya-istina
   tier: lesser
-  icon: /images/icons/gifts/znanie/obzhigayuschaya-istina.webp
+  icon: images/icons/gifts/znanie/obzhigayuschaya-istina.webp
   badges:
   - type: act
     text: Действие
@@ -74,7 +74,7 @@ gifts:
 - name: Открытая Истина
   slug: otkrytaya-istina
   tier: lesser
-  icon: /images/icons/gifts/znanie/otkrytaya-istina.webp
+  icon: images/icons/gifts/znanie/otkrytaya-istina.webp
   badges:
   - type: act
     text: Действие
@@ -85,7 +85,7 @@ gifts:
 - name: Всеведущий Учёный
   slug: vseveduschiy-uchenyy
   tier: greater
-  icon: /images/icons/gifts/znanie/vseveduschiy-uchenyy.webp
+  icon: images/icons/gifts/znanie/vseveduschiy-uchenyy.webp
   badges:
   - type: act
     text: Постоянно
@@ -97,7 +97,7 @@ gifts:
 - name: Неотразимый Вопрос
   slug: neotrazimyy-vopros
   tier: greater
-  icon: /images/icons/gifts/znanie/neotrazimyy-vopros.webp
+  icon: images/icons/gifts/znanie/neotrazimyy-vopros.webp
   badges:
   - type: act
     text: Действие
@@ -109,7 +109,7 @@ gifts:
 - name: Обнаружить Дефект
   slug: obnaruzhit-defekt
   tier: greater
-  icon: /images/icons/gifts/znanie/obnaruzhit-defekt.webp
+  icon: images/icons/gifts/znanie/obnaruzhit-defekt.webp
   badges:
   - type: act
     text: Мгновенно

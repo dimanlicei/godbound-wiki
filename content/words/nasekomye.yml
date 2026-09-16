@@ -4,7 +4,7 @@ colors:
   glow: '#e8b45a'
   deep: '#2e2410'
   dark: '#120e06'
-icon: /images/icons/words/nasekomye.webp
+icon: images/icons/words/nasekomye.webp
 description: |-
   Владыки роя и множества, Обожествлённые Насекомых правят и мерзкими полчищами, и хитиновыми чудовищами. Они владеют силами живучести, голода и бездумного напора.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Мерзостный Яд
   slug: merzostnyy-yad
   tier: lesser
-  icon: /images/icons/gifts/nasekomye/merzostnyy-yad.webp
+  icon: images/icons/gifts/nasekomye/merzostnyy-yad.webp
   badges:
   - type: act
     text: В свой ход
@@ -28,7 +28,7 @@ gifts:
 - name: Плоть Многих
   slug: plot-mnogih
   tier: lesser
-  icon: /images/icons/gifts/nasekomye/plot-mnogih.webp
+  icon: images/icons/gifts/nasekomye/plot-mnogih.webp
   badges:
   - type: act
     text: Действие
@@ -42,7 +42,7 @@ gifts:
 - name: Прыжок Мухи
   slug: pryzhok-muhi
   tier: lesser
-  icon: /images/icons/gifts/nasekomye/pryzhok-muhi.webp
+  icon: images/icons/gifts/nasekomye/pryzhok-muhi.webp
   badges:
   - type: act
     text: Мгновенно
@@ -53,7 +53,7 @@ gifts:
 - name: Созвать Рой
   slug: sozvat-roy
   tier: lesser
-  icon: /images/icons/gifts/nasekomye/sozvat-roy.webp
+  icon: images/icons/gifts/nasekomye/sozvat-roy.webp
   badges:
   - type: act
     text: Действие
@@ -67,7 +67,7 @@ gifts:
 - name: Хитиновая Живучесть
   slug: hitinovaya-zhivuchest
   tier: lesser
-  icon: /images/icons/gifts/nasekomye/hitinovaya-zhivuchest.webp
+  icon: images/icons/gifts/nasekomye/hitinovaya-zhivuchest.webp
   badges:
   - type: act
     text: Постоянно
@@ -79,7 +79,7 @@ gifts:
 - name: Червь Внутри
   slug: cherv-vnutri
   tier: lesser
-  icon: /images/icons/gifts/nasekomye/cherv-vnutri.webp
+  icon: images/icons/gifts/nasekomye/cherv-vnutri.webp
   badges:
   - type: act
     text: Мгновенно
@@ -97,7 +97,7 @@ gifts:
 - name: Летать, Рыть и Буравить
   slug: letat-ryt-i-buravit
   tier: greater
-  icon: /images/icons/gifts/nasekomye/letat-ryt-i-buravit.webp
+  icon: images/icons/gifts/nasekomye/letat-ryt-i-buravit.webp
   badges:
   - type: act
     text: Постоянно
@@ -109,7 +109,7 @@ gifts:
 - name: Миллион Жвал
   slug: million-zhval
   tier: greater
-  icon: /images/icons/gifts/nasekomye/million-zhval.webp
+  icon: images/icons/gifts/nasekomye/million-zhval.webp
   badges:
   - type: act
     text: Действие
@@ -126,7 +126,7 @@ gifts:
 - name: Тысяча Крыльев
   slug: tysyacha-krylev
   tier: greater
-  icon: /images/icons/gifts/nasekomye/tysyacha-krylev.webp
+  icon: images/icons/gifts/nasekomye/tysyacha-krylev.webp
   badges:
   - type: act
     text: Действие

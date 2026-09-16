@@ -4,7 +4,7 @@ colors:
   glow: '#ffab6b'
   deep: '#2e1c10'
   dark: '#120a06'
-icon: /images/icons/words/titanopad.webp
+icon: images/icons/words/titanopad.webp
 description: Божественная суть объединяет вас и вашего богохода, делая единым божественным существом.
   Отныне ваш богоход имеет интеллект достаточный для выполнения любых команд пилота, пока способен слышать
   ваш голос или получать от вас прямые команды. Богоход отныне так же перенимает здоровье, броню и умения
@@ -13,7 +13,7 @@ gifts:
 - name: Амплификатор могущества
   slug: amplifikator-moguschestva
   tier: lesser
-  icon: /images/icons/gifts/titanopad/amplifikator-moguschestva.webp
+  icon: images/icons/gifts/titanopad/amplifikator-moguschestva.webp
   badges:
   - type: act
     text: Мгновенно
@@ -25,7 +25,7 @@ gifts:
 - name: Беспринципный бараж
   slug: besprintsipnyy-barazh
   tier: lesser
-  icon: /images/icons/gifts/titanopad/besprintsipnyy-barazh.webp
+  icon: images/icons/gifts/titanopad/besprintsipnyy-barazh.webp
   badges:
   - type: act
     text: Действие
@@ -40,7 +40,7 @@ gifts:
 - name: Недвижимый бастион
   slug: nedvizhimyy-bastion
   tier: lesser
-  icon: /images/icons/gifts/titanopad/nedvizhimyy-bastion.webp
+  icon: images/icons/gifts/titanopad/nedvizhimyy-bastion.webp
   badges:
   - type: act
     text: В свой ход
@@ -51,7 +51,7 @@ gifts:
 - name: Синхронизация мира
   slug: sinhronizatsiya-mira
   tier: lesser
-  icon: /images/icons/gifts/titanopad/sinhronizatsiya-mira.webp
+  icon: images/icons/gifts/titanopad/sinhronizatsiya-mira.webp
   badges:
   - type: act
     text: Постоянно
@@ -64,7 +64,7 @@ gifts:
 - name: Странник стального идеала
   slug: strannik-stalnogo-ideala
   tier: lesser
-  icon: /images/icons/gifts/titanopad/strannik-stalnogo-ideala.webp
+  icon: images/icons/gifts/titanopad/strannik-stalnogo-ideala.webp
   badges:
   - type: act
     text: Постоянно
@@ -76,7 +76,7 @@ gifts:
 - name: Живой завод
   slug: zhivoy-zavod
   tier: greater
-  icon: /images/icons/gifts/titanopad/zhivoy-zavod.webp
+  icon: images/icons/gifts/titanopad/zhivoy-zavod.webp
   badges:
   - type: act
     text: Действие
@@ -87,7 +87,7 @@ gifts:
 - name: Трон пилота
   slug: tron-pilota
   tier: greater
-  icon: /images/icons/gifts/titanopad/tron-pilota.webp
+  icon: images/icons/gifts/titanopad/tron-pilota.webp
   badges:
   - type: act
     text: Мгновенно

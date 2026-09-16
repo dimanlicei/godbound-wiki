@@ -4,7 +4,7 @@ colors:
   glow: '#9ccfff'
   deep: '#0d2942'
   dark: '#04121f'
-icon: /images/icons/words/nebo.webp
+icon: images/icons/words/nebo.webp
 description: |-
   Слово Неба правит погодой, полётом, молнией и ветром. Осенённые его мощью движутся по воздуху так же легко, как по земле, владеют молнией как оружием или губят целые города бурей и ветром. Чудеса неба могут прогнать враждебную погоду, поразить цель ударом молнии, вызвать ветер, чтобы поднять и перенести что-либо, или совершить иной подвиг власти над воздухом.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Глаза в Вышине
   slug: glaza-v-vyshine
   tier: lesser
-  icon: /images/icons/gifts/nebo/glaza-v-vyshine.webp
+  icon: images/icons/gifts/nebo/glaza-v-vyshine.webp
   badges:
   - type: act
     text: Действие
@@ -26,7 +26,7 @@ gifts:
 - name: Дождь Молний
   slug: dozhd-molniy
   tier: lesser
-  icon: /images/icons/gifts/nebo/dozhd-molniy.webp
+  icon: images/icons/gifts/nebo/dozhd-molniy.webp
   badges:
   - type: act
     text: Действие
@@ -38,7 +38,7 @@ gifts:
 - name: Облака Внизу
   slug: oblaka-vnizu
   tier: lesser
-  icon: /images/icons/gifts/nebo/oblaka-vnizu.webp
+  icon: images/icons/gifts/nebo/oblaka-vnizu.webp
   badges:
   - type: act
     text: В свой ход
@@ -51,7 +51,7 @@ gifts:
 - name: Плеть Бури
   slug: plet-buri
   tier: lesser
-  icon: /images/icons/gifts/nebo/plet-buri.webp
+  icon: images/icons/gifts/nebo/plet-buri.webp
   badges:
   - type: act
     text: В свой ход
@@ -63,7 +63,7 @@ gifts:
 - name: Поющий Ветер
   slug: poyuschiy-veter
   tier: lesser
-  icon: /images/icons/gifts/nebo/poyuschiy-veter.webp
+  icon: images/icons/gifts/nebo/poyuschiy-veter.webp
   badges:
   - type: act
     text: Действие
@@ -76,7 +76,7 @@ gifts:
 - name: Сапфировые Крылья
   slug: sapfirovye-krylya
   tier: lesser
-  icon: /images/icons/gifts/nebo/sapfirovye-krylya.webp
+  icon: images/icons/gifts/nebo/sapfirovye-krylya.webp
   badges:
   - type: act
     text: В свой ход
@@ -87,7 +87,7 @@ gifts:
 - name: Глас Ветров
   slug: glas-vetrov
   tier: greater
-  icon: /images/icons/gifts/nebo/glas-vetrov.webp
+  icon: images/icons/gifts/nebo/glas-vetrov.webp
   badges:
   - type: act
     text: Действие
@@ -100,7 +100,7 @@ gifts:
 - name: Удар Грома
   slug: udar-groma
   tier: greater
-  icon: /images/icons/gifts/nebo/udar-groma.webp
+  icon: images/icons/gifts/nebo/udar-groma.webp
   badges:
   - type: act
     text: Действие
@@ -115,7 +115,7 @@ gifts:
 - name: Ярость Небес
   slug: yarost-nebes
   tier: greater
-  icon: /images/icons/gifts/nebo/yarost-nebes.webp
+  icon: images/icons/gifts/nebo/yarost-nebes.webp
   badges:
   - type: act
     text: Действие

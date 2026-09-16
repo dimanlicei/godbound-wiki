@@ -4,7 +4,7 @@ colors:
   glow: '#ff92c0'
   deep: '#3a0d22'
   dark: '#15050c'
-icon: /images/icons/words/strast.webp
+icon: images/icons/words/strast.webp
 description: |-
   Слово Страсти повелевает сердцем, наполняя его чувствами, которых желает Обожествлённый, или изгоняя те, что оказались обременительны. Хотя эти чувства могут быть всепоглощающими, Обожествлённый не может предписать, что подопечные с ними сделают. В этом смысле Страсть побуждает цель к собственным поступкам, но не даёт прямого управления, как Слово Приказа.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Затушить Свечу Сердца
   slug: zatushit-svechu-serdtsa
   tier: lesser
-  icon: /images/icons/gifts/strast/zatushit-svechu-serdtsa.webp
+  icon: images/icons/gifts/strast/zatushit-svechu-serdtsa.webp
   badges:
   - type: act
     text: Действие
@@ -27,7 +27,7 @@ gifts:
 - name: Знамя Страсти
   slug: znamya-strasti
   tier: lesser
-  icon: /images/icons/gifts/strast/znamya-strasti.webp
+  icon: images/icons/gifts/strast/znamya-strasti.webp
   badges:
   - type: act
     text: Действие
@@ -40,7 +40,7 @@ gifts:
 - name: Сердце Льва
   slug: serdtse-lva
   tier: lesser
-  icon: /images/icons/gifts/strast/serdtse-lva.webp
+  icon: images/icons/gifts/strast/serdtse-lva.webp
   badges:
   - type: act
     text: Постоянно
@@ -54,7 +54,7 @@ gifts:
 - name: Следуй за Ниточками
   slug: sleduy-za-nitochkami
   tier: lesser
-  icon: /images/icons/gifts/strast/sleduy-za-nitochkami.webp
+  icon: images/icons/gifts/strast/sleduy-za-nitochkami.webp
   badges:
   - type: act
     text: Действие
@@ -67,7 +67,7 @@ gifts:
 - name: Сотворить Друга
   slug: sotvorit-druga
   tier: lesser
-  icon: /images/icons/gifts/strast/sotvorit-druga.webp
+  icon: images/icons/gifts/strast/sotvorit-druga.webp
   badges:
   - type: act
     text: Действие
@@ -81,7 +81,7 @@ gifts:
 - name: Ужасающий Облик
   slug: uzhasayuschiy-oblik
   tier: lesser
-  icon: /images/icons/gifts/strast/uzhasayuschiy-oblik.webp
+  icon: images/icons/gifts/strast/uzhasayuschiy-oblik.webp
   badges:
   - type: act
     text: Действие
@@ -94,7 +94,7 @@ gifts:
 - name: Глубоко Похороненная Песня
   slug: gluboko-pohoronennaya-pesnya
   tier: greater
-  icon: /images/icons/gifts/strast/gluboko-pohoronennaya-pesnya.webp
+  icon: images/icons/gifts/strast/gluboko-pohoronennaya-pesnya.webp
   badges:
   - type: act
     text: Действие
@@ -112,7 +112,7 @@ gifts:
 - name: Заразная Страсть
   slug: zaraznaya-strast
   tier: greater
-  icon: /images/icons/gifts/strast/zaraznaya-strast.webp
+  icon: images/icons/gifts/strast/zaraznaya-strast.webp
   badges:
   - type: act
     text: Действие
@@ -128,7 +128,7 @@ gifts:
 - name: Сердце как Глина
   slug: serdtse-kak-glina
   tier: greater
-  icon: /images/icons/gifts/strast/serdtse-kak-glina.webp
+  icon: images/icons/gifts/strast/serdtse-kak-glina.webp
   badges:
   - type: act
     text: Действие

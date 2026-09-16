@@ -4,7 +4,7 @@ colors:
   glow: '#9df0c4'
   deep: '#17301f'
   dark: '#08140c'
-icon: /images/icons/words/feya-anafema.webp
+icon: images/icons/words/feya-anafema.webp
 description: |-
   Слово Дикости воплощает угасающее великолепие древних фэйри. Давным-давно, в самых дальних пределах родовой памяти человечества, фэйри первобытных лесов виделись жуткими, непостижимыми силами или пугающе своенравными хищниками, которым поклонялся странный народ. Человеческий Обожествлённый никогда не может обладать этим Словом. В отличие от человеческих божеств, фэйри не нуждаются в религиозном почитании и не ищут его, хотя некоторые нечеловеческие народы вроде сильвари или гоблей глубоко их чтут. Их сила — в нетронутой, первозданной глуши, и они не переживут гибели своего леса.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Властный Облик
   slug: vlastnyy-oblik
   tier: lesser
-  icon: /images/icons/gifts/feya-anafema/vlastnyy-oblik.webp
+  icon: images/icons/gifts/feya-anafema/vlastnyy-oblik.webp
   badges:
   - type: act
     text: В свой ход
@@ -28,7 +28,7 @@ gifts:
 - name: Возвышенная Грация
   slug: vozvyshennaya-gratsiya
   tier: lesser
-  icon: /images/icons/gifts/feya-anafema/vozvyshennaya-gratsiya.webp
+  icon: images/icons/gifts/feya-anafema/vozvyshennaya-gratsiya.webp
   badges:
   - type: act
     text: Постоянно
@@ -46,7 +46,7 @@ gifts:
 - name: Королевские Владения
   slug: korolevskie-vladeniya
   tier: lesser
-  icon: /images/icons/gifts/feya-anafema/korolevskie-vladeniya.webp
+  icon: images/icons/gifts/feya-anafema/korolevskie-vladeniya.webp
   badges:
   - type: act
     text: Постоянно
@@ -60,7 +60,7 @@ gifts:
 - name: Лесная Свита
   slug: lesnaya-svita
   tier: lesser
-  icon: /images/icons/gifts/feya-anafema/lesnaya-svita.webp
+  icon: images/icons/gifts/feya-anafema/lesnaya-svita.webp
   badges:
   - type: act
     text: Постоянно
@@ -75,7 +75,7 @@ gifts:
 - name: Любимый Придворный
   slug: lyubimyy-pridvornyy
   tier: lesser
-  icon: /images/icons/gifts/feya-anafema/lyubimyy-pridvornyy.webp
+  icon: images/icons/gifts/feya-anafema/lyubimyy-pridvornyy.webp
   badges:
   - type: act
     text: Действие
@@ -90,7 +90,7 @@ gifts:
 - name: Освятить Клятву
   slug: osvyatit-klyatvu
   tier: lesser
-  icon: /images/icons/gifts/feya-anafema/osvyatit-klyatvu.webp
+  icon: images/icons/gifts/feya-anafema/osvyatit-klyatvu.webp
   badges:
   - type: act
     text: Постоянно
@@ -105,7 +105,7 @@ gifts:
 - name: Призвать Дикую Охоту
   slug: prizvat-dikuyu-ohotu
   tier: lesser
-  icon: /images/icons/gifts/feya-anafema/prizvat-dikuyu-ohotu.webp
+  icon: images/icons/gifts/feya-anafema/prizvat-dikuyu-ohotu.webp
   badges:
   - type: act
     text: Действие
@@ -120,7 +120,7 @@ gifts:
 - name: Корона Страны Эльфов
   slug: korona-strany-elfov
   tier: greater
-  icon: /images/icons/gifts/feya-anafema/korona-strany-elfov.webp
+  icon: images/icons/gifts/feya-anafema/korona-strany-elfov.webp
   badges:
   - type: act
     text: Постоянно
@@ -137,7 +137,7 @@ gifts:
 - name: Одеяние Дикости
   slug: odeyanie-dikosti
   tier: greater
-  icon: /images/icons/gifts/feya-anafema/odeyanie-dikosti.webp
+  icon: images/icons/gifts/feya-anafema/odeyanie-dikosti.webp
   badges:
   - type: act
     text: Постоянно
@@ -150,7 +150,7 @@ gifts:
 - name: Полюби Меня и Отчайся
   slug: polyubi-menya-i-otchaysya
   tier: greater
-  icon: /images/icons/gifts/feya-anafema/polyubi-menya-i-otchaysya.webp
+  icon: images/icons/gifts/feya-anafema/polyubi-menya-i-otchaysya.webp
   badges:
   - type: act
     text: Действие

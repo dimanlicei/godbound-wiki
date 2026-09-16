@@ -4,7 +4,7 @@ colors:
   glow: '#8fe4ff'
   deep: '#0b2436'
   dark: '#04101a'
-icon: /images/icons/words/led.webp
+icon: images/icons/words/led.webp
 description: |-
   Слово Льда повелевает не только льдом и жестоким снегом, но и увяданием, тлением и иссушением зимних месяцев. Оно губит растения, сковывает землю и обдирает край ледяными ветрами. Среди его милостей есть и силы паралича и неподвижности, что оставляют жертв застывшими и безмолвными, как изваяние из свежего льда.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Бледное Восхождение
   slug: blednoe-voshozhdenie
   tier: lesser
-  icon: /images/icons/gifts/led/blednoe-voshozhdenie.webp
+  icon: images/icons/gifts/led/blednoe-voshozhdenie.webp
   badges:
   - type: act
     text: В свой ход
@@ -25,7 +25,7 @@ gifts:
 - name: Зимний Дворец
   slug: zimniy-dvorets
   tier: lesser
-  icon: /images/icons/gifts/led/zimniy-dvorets.webp
+  icon: images/icons/gifts/led/zimniy-dvorets.webp
   badges:
   - type: act
     text: Действие
@@ -40,7 +40,7 @@ gifts:
 - name: Ледяные Оковы
   slug: ledyanye-okovy
   tier: lesser
-  icon: /images/icons/gifts/led/ledyanye-okovy.webp
+  icon: images/icons/gifts/led/ledyanye-okovy.webp
   badges:
   - type: act
     text: Действие
@@ -56,7 +56,7 @@ gifts:
 - name: Лютый Холод
   slug: lyutyy-holod
   tier: lesser
-  icon: /images/icons/gifts/led/lyutyy-holod.webp
+  icon: images/icons/gifts/led/lyutyy-holod.webp
   badges:
   - type: act
     text: В свой ход
@@ -68,7 +68,7 @@ gifts:
 - name: Одеяние Белейшего Холода
   slug: odeyanie-beleyshego-holoda
   tier: lesser
-  icon: /images/icons/gifts/led/odeyanie-beleyshego-holoda.webp
+  icon: images/icons/gifts/led/odeyanie-beleyshego-holoda.webp
   badges:
   - type: act
     text: Постоянно
@@ -79,7 +79,7 @@ gifts:
 - name: Пасть Зимы
   slug: past-zimy
   tier: lesser
-  icon: /images/icons/gifts/led/past-zimy.webp
+  icon: images/icons/gifts/led/past-zimy.webp
   badges:
   - type: act
     text: Мгновенно
@@ -91,7 +91,7 @@ gifts:
 - name: Вихрь Падающего Снега
   slug: vihr-padayuschego-snega
   tier: greater
-  icon: /images/icons/gifts/led/vihr-padayuschego-snega.webp
+  icon: images/icons/gifts/led/vihr-padayuschego-snega.webp
   badges:
   - type: act
     text: Действие
@@ -104,7 +104,7 @@ gifts:
 - name: Король/Королева Зимы
   slug: korol-koroleva-zimy
   tier: greater
-  icon: /images/icons/gifts/led/korol-koroleva-zimy.webp
+  icon: images/icons/gifts/led/korol-koroleva-zimy.webp
   badges:
   - type: act
     text: В свой ход
@@ -119,7 +119,7 @@ gifts:
 - name: Морозное Сердце
   slug: moroznoe-serdtse
   tier: greater
-  icon: /images/icons/gifts/led/moroznoe-serdtse.webp
+  icon: images/icons/gifts/led/moroznoe-serdtse.webp
   badges:
   - type: act
     text: Действие

@@ -4,7 +4,7 @@ colors:
   glow: '#c3e08f'
   deep: '#1f2a16'
   dark: '#0b1108'
-icon: /images/icons/words/obraschenie.webp
+icon: images/icons/words/obraschenie.webp
 description: |-
   Слово Обращения повелевает всеми видами физических трансформаций, как самого обладателя, так и тех, на кого направлена его сила. Обращение — очень физическое, осязаемое Слово, и оно не изменяет сознание, выходя за рамки необходимого для использования новых конечностей или имитации чужого облика. Оно формирует плоть по желанию владельца. При обращении в другую форму немагическая одежда и личные предметы либо исчезают, либо трансмутируют в соответствие с новой формой. Исчезнувшие предметы появляются, когда обернувшийся возвращается в форму, в которой их можно носить или использовать, а изменённые предметы принимают свой первоначальный вид. Обращённые предметы, сброшенные Обожествлённым, остаются в своей новой форме, пока он не изменит обличие.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Десять Тысяч Шкур
   slug: desyat-tysyach-shkur
   tier: lesser
-  icon: /images/icons/gifts/obraschenie/desyat-tysyach-shkur.webp
+  icon: images/icons/gifts/obraschenie/desyat-tysyach-shkur.webp
   badges:
   - type: act
     text: Действие
@@ -27,7 +27,7 @@ gifts:
 - name: Зализать Раны
   slug: zalizat-rany
   tier: lesser
-  icon: /images/icons/gifts/obraschenie/zalizat-rany.webp
+  icon: images/icons/gifts/obraschenie/zalizat-rany.webp
   badges:
   - type: act
     text: Действие
@@ -40,7 +40,7 @@ gifts:
 - name: Личина Честного Смертного
   slug: lichina-chestnogo-smertnogo
   tier: lesser
-  icon: /images/icons/gifts/obraschenie/lichina-chestnogo-smertnogo.webp
+  icon: images/icons/gifts/obraschenie/lichina-chestnogo-smertnogo.webp
   badges:
   - type: act
     text: Действие
@@ -54,7 +54,7 @@ gifts:
 - name: Навык Заимствованной Формы
   slug: navyk-zaimstvovannoy-formy
   tier: lesser
-  icon: /images/icons/gifts/obraschenie/navyk-zaimstvovannoy-formy.webp
+  icon: images/icons/gifts/obraschenie/navyk-zaimstvovannoy-formy.webp
   badges:
   - type: act
     text: Мгновенно
@@ -65,7 +65,7 @@ gifts:
 - name: Плазматическая Форма
   slug: plazmaticheskaya-forma
   tier: lesser
-  icon: /images/icons/gifts/obraschenie/plazmaticheskaya-forma.webp
+  icon: images/icons/gifts/obraschenie/plazmaticheskaya-forma.webp
   badges:
   - type: act
     text: Действие
@@ -76,7 +76,7 @@ gifts:
 - name: Хватающие Когти
   slug: hvatayuschie-kogti
   tier: lesser
-  icon: /images/icons/gifts/obraschenie/hvatayuschie-kogti.webp
+  icon: images/icons/gifts/obraschenie/hvatayuschie-kogti.webp
   badges:
   - type: act
     text: В свой ход
@@ -89,7 +89,7 @@ gifts:
 - name: Величие Изнутри
   slug: velichie-iznutri
   tier: greater
-  icon: /images/icons/gifts/obraschenie/velichie-iznutri.webp
+  icon: images/icons/gifts/obraschenie/velichie-iznutri.webp
   badges:
   - type: act
     text: Постоянно
@@ -100,7 +100,7 @@ gifts:
 - name: Лепка Плоти и Кости
   slug: lepka-ploti-i-kosti
   tier: greater
-  icon: /images/icons/gifts/obraschenie/lepka-ploti-i-kosti.webp
+  icon: images/icons/gifts/obraschenie/lepka-ploti-i-kosti.webp
   badges:
   - type: act
     text: Действие
@@ -114,7 +114,7 @@ gifts:
 - name: Обманчивые Лики
   slug: obmanchivye-liki
   tier: greater
-  icon: /images/icons/gifts/obraschenie/obmanchivye-liki.webp
+  icon: images/icons/gifts/obraschenie/obmanchivye-liki.webp
   badges:
   - type: act
     text: Постоянно
@@ -125,7 +125,7 @@ gifts:
 - name: Тело Холодной Стали
   slug: telo-holodnoy-stali
   tier: greater
-  icon: /images/icons/gifts/obraschenie/telo-holodnoy-stali.webp
+  icon: images/icons/gifts/obraschenie/telo-holodnoy-stali.webp
   badges:
   - type: act
     text: Действие

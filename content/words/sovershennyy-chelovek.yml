@@ -4,7 +4,7 @@ colors:
   glow: '#f0c68a'
   deep: '#2e2418'
   dark: '#120e08'
-icon: /images/icons/words/sovershennyy-chelovek.webp
+icon: images/icons/words/sovershennyy-chelovek.webp
 description: Вы — образец человеческих возможностей, отточенный до превосходной остроты одержимой волей,
   улучшенной наследственностью или слепым случаем. Любая характеристика ниже 13 поднимается до 13, а одна
   характеристика на ваш выбор может быть поднята до 18. Хотя вы, строго говоря, смертны, ваши превосходные
@@ -15,7 +15,7 @@ gifts:
 - name: Всё Своё
   slug: vse-svoe
   tier: lesser
-  icon: /images/icons/gifts/sovershennyy-chelovek/vse-svoe.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/vse-svoe.webp
   badges:
   - type: act
     text: Постоянно
@@ -29,7 +29,7 @@ gifts:
 - name: Выверенный Прицел
   slug: vyverennyy-pritsel
   tier: lesser
-  icon: /images/icons/gifts/sovershennyy-chelovek/vyverennyy-pritsel.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/vyverennyy-pritsel.webp
   badges:
   - type: act
     text: В свой ход
@@ -40,7 +40,7 @@ gifts:
 - name: Лучший в Мире Х
   slug: luchshiy-v-mire-h
   tier: lesser
-  icon: /images/icons/gifts/sovershennyy-chelovek/luchshiy-v-mire-h.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/luchshiy-v-mire-h.webp
   badges:
   - type: act
     text: Постоянно
@@ -52,7 +52,7 @@ gifts:
 - name: Народный Заступник
   slug: narodnyy-zastupnik
   tier: lesser
-  icon: /images/icons/gifts/sovershennyy-chelovek/narodnyy-zastupnik.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/narodnyy-zastupnik.webp
   badges:
   - type: act
     text: Постоянно
@@ -66,7 +66,7 @@ gifts:
 - name: По Стенам
   slug: po-stenam
   tier: lesser
-  icon: /images/icons/gifts/sovershennyy-chelovek/po-stenam.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/po-stenam.webp
   badges:
   - type: act
     text: Постоянно
@@ -78,7 +78,7 @@ gifts:
 - name: Удача Смертного
   slug: udacha-smertnogo
   tier: lesser
-  icon: /images/icons/gifts/sovershennyy-chelovek/udacha-smertnogo.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/udacha-smertnogo.webp
   badges:
   - type: act
     text: Мгновенно
@@ -90,7 +90,7 @@ gifts:
 - name: Гроза Улиц
   slug: groza-ulits
   tier: greater
-  icon: /images/icons/gifts/sovershennyy-chelovek/groza-ulits.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/groza-ulits.webp
   badges:
   - type: act
     text: Постоянно
@@ -103,7 +103,7 @@ gifts:
 - name: Несгибаемая Воля
   slug: nesgibaemaya-volya
   tier: greater
-  icon: /images/icons/gifts/sovershennyy-chelovek/nesgibaemaya-volya.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/nesgibaemaya-volya.webp
   badges:
   - type: act
     text: Постоянно
@@ -115,7 +115,7 @@ gifts:
 - name: Человеческая Твёрдость
   slug: chelovecheskaya-tverdost
   tier: greater
-  icon: /images/icons/gifts/sovershennyy-chelovek/chelovecheskaya-tverdost.webp
+  icon: images/icons/gifts/sovershennyy-chelovek/chelovecheskaya-tverdost.webp
   badges:
   - type: act
     text: Действие

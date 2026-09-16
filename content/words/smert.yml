@@ -4,7 +4,7 @@ colors:
   glow: '#c9ccd4'
   deep: '#1b1b20'
   dark: '#0a0a0d'
-icon: /images/icons/words/smert.webp
+icon: images/icons/words/smert.webp
 description: |-
   Смерть ведома всему смертному, и это Слово даёт власть над этой неизбежной участью. Его чудеса отводят или приносят смерть, раскрывают подробности чьей-то гибели, повелевают неупокоенными мертвецами или создают беспокойную нежить.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Бледная Корона Манит
   slug: blednaya-korona-manit
   tier: lesser
-  icon: /images/icons/gifts/smert/blednaya-korona-manit.webp
+  icon: images/icons/gifts/smert/blednaya-korona-manit.webp
   badges:
   - type: act
     text: Действие
@@ -28,7 +28,7 @@ gifts:
 - name: Жатва Белой Кости
   slug: zhatva-beloy-kosti
   tier: lesser
-  icon: /images/icons/gifts/smert/zhatva-beloy-kosti.webp
+  icon: images/icons/gifts/smert/zhatva-beloy-kosti.webp
   badges:
   - type: act
     text: Действие
@@ -42,7 +42,7 @@ gifts:
 - name: Мантия Покоя
   slug: mantiya-pokoya
   tier: lesser
-  icon: /images/icons/gifts/smert/mantiya-pokoya.webp
+  icon: images/icons/gifts/smert/mantiya-pokoya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -55,7 +55,7 @@ gifts:
 - name: Отказ в Милосердии
   slug: otkaz-v-miloserdii
   tier: lesser
-  icon: /images/icons/gifts/smert/otkaz-v-miloserdii.webp
+  icon: images/icons/gifts/smert/otkaz-v-miloserdii.webp
   badges:
   - type: act
     text: Постоянно
@@ -68,7 +68,7 @@ gifts:
 - name: Рука-Коса
   slug: ruka-kosa
   tier: lesser
-  icon: /images/icons/gifts/smert/ruka-kosa.webp
+  icon: images/icons/gifts/smert/ruka-kosa.webp
   badges:
   - type: act
     text: В свой ход
@@ -80,7 +80,7 @@ gifts:
 - name: Хранитель Могил
   slug: hranitel-mogil
   tier: lesser
-  icon: /images/icons/gifts/smert/hranitel-mogil.webp
+  icon: images/icons/gifts/smert/hranitel-mogil.webp
   badges:
   - type: act
     text: В свой ход
@@ -94,7 +94,7 @@ gifts:
 - name: Нет Освобождения
   slug: net-osvobozhdeniya
   tier: greater
-  icon: /images/icons/gifts/smert/net-osvobozhdeniya.webp
+  icon: images/icons/gifts/smert/net-osvobozhdeniya.webp
   badges:
   - type: act
     text: В свой ход
@@ -108,7 +108,7 @@ gifts:
 - name: Пожинающее Слово
   slug: pozhinayuschee-slovo
   tier: greater
-  icon: /images/icons/gifts/smert/pozhinayuschee-slovo.webp
+  icon: images/icons/gifts/smert/pozhinayuschee-slovo.webp
   badges:
   - type: act
     text: Действие
@@ -124,7 +124,7 @@ gifts:
 - name: Призвать ко Дню
   slug: prizvat-ko-dnyu
   tier: greater
-  icon: /images/icons/gifts/smert/prizvat-ko-dnyu.webp
+  icon: images/icons/gifts/smert/prizvat-ko-dnyu.webp
   badges:
   - type: act
     text: Действие

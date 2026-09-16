@@ -4,7 +4,7 @@ colors:
   glow: '#b58cff'
   deep: '#1a0f2e'
   dark: '#080614'
-icon: /images/icons/words/bezdna-anafema.webp
+icon: images/icons/words/bezdna-anafema.webp
 description: |-
   Словом Бездны Обожествлённый не столько владеет, сколько оно владеет им. Оно отнимает у него всё, что хоть отдалённо напоминает живую человечность, взамен даруя вечную не-жизнь и наполняя его члены беспросветным холодом пустоты, известной также как Несотворённая Ночь. Таких зовут анафемой или личами, хотя смертным глазам они могут показаться княгиней-вампиром, мумифицированным царём или архинекромантом. Это не столько Слово, которым овладевают, сколько кощунственная напасть, которую претерпевают в погоне за извращённым долголетием или запретной силой. С природным ходом смерти или тления оно связано мало — куда больше с их извращением.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Взгляд в Бездну
   slug: vzglyad-v-bezdnu
   tier: lesser
-  icon: /images/icons/gifts/bezdna-anafema/vzglyad-v-bezdnu.webp
+  icon: images/icons/gifts/bezdna-anafema/vzglyad-v-bezdnu.webp
   badges:
   - type: act
     text: Мгновенно
@@ -28,7 +28,7 @@ gifts:
 - name: Владыка Ужаса
   slug: vladyka-uzhasa
   tier: lesser
-  icon: /images/icons/gifts/bezdna-anafema/vladyka-uzhasa.webp
+  icon: images/icons/gifts/bezdna-anafema/vladyka-uzhasa.webp
   badges:
   - type: act
     text: Постоянно
@@ -43,7 +43,7 @@ gifts:
 - name: Костяной Отец
   slug: kostyanoy-otets
   tier: lesser
-  icon: /images/icons/gifts/bezdna-anafema/kostyanoy-otets.webp
+  icon: images/icons/gifts/bezdna-anafema/kostyanoy-otets.webp
   badges:
   - type: act
     text: Действие
@@ -57,7 +57,7 @@ gifts:
 - name: Потусторонние Обереги
   slug: potustoronnie-oberegi
   tier: lesser
-  icon: /images/icons/gifts/bezdna-anafema/potustoronnie-oberegi.webp
+  icon: images/icons/gifts/bezdna-anafema/potustoronnie-oberegi.webp
   badges:
   - type: act
     text: Постоянно
@@ -73,7 +73,7 @@ gifts:
 - name: Прикосновение Пустоты
   slug: prikosnovenie-pustoty
   tier: lesser
-  icon: /images/icons/gifts/bezdna-anafema/prikosnovenie-pustoty.webp
+  icon: images/icons/gifts/bezdna-anafema/prikosnovenie-pustoty.webp
   badges:
   - type: act
     text: Постоянно
@@ -88,7 +88,7 @@ gifts:
 - name: Разум из Железа и Слоновой Кости
   slug: razum-iz-zheleza-i-slonovoy-kosti
   tier: lesser
-  icon: /images/icons/gifts/bezdna-anafema/razum-iz-zheleza-i-slonovoy-kosti.webp
+  icon: images/icons/gifts/bezdna-anafema/razum-iz-zheleza-i-slonovoy-kosti.webp
   badges:
   - type: act
     text: Постоянно
@@ -99,7 +99,7 @@ gifts:
 - name: Злоба Вечного
   slug: zloba-vechnogo
   tier: greater
-  icon: /images/icons/gifts/bezdna-anafema/zloba-vechnogo.webp
+  icon: images/icons/gifts/bezdna-anafema/zloba-vechnogo.webp
   badges:
   - type: act
     text: В свой ход
@@ -113,7 +113,7 @@ gifts:
 - name: Тёмные Тайны
   slug: temnye-tayny
   tier: greater
-  icon: /images/icons/gifts/bezdna-anafema/temnye-tayny.webp
+  icon: images/icons/gifts/bezdna-anafema/temnye-tayny.webp
   badges:
   - type: act
     text: Мгновенно
@@ -125,7 +125,7 @@ gifts:
 - name: Филактерия
   slug: filakteriya
   tier: greater
-  icon: /images/icons/gifts/bezdna-anafema/filakteriya.webp
+  icon: images/icons/gifts/bezdna-anafema/filakteriya.webp
   badges:
   - type: act
     text: Постоянно

@@ -4,7 +4,7 @@ colors:
   glow: '#ff7a86'
   deep: '#3b0a10'
   dark: '#140407'
-icon: /images/icons/words/krov.webp
+icon: images/icons/words/krov.webp
 description: |-
   Связанные со Словом Крови не могут погибнуть от немагического оружия, если только кто-то не потратит немало времени вне боя, чтобы разрубить их на куски и сжечь дотла или иначе разделать их противоестественно живучую плоть магическими орудиями; при нуле хитов они, как обычно, просто теряют сознание.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Испить из Родника Жизни
   slug: ispit-iz-rodnika-zhizni
   tier: lesser
-  icon: /images/icons/gifts/krov/ispit-iz-rodnika-zhizni.webp
+  icon: images/icons/gifts/krov/ispit-iz-rodnika-zhizni.webp
   badges:
   - type: act
     text: Постоянно
@@ -24,7 +24,7 @@ gifts:
 - name: Кража Жизненной Силы
   slug: krazha-zhiznennoy-sily
   tier: lesser
-  icon: /images/icons/gifts/krov/krazha-zhiznennoy-sily.webp
+  icon: images/icons/gifts/krov/krazha-zhiznennoy-sily.webp
   badges:
   - type: act
     text: Действие
@@ -38,7 +38,7 @@ gifts:
 - name: Кровавое Кукловодство
   slug: krovavoe-kuklovodstvo
   tier: lesser
-  icon: /images/icons/gifts/krov/krovavoe-kuklovodstvo.webp
+  icon: images/icons/gifts/krov/krovavoe-kuklovodstvo.webp
   badges:
   - type: act
     text: В свой ход
@@ -50,7 +50,7 @@ gifts:
 - name: Кровавый Клинок
   slug: krovavyy-klinok
   tier: lesser
-  icon: /images/icons/gifts/krov/krovavyy-klinok.webp
+  icon: images/icons/gifts/krov/krovavyy-klinok.webp
   badges:
   - type: act
     text: В свой ход
@@ -63,7 +63,7 @@ gifts:
 - name: Пожиратель Сути
   slug: pozhiratel-suti
   tier: lesser
-  icon: /images/icons/gifts/krov/pozhiratel-suti.webp
+  icon: images/icons/gifts/krov/pozhiratel-suti.webp
   badges:
   - type: act
     text: Мгновенно
@@ -76,7 +76,7 @@ gifts:
 - name: Поля Бойни
   slug: polya-boyni
   tier: lesser
-  icon: /images/icons/gifts/krov/polya-boyni.webp
+  icon: images/icons/gifts/krov/polya-boyni.webp
   badges:
   - type: act
     text: Постоянно
@@ -89,7 +89,7 @@ gifts:
 - name: Алый Поводок
   slug: alyy-povodok
   tier: greater
-  icon: /images/icons/gifts/krov/alyy-povodok.webp
+  icon: images/icons/gifts/krov/alyy-povodok.webp
   badges:
   - type: act
     text: Постоянно
@@ -105,7 +105,7 @@ gifts:
 - name: Врата Крови и Плоти
   slug: vrata-krovi-i-ploti
   tier: greater
-  icon: /images/icons/gifts/krov/vrata-krovi-i-ploti.webp
+  icon: images/icons/gifts/krov/vrata-krovi-i-ploti.webp
   badges:
   - type: act
     text: Постоянно
@@ -123,7 +123,7 @@ gifts:
 - name: Окровавленный Джаггернаут
   slug: okrovavlennyy-dzhaggernaut
   tier: greater
-  icon: /images/icons/gifts/krov/okrovavlennyy-dzhaggernaut.webp
+  icon: images/icons/gifts/krov/okrovavlennyy-dzhaggernaut.webp
   badges:
   - type: act
     text: Мгновенно

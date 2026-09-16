@@ -4,7 +4,7 @@ colors:
   glow: '#ff9ec0'
   deep: '#2e1420'
   dark: '#12070d'
-icon: /images/icons/words/drakon-anafema.webp
+icon: images/icons/words/drakon-anafema.webp
 description: |-
   Могучие змии клыка и пламени правили большей частью известного мира несчётные тысячи лет, пока люди ещё жались по пещерам. Лишь великий катаклизм — или, быть может, явление первых человеческих божеств — положил конец этой древней тирании. Слово Дракона — образчик тех сил, какими некогда владели эти жуткие первообразы, или одного из редких их остатков: лютых и ужасных змеиных владык, способных навести ужас на армии. Человеческий Обожествлённый не может обладать этим Словом. В отличие от Обожествлённых, Драконам ни к чему культы и почитание: они предпочитают выжженные пустоши кишащим толпам и храмам.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Вторая Шкура
   slug: vtoraya-shkura
   tier: lesser
-  icon: /images/icons/gifts/drakon-anafema/vtoraya-shkura.webp
+  icon: images/icons/gifts/drakon-anafema/vtoraya-shkura.webp
   badges:
   - type: act
     text: Действие
@@ -28,7 +28,7 @@ gifts:
 - name: Дыхание Смерти
   slug: dyhanie-smerti
   tier: lesser
-  icon: /images/icons/gifts/drakon-anafema/dyhanie-smerti.webp
+  icon: images/icons/gifts/drakon-anafema/dyhanie-smerti.webp
   badges:
   - type: act
     text: Действие
@@ -46,7 +46,7 @@ gifts:
 - name: Жилы Змея
   slug: zhily-zmeya
   tier: lesser
-  icon: /images/icons/gifts/drakon-anafema/zhily-zmeya.webp
+  icon: images/icons/gifts/drakon-anafema/zhily-zmeya.webp
   badges:
   - type: act
     text: Постоянно
@@ -63,7 +63,7 @@ gifts:
 - name: Неистощимая Сокровищница
   slug: neistoschimaya-sokrovischnitsa
   tier: lesser
-  icon: /images/icons/gifts/drakon-anafema/neistoschimaya-sokrovischnitsa.webp
+  icon: images/icons/gifts/drakon-anafema/neistoschimaya-sokrovischnitsa.webp
   badges:
   - type: act
     text: Постоянно
@@ -79,7 +79,7 @@ gifts:
 - name: Ужас Небес
   slug: uzhas-nebes
   tier: lesser
-  icon: /images/icons/gifts/drakon-anafema/uzhas-nebes.webp
+  icon: images/icons/gifts/drakon-anafema/uzhas-nebes.webp
   badges:
   - type: act
     text: Постоянно
@@ -91,7 +91,7 @@ gifts:
 - name: Шёпот Змея
   slug: shepot-zmeya
   tier: lesser
-  icon: /images/icons/gifts/drakon-anafema/shepot-zmeya.webp
+  icon: images/icons/gifts/drakon-anafema/shepot-zmeya.webp
   badges:
   - type: act
     text: Действие
@@ -106,7 +106,7 @@ gifts:
 - name: Железная Чешуя Бога-Змея
   slug: zheleznaya-cheshuya-boga-zmeya
   tier: greater
-  icon: /images/icons/gifts/drakon-anafema/zheleznaya-cheshuya-boga-zmeya.webp
+  icon: images/icons/gifts/drakon-anafema/zheleznaya-cheshuya-boga-zmeya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -118,7 +118,7 @@ gifts:
 - name: Пожиратель Миров
   slug: pozhiratel-mirov
   tier: greater
-  icon: /images/icons/gifts/drakon-anafema/pozhiratel-mirov.webp
+  icon: images/icons/gifts/drakon-anafema/pozhiratel-mirov.webp
   badges:
   - type: act
     text: Постоянно
@@ -130,7 +130,7 @@ gifts:
 - name: Сокрушитель Полчищ
   slug: sokrushitel-polchisch
   tier: greater
-  icon: /images/icons/gifts/drakon-anafema/sokrushitel-polchisch.webp
+  icon: images/icons/gifts/drakon-anafema/sokrushitel-polchisch.webp
   badges:
   - type: act
     text: Постоянно

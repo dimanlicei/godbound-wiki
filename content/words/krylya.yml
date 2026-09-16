@@ -4,7 +4,7 @@ colors:
   glow: '#bfe3ff'
   deep: '#12304a'
   dark: '#061421'
-icon: /images/icons/words/krylya.webp
+icon: images/icons/words/krylya.webp
 description: Связанные со Словом Крыльев обладают огромными ангельскими крыльями, могут летать со скоростью,
   вдвое превышающей их базовую скорость передвижения, и свободно общаться с любым пернатым существом.
   Немагические птицы никогда не причинят им вреда по своей воле и подчинятся даже самоубийственным приказам
@@ -14,7 +14,7 @@ gifts:
 - name: Ангельский Глас
   slug: angelskiy-glas
   tier: lesser
-  icon: /images/icons/gifts/krylya/angelskiy-glas.webp
+  icon: images/icons/gifts/krylya/angelskiy-glas.webp
   badges:
   - type: act
     text: Действие
@@ -29,7 +29,7 @@ gifts:
 - name: Глаза Охотящегося Ястреба
   slug: glaza-ohotyaschegosya-yastreba
   tier: lesser
-  icon: /images/icons/gifts/krylya/glaza-ohotyaschegosya-yastreba.webp
+  icon: images/icons/gifts/krylya/glaza-ohotyaschegosya-yastreba.webp
   badges:
   - type: act
     text: В свой ход
@@ -42,7 +42,7 @@ gifts:
 - name: Гром Среди Ясного Неба
   slug: grom-sredi-yasnogo-neba
   tier: lesser
-  icon: /images/icons/gifts/krylya/grom-sredi-yasnogo-neba.webp
+  icon: images/icons/gifts/krylya/grom-sredi-yasnogo-neba.webp
   badges:
   - type: act
     text: В свой ход
@@ -57,7 +57,7 @@ gifts:
 - name: Пернатая Мантия
   slug: pernataya-mantiya
   tier: lesser
-  icon: /images/icons/gifts/krylya/pernataya-mantiya.webp
+  icon: images/icons/gifts/krylya/pernataya-mantiya.webp
   badges:
   - type: act
     text: Действие
@@ -76,7 +76,7 @@ gifts:
 - name: Перья Бритвенной Стали
   slug: perya-britvennoy-stali
   tier: lesser
-  icon: /images/icons/gifts/krylya/perya-britvennoy-stali.webp
+  icon: images/icons/gifts/krylya/perya-britvennoy-stali.webp
   badges:
   - type: act
     text: В свой ход
@@ -90,7 +90,7 @@ gifts:
 - name: Принц Воздуха
   slug: prints-vozduha
   tier: lesser
-  icon: /images/icons/gifts/krylya/prints-vozduha.webp
+  icon: images/icons/gifts/krylya/prints-vozduha.webp
   badges:
   - type: act
     text: Действие
@@ -104,7 +104,7 @@ gifts:
 - name: Быстрота Штормового Ветра
   slug: bystrota-shtormovogo-vetra
   tier: greater
-  icon: /images/icons/gifts/krylya/bystrota-shtormovogo-vetra.webp
+  icon: images/icons/gifts/krylya/bystrota-shtormovogo-vetra.webp
   badges:
   - type: act
     text: Постоянно
@@ -118,7 +118,7 @@ gifts:
 - name: Вершина Стаи
   slug: vershina-stai
   tier: greater
-  icon: /images/icons/gifts/krylya/vershina-stai.webp
+  icon: images/icons/gifts/krylya/vershina-stai.webp
   badges:
   - type: act
     text: Действие
@@ -134,7 +134,7 @@ gifts:
 - name: Ярость Серафима
   slug: yarost-serafima
   tier: greater
-  icon: /images/icons/gifts/krylya/yarost-serafima.webp
+  icon: images/icons/gifts/krylya/yarost-serafima.webp
   badges:
   - type: act
     text: Постоянно

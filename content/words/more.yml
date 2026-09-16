@@ -4,7 +4,7 @@ colors:
   glow: '#6fd8f0'
   deep: '#062a38'
   dark: '#02121a'
-icon: /images/icons/words/more.webp
+icon: images/icons/words/more.webp
 description: |-
   Слово Моря повелевает водой во всех её видах, но чаще всего — водой рек и океанов. Все существа, обитающие в воде, подвластны морю, а его воды могут унести благословенных далеко прочь либо раздавить и источить тех, кто не в милости. Чудеса моря могут крушить давящей толщей, вызывать несметные объёмы воды, управлять течением жидкостей или очищать целительной солью океанов.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Живой Поток
   slug: zhivoy-potok
   tier: lesser
-  icon: /images/icons/gifts/more/zhivoy-potok.webp
+  icon: images/icons/gifts/more/zhivoy-potok.webp
   badges:
   - type: act
     text: В свой ход
@@ -26,7 +26,7 @@ gifts:
 - name: Идущий с Приливом
   slug: iduschiy-s-prilivom
   tier: lesser
-  icon: /images/icons/gifts/more/iduschiy-s-prilivom.webp
+  icon: images/icons/gifts/more/iduschiy-s-prilivom.webp
   badges:
   - type: act
     text: Действие
@@ -39,7 +39,7 @@ gifts:
 - name: Повелитель Вод
   slug: povelitel-vod
   tier: lesser
-  icon: /images/icons/gifts/more/povelitel-vod.webp
+  icon: images/icons/gifts/more/povelitel-vod.webp
   badges:
   - type: act
     text: В свой ход
@@ -53,7 +53,7 @@ gifts:
 - name: Сокрушающие Глубины
   slug: sokrushayuschie-glubiny
   tier: lesser
-  icon: /images/icons/gifts/more/sokrushayuschie-glubiny.webp
+  icon: images/icons/gifts/more/sokrushayuschie-glubiny.webp
   badges:
   - type: act
     text: Действие
@@ -66,7 +66,7 @@ gifts:
 - name: Тайны Глубин
   slug: tayny-glubin
   tier: lesser
-  icon: /images/icons/gifts/more/tayny-glubin.webp
+  icon: images/icons/gifts/more/tayny-glubin.webp
   badges:
   - type: act
     text: В свой ход
@@ -78,7 +78,7 @@ gifts:
 - name: Тело из Воды
   slug: telo-iz-vody
   tier: lesser
-  icon: /images/icons/gifts/more/telo-iz-vody.webp
+  icon: images/icons/gifts/more/telo-iz-vody.webp
   badges:
   - type: act
     text: Постоянно
@@ -90,7 +90,7 @@ gifts:
 - name: Рука Цунами
   slug: ruka-tsunami
   tier: greater
-  icon: /images/icons/gifts/more/ruka-tsunami.webp
+  icon: images/icons/gifts/more/ruka-tsunami.webp
   badges:
   - type: act
     text: Действие
@@ -106,7 +106,7 @@ gifts:
 - name: Укротитель Реки
   slug: ukrotitel-reki
   tier: greater
-  icon: /images/icons/gifts/more/ukrotitel-reki.webp
+  icon: images/icons/gifts/more/ukrotitel-reki.webp
   badges:
   - type: act
     text: Действие
@@ -120,7 +120,7 @@ gifts:
 - name: Чистота Солёных Брызг
   slug: chistota-solenyh-bryzg
   tier: greater
-  icon: /images/icons/gifts/more/chistota-solenyh-bryzg.webp
+  icon: images/icons/gifts/more/chistota-solenyh-bryzg.webp
   badges:
   - type: act
     text: Действие

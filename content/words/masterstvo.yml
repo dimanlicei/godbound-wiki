@@ -4,7 +4,7 @@ colors:
   glow: '#e8c79a'
   deep: '#2a2118'
   dark: '#100c09'
-icon: /images/icons/words/masterstvo.webp
+icon: images/icons/words/masterstvo.webp
 description: |-
   Это Слово ремесленников, строителей и создателей дивных творений. Одни Обожествлённые выражают своё родство с ним через определённое ремесло — кузнечное дело или кораблестроение, — другие покровительствуют более широкому кругу созидательного труда. Впрочем, даже узкие мастера могут применять свои силы широко. Чудеса Мастерства связаны с созданием, управлением, починкой или разрушением физических предметов.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Безукоризненный Ремонт
   slug: bezukoriznennyy-remont
   tier: lesser
-  icon: /images/icons/gifts/masterstvo/bezukoriznennyy-remont.webp
+  icon: images/icons/gifts/masterstvo/bezukoriznennyy-remont.webp
   badges:
   - type: act
     text: Действие
@@ -29,7 +29,7 @@ gifts:
 - name: Десять Тысяч Инструментов
   slug: desyat-tysyach-instrumentov
   tier: lesser
-  icon: /images/icons/gifts/masterstvo/desyat-tysyach-instrumentov.webp
+  icon: images/icons/gifts/masterstvo/desyat-tysyach-instrumentov.webp
   badges:
   - type: act
     text: Постоянно
@@ -42,7 +42,7 @@ gifts:
 - name: Отметить Создателя
   slug: otmetit-sozdatelya
   tier: lesser
-  icon: /images/icons/gifts/masterstvo/otmetit-sozdatelya.webp
+  icon: images/icons/gifts/masterstvo/otmetit-sozdatelya.webp
   badges:
   - type: act
     text: Действие
@@ -54,7 +54,7 @@ gifts:
 - name: Рука-Молот
   slug: ruka-molot
   tier: lesser
-  icon: /images/icons/gifts/masterstvo/ruka-molot.webp
+  icon: images/icons/gifts/masterstvo/ruka-molot.webp
   badges:
   - type: act
     text: В свой ход
@@ -66,7 +66,7 @@ gifts:
 - name: Трансмутатор
   slug: transmutator
   tier: lesser
-  icon: /images/icons/gifts/masterstvo/transmutator.webp
+  icon: images/icons/gifts/masterstvo/transmutator.webp
   badges:
   - type: act
     text: Действие
@@ -84,7 +84,7 @@ gifts:
 - name: Управлять Колёсами
   slug: upravlyat-kolesami
   tier: lesser
-  icon: /images/icons/gifts/masterstvo/upravlyat-kolesami.webp
+  icon: images/icons/gifts/masterstvo/upravlyat-kolesami.webp
   badges:
   - type: act
     text: Действие
@@ -98,7 +98,7 @@ gifts:
 - name: Вечное Совершенство
   slug: vechnoe-sovershenstvo
   tier: greater
-  icon: /images/icons/gifts/masterstvo/vechnoe-sovershenstvo.webp
+  icon: images/icons/gifts/masterstvo/vechnoe-sovershenstvo.webp
   badges:
   - type: act
     text: Постоянно
@@ -111,7 +111,7 @@ gifts:
 - name: Глаза Создателя
   slug: glaza-sozdatelya
   tier: greater
-  icon: /images/icons/gifts/masterstvo/glaza-sozdatelya.webp
+  icon: images/icons/gifts/masterstvo/glaza-sozdatelya.webp
   badges:
   - type: act
     text: Действие
@@ -126,7 +126,7 @@ gifts:
 - name: Почтение Стали
   slug: pochtenie-stali
   tier: greater
-  icon: /images/icons/gifts/masterstvo/pochtenie-stali.webp
+  icon: images/icons/gifts/masterstvo/pochtenie-stali.webp
   badges:
   - type: act
     text: Постоянно

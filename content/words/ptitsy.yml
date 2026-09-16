@@ -4,7 +4,7 @@ colors:
   glow: '#9fd6f2'
   deep: '#1d3040'
   dark: '#0a141c'
-icon: /images/icons/words/ptitsy.webp
+icon: images/icons/words/ptitsy.webp
 description: |-
   Слово Птиц — пример тех сил, что могут быть дарованы образцу одного-единственного вида животных. Такие дары не мощнее Слова Зверей, но могут коснуться сил или милостей, слишком частных для более широкого Слова.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Багряное Пике Хищника
   slug: bagryanoe-pike-hischnika
   tier: lesser
-  icon: /images/icons/gifts/ptitsy/bagryanoe-pike-hischnika.webp
+  icon: images/icons/gifts/ptitsy/bagryanoe-pike-hischnika.webp
   badges:
   - type: act
     text: В свой ход
@@ -27,7 +27,7 @@ gifts:
 - name: Вершина Стаи
   slug: vershina-stai
   tier: lesser
-  icon: /images/icons/gifts/ptitsy/vershina-stai.webp
+  icon: images/icons/gifts/ptitsy/vershina-stai.webp
   badges:
   - type: act
     text: Действие
@@ -41,7 +41,7 @@ gifts:
 - name: Глаза Охотящегося Ястреба
   slug: glaza-ohotyaschegosya-yastreba
   tier: lesser
-  icon: /images/icons/gifts/ptitsy/glaza-ohotyaschegosya-yastreba.webp
+  icon: images/icons/gifts/ptitsy/glaza-ohotyaschegosya-yastreba.webp
   badges:
   - type: act
     text: В свой ход
@@ -53,7 +53,7 @@ gifts:
 - name: Когти и Клюв
   slug: kogti-i-klyuv
   tier: lesser
-  icon: /images/icons/gifts/ptitsy/kogti-i-klyuv.webp
+  icon: images/icons/gifts/ptitsy/kogti-i-klyuv.webp
   badges:
   - type: act
     text: В свой ход
@@ -66,7 +66,7 @@ gifts:
 - name: Пернатая Мантия
   slug: pernataya-mantiya
   tier: lesser
-  icon: /images/icons/gifts/ptitsy/pernataya-mantiya.webp
+  icon: images/icons/gifts/ptitsy/pernataya-mantiya.webp
   badges:
   - type: act
     text: Действие
@@ -85,7 +85,7 @@ gifts:
 - name: Песнь Соловья
   slug: pesn-solovya
   tier: lesser
-  icon: /images/icons/gifts/ptitsy/pesn-solovya.webp
+  icon: images/icons/gifts/ptitsy/pesn-solovya.webp
   badges:
   - type: act
     text: Действие
@@ -101,7 +101,7 @@ gifts:
 - name: Быстрота Штормового Ветра
   slug: bystrota-shtormovogo-vetra
   tier: greater
-  icon: /images/icons/gifts/ptitsy/bystrota-shtormovogo-vetra.webp
+  icon: images/icons/gifts/ptitsy/bystrota-shtormovogo-vetra.webp
   badges:
   - type: act
     text: Постоянно
@@ -116,7 +116,7 @@ gifts:
 - name: Принц Воздуха
   slug: prints-vozduha
   tier: greater
-  icon: /images/icons/gifts/ptitsy/prints-vozduha.webp
+  icon: images/icons/gifts/ptitsy/prints-vozduha.webp
   badges:
   - type: act
     text: Постоянно
@@ -129,7 +129,7 @@ gifts:
 - name: Творец Крыльев
   slug: tvorets-krylev
   tier: greater
-  icon: /images/icons/gifts/ptitsy/tvorets-krylev.webp
+  icon: images/icons/gifts/ptitsy/tvorets-krylev.webp
   badges:
   - type: act
     text: Действие

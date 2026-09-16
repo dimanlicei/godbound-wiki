@@ -4,7 +4,7 @@ colors:
   glow: '#e2cf9d'
   deep: '#2a2418'
   dark: '#100e09'
-icon: /images/icons/words/lyudi.webp
+icon: images/icons/words/lyudi.webp
 description: |-
   Обожествлённый Людей — воплощение человеческих множеств и тех городских сплетений камня, дерева и глиняного кирпича, что возникают, когда человечество собирается вместе и стремится возвыситься. Его влияние простирается на зачастую безликое население его владений — на простых мужчин и женщин, которые составляют общину, а не толпу. Он также властен над зданиями города и его глубинными основами, повелевая камнем и улицей, как другой Обожествлённый повелевает огнём или яростной молнией.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Единый со Многими
   slug: edinyy-so-mnogimi
   tier: lesser
-  icon: /images/icons/gifts/lyudi/edinyy-so-mnogimi.webp
+  icon: images/icons/gifts/lyudi/edinyy-so-mnogimi.webp
   badges:
   - type: act
     text: Постоянно
@@ -29,7 +29,7 @@ gifts:
 - name: Незримые Баррикады
   slug: nezrimye-barrikady
   tier: lesser
-  icon: /images/icons/gifts/lyudi/nezrimye-barrikady.webp
+  icon: images/icons/gifts/lyudi/nezrimye-barrikady.webp
   badges:
   - type: act
     text: Действие
@@ -46,7 +46,7 @@ gifts:
 - name: Отвага Множества
   slug: otvaga-mnozhestva
   tier: lesser
-  icon: /images/icons/gifts/lyudi/otvaga-mnozhestva.webp
+  icon: images/icons/gifts/lyudi/otvaga-mnozhestva.webp
   badges:
   - type: act
     text: В свой ход
@@ -62,7 +62,7 @@ gifts:
 - name: Отец Камня и Улицы
   slug: otets-kamnya-i-ulitsy
   tier: lesser
-  icon: /images/icons/gifts/lyudi/otets-kamnya-i-ulitsy.webp
+  icon: images/icons/gifts/lyudi/otets-kamnya-i-ulitsy.webp
   badges:
   - type: act
     text: Действие
@@ -76,7 +76,7 @@ gifts:
 - name: Сердце Города
   slug: serdtse-goroda
   tier: lesser
-  icon: /images/icons/gifts/lyudi/serdtse-goroda.webp
+  icon: images/icons/gifts/lyudi/serdtse-goroda.webp
   badges:
   - type: act
     text: Постоянно
@@ -92,7 +92,7 @@ gifts:
 - name: Скользнуть Меж Булыжников
   slug: skolznut-mezh-bulyzhnikov
   tier: lesser
-  icon: /images/icons/gifts/lyudi/skolznut-mezh-bulyzhnikov.webp
+  icon: images/icons/gifts/lyudi/skolznut-mezh-bulyzhnikov.webp
   badges:
   - type: act
     text: Действие
@@ -105,7 +105,7 @@ gifts:
 - name: Шёпот Толпы
   slug: shepot-tolpy
   tier: lesser
-  icon: /images/icons/gifts/lyudi/shepot-tolpy.webp
+  icon: images/icons/gifts/lyudi/shepot-tolpy.webp
   badges:
   - type: act
     text: В свой ход
@@ -123,7 +123,7 @@ gifts:
 - name: Пастырь Людей
   slug: pastyr-lyudey
   tier: greater
-  icon: /images/icons/gifts/lyudi/pastyr-lyudey.webp
+  icon: images/icons/gifts/lyudi/pastyr-lyudey.webp
   badges:
   - type: act
     text: Действие
@@ -147,7 +147,7 @@ gifts:
 - name: Принять Скипетр
   slug: prinyat-skipetr
   tier: greater
-  icon: /images/icons/gifts/lyudi/prinyat-skipetr.webp
+  icon: images/icons/gifts/lyudi/prinyat-skipetr.webp
   badges:
   - type: act
     text: Постоянно
@@ -165,7 +165,7 @@ gifts:
 - name: Столпы Дрожат
   slug: stolpy-drozhat
   tier: greater
-  icon: /images/icons/gifts/lyudi/stolpy-drozhat.webp
+  icon: images/icons/gifts/lyudi/stolpy-drozhat.webp
   badges:
   - type: act
     text: Действие

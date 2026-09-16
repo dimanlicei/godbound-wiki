@@ -4,7 +4,7 @@ colors:
   glow: '#dcd67a'
   deep: '#26240f'
   dark: '#0f0e06'
-icon: /images/icons/words/zveri.webp
+icon: images/icons/words/zveri.webp
 description: |-
   Слово царства животных. Дары Зверя можно применять к любому природному или магическому животному, но не к созданиям, целиком слепленным из колдовства или невозможного ремесла. Большинство существ человеческого разума зверями не считаются, хотя некоторые особенно первобытные или дикие сущности могут быть сочтены таковыми. Чудеса Слова Зверя связаны с перенятием звериных черт, наделением ими других, полным или частичным превращением, повелеванием зверями и призывом животных.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Глаза Кота
   slug: glaza-kota
   tier: lesser
-  icon: /images/icons/gifts/zveri/glaza-kota.webp
+  icon: images/icons/gifts/zveri/glaza-kota.webp
   badges:
   - type: act
     text: Постоянно
@@ -26,7 +26,7 @@ gifts:
 - name: Далёкий Вой
   slug: dalekiy-voy
   tier: lesser
-  icon: /images/icons/gifts/zveri/dalekiy-voy.webp
+  icon: images/icons/gifts/zveri/dalekiy-voy.webp
   badges:
   - type: act
     text: В свой ход
@@ -38,7 +38,7 @@ gifts:
 - name: Клык и Коготь в Крови
   slug: klyk-i-kogot-v-krovi
   tier: lesser
-  icon: /images/icons/gifts/zveri/klyk-i-kogot-v-krovi.webp
+  icon: images/icons/gifts/zveri/klyk-i-kogot-v-krovi.webp
   badges:
   - type: act
     text: В свой ход
@@ -50,7 +50,7 @@ gifts:
 - name: Неприручённая Воля
   slug: nepriruchennaya-volya
   tier: lesser
-  icon: /images/icons/gifts/zveri/nepriruchennaya-volya.webp
+  icon: images/icons/gifts/zveri/nepriruchennaya-volya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -62,7 +62,7 @@ gifts:
 - name: Узы Единства
   slug: uzy-edinstva
   tier: lesser
-  icon: /images/icons/gifts/zveri/uzy-edinstva.webp
+  icon: images/icons/gifts/zveri/uzy-edinstva.webp
   badges:
   - type: act
     text: Постоянно
@@ -79,7 +79,7 @@ gifts:
 - name: Учуять Добычу
   slug: uchuyat-dobychu
   tier: lesser
-  icon: /images/icons/gifts/zveri/uchuyat-dobychu.webp
+  icon: images/icons/gifts/zveri/uchuyat-dobychu.webp
   badges:
   - type: act
     text: В свой ход
@@ -91,7 +91,7 @@ gifts:
 - name: Мантия Из Многих Шкур
   slug: mantiya-iz-mnogih-shkur
   tier: greater
-  icon: /images/icons/gifts/zveri/mantiya-iz-mnogih-shkur.webp
+  icon: images/icons/gifts/zveri/mantiya-iz-mnogih-shkur.webp
   badges:
   - type: act
     text: Действие
@@ -107,7 +107,7 @@ gifts:
 - name: Повелитель Дикой Природы
   slug: povelitel-dikoy-prirody
   tier: greater
-  icon: /images/icons/gifts/zveri/povelitel-dikoy-prirody.webp
+  icon: images/icons/gifts/zveri/povelitel-dikoy-prirody.webp
   badges:
   - type: act
     text: Постоянно
@@ -119,7 +119,7 @@ gifts:
 - name: Покорить Зверя Внутри
   slug: pokorit-zverya-vnutri
   tier: greater
-  icon: /images/icons/gifts/zveri/pokorit-zverya-vnutri.webp
+  icon: images/icons/gifts/zveri/pokorit-zverya-vnutri.webp
   badges:
   - type: act
     text: Постоянно

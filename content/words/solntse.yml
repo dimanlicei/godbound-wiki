@@ -4,7 +4,7 @@ colors:
   glow: '#ffdf6b'
   deep: '#3b2c06'
   dark: '#161003'
-icon: /images/icons/words/solntse.webp
+icon: images/icons/words/solntse.webp
 description: |-
   Свет, надежда, зрение и чистота — вот владения Слова Солнца. Солнце изгоняет злокозненное колдовство и своим сиянием даёт мужество. Чудеса солнца могут разбивать заклятия, открывать истину, дарить надежду или испепелять нечистых потоками небесного пламени. Око солнца всевидяще, и дары зрения тоже относятся к этой сфере.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Надежда Зари
   slug: nadezhda-zari
   tier: lesser
-  icon: /images/icons/gifts/solntse/nadezhda-zari.webp
+  icon: images/icons/gifts/solntse/nadezhda-zari.webp
   badges:
   - type: act
     text: В свой ход
@@ -25,7 +25,7 @@ gifts:
 - name: Осветить Сущее
   slug: osvetit-suschee
   tier: lesser
-  icon: /images/icons/gifts/solntse/osvetit-suschee.webp
+  icon: images/icons/gifts/solntse/osvetit-suschee.webp
   badges:
   - type: act
     text: В свой ход
@@ -37,7 +37,7 @@ gifts:
 - name: Освещённый Солнцем Взгляд
   slug: osveschennyy-solntsem-vzglyad
   tier: lesser
-  icon: /images/icons/gifts/solntse/osveschennyy-solntsem-vzglyad.webp
+  icon: images/icons/gifts/solntse/osveschennyy-solntsem-vzglyad.webp
   badges:
   - type: act
     text: Действие
@@ -49,7 +49,7 @@ gifts:
 - name: Поспешить к Свету
   slug: pospeshit-k-svetu
   tier: lesser
-  icon: /images/icons/gifts/solntse/pospeshit-k-svetu.webp
+  icon: images/icons/gifts/solntse/pospeshit-k-svetu.webp
   badges:
   - type: act
     text: Действие
@@ -62,7 +62,7 @@ gifts:
 - name: Тело Горящего Света
   slug: telo-goryaschego-sveta
   tier: lesser
-  icon: /images/icons/gifts/solntse/telo-goryaschego-sveta.webp
+  icon: images/icons/gifts/solntse/telo-goryaschego-sveta.webp
   badges:
   - type: act
     text: В свой ход
@@ -76,7 +76,7 @@ gifts:
 - name: Чистота Блистательного Закона
   slug: chistota-blistatelnogo-zakona
   tier: lesser
-  icon: /images/icons/gifts/solntse/chistota-blistatelnogo-zakona.webp
+  icon: images/icons/gifts/solntse/chistota-blistatelnogo-zakona.webp
   badges:
   - type: act
     text: Мгновенно
@@ -88,7 +88,7 @@ gifts:
 - name: Очищающее Полуденное Пламя
   slug: ochischayuschee-poludennoe-plamya
   tier: greater
-  icon: /images/icons/gifts/solntse/ochischayuschee-poludennoe-plamya.webp
+  icon: images/icons/gifts/solntse/ochischayuschee-poludennoe-plamya.webp
   badges:
   - type: act
     text: Действие
@@ -103,7 +103,7 @@ gifts:
 - name: Первый Свет Творения
   slug: pervyy-svet-tvoreniya
   tier: greater
-  icon: /images/icons/gifts/solntse/pervyy-svet-tvoreniya.webp
+  icon: images/icons/gifts/solntse/pervyy-svet-tvoreniya.webp
   badges:
   - type: act
     text: В свой ход
@@ -116,7 +116,7 @@ gifts:
 - name: Солнечный Удар
   slug: solnechnyy-udar
   tier: greater
-  icon: /images/icons/gifts/solntse/solnechnyy-udar.webp
+  icon: images/icons/gifts/solntse/solnechnyy-udar.webp
   badges:
   - type: act
     text: Действие

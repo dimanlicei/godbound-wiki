@@ -4,7 +4,7 @@ colors:
   glow: '#ff9aa6'
   deep: '#2a0c12'
   dark: '#0f0406'
-icon: /images/icons/words/ubiystvo.webp
+icon: images/icons/words/ubiystvo.webp
 description: |-
   Есть миллион способов, которыми люди убивают друг друга, и почти столько же обстоятельств, в которые можно поместить эти смерти. Обожествлённые Убийства — не боги войны и редко ищут открытого боя. Вместо этого они ведают самим деянием беззаконного убийства. Орудия этих божеств — нож в спину, яд в чаше и самое непотребное ритуальное жертвоприношение. Их силы крепче всего в делах внезапной засады или нежданного предательства — там, где даже могущественнейшее божество битвы может пасть от непредвиденного вероломства. Точно так же Слово Убийства правит тлеющей ненавистью и внезапной жаркой яростью, что толкают людей убивать в порыве гнева или горькой мести.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Глаза Крови
   slug: glaza-krovi
   tier: lesser
-  icon: /images/icons/gifts/ubiystvo/glaza-krovi.webp
+  icon: images/icons/gifts/ubiystvo/glaza-krovi.webp
   badges:
   - type: act
     text: Действие
@@ -28,7 +28,7 @@ gifts:
 - name: Жажда Убить
   slug: zhazhda-ubit
   tier: lesser
-  icon: /images/icons/gifts/ubiystvo/zhazhda-ubit.webp
+  icon: images/icons/gifts/ubiystvo/zhazhda-ubit.webp
   badges:
   - type: act
     text: Действие
@@ -43,7 +43,7 @@ gifts:
 - name: Злонамеренное Предвидение
   slug: zlonamerennoe-predvidenie
   tier: lesser
-  icon: /images/icons/gifts/ubiystvo/zlonamerennoe-predvidenie.webp
+  icon: images/icons/gifts/ubiystvo/zlonamerennoe-predvidenie.webp
   badges:
   - type: act
     text: Постоянно
@@ -55,7 +55,7 @@ gifts:
 - name: Ловчий Смерти
   slug: lovchiy-smerti
   tier: lesser
-  icon: /images/icons/gifts/ubiystvo/lovchiy-smerti.webp
+  icon: images/icons/gifts/ubiystvo/lovchiy-smerti.webp
   badges:
   - type: act
     text: Действие
@@ -70,7 +70,7 @@ gifts:
 - name: Сладкий Поцелуй Освобождения
   slug: sladkiy-potseluy-osvobozhdeniya
   tier: lesser
-  icon: /images/icons/gifts/ubiystvo/sladkiy-potseluy-osvobozhdeniya.webp
+  icon: images/icons/gifts/ubiystvo/sladkiy-potseluy-osvobozhdeniya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -84,7 +84,7 @@ gifts:
 - name: Смертоубийство
   slug: smertoubiystvo
   tier: lesser
-  icon: /images/icons/gifts/ubiystvo/smertoubiystvo.webp
+  icon: images/icons/gifts/ubiystvo/smertoubiystvo.webp
   badges:
   - type: act
     text: Постоянно
@@ -98,7 +98,7 @@ gifts:
 - name: Всякая Рука, Поднятая Против Тебя
   slug: vsyakaya-ruka-podnyataya-protiv-tebya
   tier: greater
-  icon: /images/icons/gifts/ubiystvo/vsyakaya-ruka-podnyataya-protiv-tebya.webp
+  icon: images/icons/gifts/ubiystvo/vsyakaya-ruka-podnyataya-protiv-tebya.webp
   badges:
   - type: act
     text: Действие
@@ -117,7 +117,7 @@ gifts:
 - name: Окровавленный Саван
   slug: okrovavlennyy-savan
   tier: greater
-  icon: /images/icons/gifts/ubiystvo/okrovavlennyy-savan.webp
+  icon: images/icons/gifts/ubiystvo/okrovavlennyy-savan.webp
   badges:
   - type: act
     text: Мгновенно
@@ -134,7 +134,7 @@ gifts:
 - name: Чёрная Пирамида
   slug: chernaya-piramida
   tier: greater
-  icon: /images/icons/gifts/ubiystvo/chernaya-piramida.webp
+  icon: images/icons/gifts/ubiystvo/chernaya-piramida.webp
   badges:
   - type: act
     text: Постоянно

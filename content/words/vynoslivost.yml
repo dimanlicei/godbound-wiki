@@ -4,7 +4,7 @@ colors:
   glow: '#c2d3ae'
   deep: '#242a20'
   dark: '#0e100c'
-icon: /images/icons/words/vynoslivost.webp
+icon: images/icons/words/vynoslivost.webp
 description: |-
   Слово Выносливости — это Слово стойкости, решимости и неослабного усилия. Его чудеса дают выжить даже перед лицом верной смерти, обрести силы там, где изнеможение иначе взяло бы своё, и противиться нежеланному колдовству или проклятиям.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Бросить Вызов Железу
   slug: brosit-vyzov-zhelezu
   tier: lesser
-  icon: /images/icons/gifts/vynoslivost/brosit-vyzov-zhelezu.webp
+  icon: images/icons/gifts/vynoslivost/brosit-vyzov-zhelezu.webp
   badges:
   - type: act
     text: Мгновенно
@@ -28,7 +28,7 @@ gifts:
 - name: Живучесть Амаранта
   slug: zhivuchest-amaranta
   tier: lesser
-  icon: /images/icons/gifts/vynoslivost/zhivuchest-amaranta.webp
+  icon: images/icons/gifts/vynoslivost/zhivuchest-amaranta.webp
   badges:
   - type: act
     text: Постоянно
@@ -39,7 +39,7 @@ gifts:
 - name: Крепче Этого
   slug: krepche-etogo
   tier: lesser
-  icon: /images/icons/gifts/vynoslivost/krepche-etogo.webp
+  icon: images/icons/gifts/vynoslivost/krepche-etogo.webp
   badges:
   - type: act
     text: В свой ход
@@ -51,7 +51,7 @@ gifts:
 - name: Неутомимое Рвение
   slug: neutomimoe-rvenie
   tier: lesser
-  icon: /images/icons/gifts/vynoslivost/neutomimoe-rvenie.webp
+  icon: images/icons/gifts/vynoslivost/neutomimoe-rvenie.webp
   badges:
   - type: act
     text: Постоянно
@@ -62,7 +62,7 @@ gifts:
 - name: Презрение Стихий
   slug: prezrenie-stihiy
   tier: lesser
-  icon: /images/icons/gifts/vynoslivost/prezrenie-stihiy.webp
+  icon: images/icons/gifts/vynoslivost/prezrenie-stihiy.webp
   badges:
   - type: act
     text: Постоянно
@@ -75,7 +75,7 @@ gifts:
 - name: Тело Железной Воли
   slug: telo-zheleznoy-voli
   tier: lesser
-  icon: /images/icons/gifts/vynoslivost/telo-zheleznoy-voli.webp
+  icon: images/icons/gifts/vynoslivost/telo-zheleznoy-voli.webp
   badges:
   - type: act
     text: Постоянно
@@ -87,7 +87,7 @@ gifts:
 - name: Не Бойся Стали
   slug: ne-boysya-stali
   tier: greater
-  icon: /images/icons/gifts/vynoslivost/ne-boysya-stali.webp
+  icon: images/icons/gifts/vynoslivost/ne-boysya-stali.webp
   badges:
   - type: act
     text: В свой ход
@@ -102,7 +102,7 @@ gifts:
 - name: Несокрушимый
   slug: nesokrushimyy
   tier: greater
-  icon: /images/icons/gifts/vynoslivost/nesokrushimyy.webp
+  icon: images/icons/gifts/vynoslivost/nesokrushimyy.webp
   badges:
   - type: act
     text: Постоянно
@@ -117,7 +117,7 @@ gifts:
 - name: Неумирающий
   slug: neumirayuschiy
   tier: greater
-  icon: /images/icons/gifts/vynoslivost/neumirayuschiy.webp
+  icon: images/icons/gifts/vynoslivost/neumirayuschiy.webp
   badges:
   - type: act
     text: Постоянно

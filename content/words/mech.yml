@@ -4,7 +4,7 @@ colors:
   glow: '#c6dbe8'
   deep: '#232a30'
   dark: '#0d1014'
-icon: /images/icons/words/mech.webp
+icon: images/icons/words/mech.webp
 description: |-
   Слово Меча — это Слово ближнего боя, прямого противостояния Обожествлённого и его противников. Чудеса Меча включают в себя безошибочные удары, сокрушительные атаки и чудесное избегание вреда в битве. Хотя эти чудеса весьма могущественны, на расстоянии они не работают.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Безошибочный Клинок
   slug: bezoshibochnyy-klinok
   tier: lesser
-  icon: /images/icons/gifts/mech/bezoshibochnyy-klinok.webp
+  icon: images/icons/gifts/mech/bezoshibochnyy-klinok.webp
   badges:
   - type: act
     text: Мгновенно
@@ -25,7 +25,7 @@ gifts:
 - name: Девять Железных Стен
   slug: devyat-zheleznyh-sten
   tier: lesser
-  icon: /images/icons/gifts/mech/devyat-zheleznyh-sten.webp
+  icon: images/icons/gifts/mech/devyat-zheleznyh-sten.webp
   badges:
   - type: act
     text: Мгновенно
@@ -38,7 +38,7 @@ gifts:
 - name: Жаждущая Бритва
   slug: zhazhduschaya-britva
   tier: lesser
-  icon: /images/icons/gifts/mech/zhazhduschaya-britva.webp
+  icon: images/icons/gifts/mech/zhazhduschaya-britva.webp
   badges:
   - type: act
     text: В свой ход
@@ -51,7 +51,7 @@ gifts:
 - name: Презрение к Дистанции
   slug: prezrenie-k-distantsii
   tier: lesser
-  icon: /images/icons/gifts/mech/prezrenie-k-distantsii.webp
+  icon: images/icons/gifts/mech/prezrenie-k-distantsii.webp
   badges:
   - type: act
     text: Постоянно
@@ -66,7 +66,7 @@ gifts:
 - name: Сквозь Красный Лес
   slug: skvoz-krasnyy-les
   tier: lesser
-  icon: /images/icons/gifts/mech/skvoz-krasnyy-les.webp
+  icon: images/icons/gifts/mech/skvoz-krasnyy-les.webp
   badges:
   - type: act
     text: В свой ход
@@ -79,7 +79,7 @@ gifts:
 - name: Сталь Без Конца
   slug: stal-bez-kontsa
   tier: lesser
-  icon: /images/icons/gifts/mech/stal-bez-kontsa.webp
+  icon: images/icons/gifts/mech/stal-bez-kontsa.webp
   badges:
   - type: act
     text: Постоянно
@@ -92,7 +92,7 @@ gifts:
 - name: Перерезая Алую Дорогу
   slug: pererezaya-aluyu-dorogu
   tier: greater
-  icon: /images/icons/gifts/mech/pererezaya-aluyu-dorogu.webp
+  icon: images/icons/gifts/mech/pererezaya-aluyu-dorogu.webp
   badges:
   - type: act
     text: В свой ход
@@ -106,7 +106,7 @@ gifts:
 - name: Путь Сквозь Войну
   slug: put-skvoz-voynu
   tier: greater
-  icon: /images/icons/gifts/mech/put-skvoz-voynu.webp
+  icon: images/icons/gifts/mech/put-skvoz-voynu.webp
   badges:
   - type: act
     text: В свой ход
@@ -120,7 +120,7 @@ gifts:
 - name: Сокрушающий Удар
   slug: sokrushayuschiy-udar
   tier: greater
-  icon: /images/icons/gifts/mech/sokrushayuschiy-udar.webp
+  icon: images/icons/gifts/mech/sokrushayuschiy-udar.webp
   badges:
   - type: act
     text: В свой ход

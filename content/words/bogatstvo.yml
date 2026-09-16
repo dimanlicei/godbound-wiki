@@ -4,7 +4,7 @@ colors:
   glow: '#ffd873'
   deep: '#342a09'
   dark: '#130f04'
-icon: /images/icons/words/bogatstvo.webp
+icon: images/icons/words/bogatstvo.webp
 description: |-
   Богатство — Слово не только золота, но и всякого процветания. Твёрдое жалованье, полные кладовые, тёплая одежда и крепкие крыши — вот владения этого Слова. Некоторые его силы взаимодействуют с системой Группировок на стр. 134, даруя благословения или проклятия целым городам и странам.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Безупречное Воспроизведение
   slug: bezuprechnoe-vosproizvedenie
   tier: lesser
-  icon: /images/icons/gifts/bogatstvo/bezuprechnoe-vosproizvedenie.webp
+  icon: images/icons/gifts/bogatstvo/bezuprechnoe-vosproizvedenie.webp
   badges:
   - type: act
     text: Действие
@@ -27,7 +27,7 @@ gifts:
 - name: Вечно Достаточный Достаток
   slug: vechno-dostatochnyy-dostatok
   tier: lesser
-  icon: /images/icons/gifts/bogatstvo/vechno-dostatochnyy-dostatok.webp
+  icon: images/icons/gifts/bogatstvo/vechno-dostatochnyy-dostatok.webp
   badges:
   - type: act
     text: В свой ход
@@ -42,7 +42,7 @@ gifts:
 - name: Изобилие Процветания
   slug: izobilie-protsvetaniya
   tier: lesser
-  icon: /images/icons/gifts/bogatstvo/izobilie-protsvetaniya.webp
+  icon: images/icons/gifts/bogatstvo/izobilie-protsvetaniya.webp
   badges:
   - type: act
     text: Действие
@@ -55,7 +55,7 @@ gifts:
 - name: Иссушить Кошель
   slug: issushit-koshel
   tier: lesser
-  icon: /images/icons/gifts/bogatstvo/issushit-koshel.webp
+  icon: images/icons/gifts/bogatstvo/issushit-koshel.webp
   badges:
   - type: act
     text: Действие
@@ -71,7 +71,7 @@ gifts:
 - name: Прокормить Множество
   slug: prokormit-mnozhestvo
   tier: lesser
-  icon: /images/icons/gifts/bogatstvo/prokormit-mnozhestvo.webp
+  icon: images/icons/gifts/bogatstvo/prokormit-mnozhestvo.webp
   badges:
   - type: act
     text: В свой ход
@@ -85,7 +85,7 @@ gifts:
 - name: Ремесло Созидания
   slug: remeslo-sozidaniya
   tier: lesser
-  icon: /images/icons/gifts/bogatstvo/remeslo-sozidaniya.webp
+  icon: images/icons/gifts/bogatstvo/remeslo-sozidaniya.webp
   badges:
   - type: act
     text: Действие
@@ -98,7 +98,7 @@ gifts:
 - name: Вечно Довольно
   slug: vechno-dovolno
   tier: greater
-  icon: /images/icons/gifts/bogatstvo/vechno-dovolno.webp
+  icon: images/icons/gifts/bogatstvo/vechno-dovolno.webp
   badges:
   - type: act
     text: Постоянно
@@ -112,7 +112,7 @@ gifts:
 - name: Гроза Воров
   slug: groza-vorov
   tier: greater
-  icon: /images/icons/gifts/bogatstvo/groza-vorov.webp
+  icon: images/icons/gifts/bogatstvo/groza-vorov.webp
   badges:
   - type: act
     text: Постоянно
@@ -127,7 +127,7 @@ gifts:
 - name: Длань Златого Бога
   slug: dlan-zlatogo-boga
   tier: greater
-  icon: /images/icons/gifts/bogatstvo/dlan-zlatogo-boga.webp
+  icon: images/icons/gifts/bogatstvo/dlan-zlatogo-boga.webp
   badges:
   - type: act
     text: Действие

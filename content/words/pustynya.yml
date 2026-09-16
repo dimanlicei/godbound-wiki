@@ -4,7 +4,7 @@ colors:
   glow: '#ffd98a'
   deep: '#3a2c11'
   dark: '#160f05'
-icon: /images/icons/words/pustynya.webp
+icon: images/icons/words/pustynya.webp
 description: |-
   Владыка праха и запустения, Обожествлённый Слова Пустыни правит сухими пустошами и каменистыми бесплодными землями. Он призывает иссушающий воздух и убийственный зной своих владений и повелевает морочащими миражами и пустыми пространствами, что сбивают с пути незадачливого странника.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Ваятель Песка
   slug: vayatel-peska
   tier: lesser
-  icon: /images/icons/gifts/pustynya/vayatel-peska.webp
+  icon: images/icons/gifts/pustynya/vayatel-peska.webp
   badges:
   - type: act
     text: В свой ход
@@ -26,7 +26,7 @@ gifts:
 - name: Лазурный Родник Оазиса
   slug: lazurnyy-rodnik-oazisa
   tier: lesser
-  icon: /images/icons/gifts/pustynya/lazurnyy-rodnik-oazisa.webp
+  icon: images/icons/gifts/pustynya/lazurnyy-rodnik-oazisa.webp
   badges:
   - type: act
     text: Действие
@@ -42,7 +42,7 @@ gifts:
 - name: Мерцающий Мираж
   slug: mertsayuschiy-mirazh
   tier: lesser
-  icon: /images/icons/gifts/pustynya/mertsayuschiy-mirazh.webp
+  icon: images/icons/gifts/pustynya/mertsayuschiy-mirazh.webp
   badges:
   - type: act
     text: Действие
@@ -56,7 +56,7 @@ gifts:
 - name: Меч Сирокко
   slug: mech-sirokko
   tier: lesser
-  icon: /images/icons/gifts/pustynya/mech-sirokko.webp
+  icon: images/icons/gifts/pustynya/mech-sirokko.webp
   badges:
   - type: act
     text: В свой ход
@@ -68,7 +68,7 @@ gifts:
 - name: Проклятие Праха
   slug: proklyatie-praha
   tier: lesser
-  icon: /images/icons/gifts/pustynya/proklyatie-praha.webp
+  icon: images/icons/gifts/pustynya/proklyatie-praha.webp
   badges:
   - type: act
     text: Действие
@@ -84,7 +84,7 @@ gifts:
 - name: Странник Среди Дюн
   slug: strannik-sredi-dyun
   tier: lesser
-  icon: /images/icons/gifts/pustynya/strannik-sredi-dyun.webp
+  icon: images/icons/gifts/pustynya/strannik-sredi-dyun.webp
   badges:
   - type: act
     text: Действие
@@ -99,7 +99,7 @@ gifts:
 - name: Владыка Пустого Предела
   slug: vladyka-pustogo-predela
   tier: greater
-  icon: /images/icons/gifts/pustynya/vladyka-pustogo-predela.webp
+  icon: images/icons/gifts/pustynya/vladyka-pustogo-predela.webp
   badges:
   - type: act
     text: Действие
@@ -114,7 +114,7 @@ gifts:
 - name: Джинн Зыбучих Песков
   slug: dzhinn-zybuchih-peskov
   tier: greater
-  icon: /images/icons/gifts/pustynya/dzhinn-zybuchih-peskov.webp
+  icon: images/icons/gifts/pustynya/dzhinn-zybuchih-peskov.webp
   badges:
   - type: act
     text: В свой ход
@@ -129,7 +129,7 @@ gifts:
 - name: Ярость Самума
   slug: yarost-samuma
   tier: greater
-  icon: /images/icons/gifts/pustynya/yarost-samuma.webp
+  icon: images/icons/gifts/pustynya/yarost-samuma.webp
   badges:
   - type: act
     text: Действие

@@ -4,7 +4,7 @@ colors:
   glow: '#aab0cc'
   deep: '#1e2030'
   dark: '#0b0c14'
-icon: /images/icons/words/len.webp
+icon: images/icons/words/len.webp
 description: 'Слово Греха: Ленность. Каждый демон лени несёт в себе ту самую ленность, что может ломать
   их жизни в самых ужасных местах, но именно поэтому они крайне хитры и социальны, дабы находить себе
   подходящих исполнителей или же создавать решения таких проблем. Повысьте свой Интеллект или же Харизму
@@ -15,7 +15,7 @@ gifts:
 - name: Демонический Оутсорс
   slug: demonicheskiy-outsors
   tier: lesser
-  icon: /images/icons/gifts/len/demonicheskiy-outsors.webp
+  icon: images/icons/gifts/len/demonicheskiy-outsors.webp
   badges:
   - type: act
     text: Постоянно
@@ -30,7 +30,7 @@ gifts:
 - name: Недвижимая смерть
   slug: nedvizhimaya-smert
   tier: lesser
-  icon: /images/icons/gifts/len/nedvizhimaya-smert.webp
+  icon: images/icons/gifts/len/nedvizhimaya-smert.webp
   badges:
   - type: act
     text: Действие
@@ -46,7 +46,7 @@ gifts:
 - name: Пакт Кости и Злобы
   slug: pakt-kosti-i-zloby
   tier: lesser
-  icon: /images/icons/gifts/len/pakt-kosti-i-zloby.webp
+  icon: images/icons/gifts/len/pakt-kosti-i-zloby.webp
   badges:
   - type: act
     text: Постоянно
@@ -63,7 +63,7 @@ gifts:
 - name: Пакт Молота
   slug: pakt-molota
   tier: lesser
-  icon: /images/icons/gifts/len/pakt-molota.webp
+  icon: images/icons/gifts/len/pakt-molota.webp
   badges:
   - type: act
     text: Постоянно
@@ -76,7 +76,7 @@ gifts:
 - name: Тысяча и одна рука
   slug: tysyacha-i-odna-ruka
   tier: lesser
-  icon: /images/icons/gifts/len/tysyacha-i-odna-ruka.webp
+  icon: images/icons/gifts/len/tysyacha-i-odna-ruka.webp
   badges:
   - type: act
     text: Постоянно
@@ -93,7 +93,7 @@ gifts:
 - name: Эврика
   slug: evrika
   tier: lesser
-  icon: /images/icons/gifts/len/evrika.webp
+  icon: images/icons/gifts/len/evrika.webp
   badges:
   - type: act
     text: Постоянно
@@ -106,7 +106,7 @@ gifts:
 - name: Заёмная сила
   slug: zaemnaya-sila
   tier: greater
-  icon: /images/icons/gifts/len/zaemnaya-sila.webp
+  icon: images/icons/gifts/len/zaemnaya-sila.webp
   badges:
   - type: act
     text: Мгновенно
@@ -118,7 +118,7 @@ gifts:
 - name: Нарушитель порядка
   slug: narushitel-poryadka
   tier: greater
-  icon: /images/icons/gifts/len/narushitel-poryadka.webp
+  icon: images/icons/gifts/len/narushitel-poryadka.webp
   badges:
   - type: act
     text: В свой ход
@@ -131,7 +131,7 @@ gifts:
 - name: Подушка мой друг, а кровать моя крепость
   slug: podushka-moy-drug-a-krovat-moya-krepost
   tier: greater
-  icon: /images/icons/gifts/len/podushka-moy-drug-a-krovat-moya-krepost.webp
+  icon: images/icons/gifts/len/podushka-moy-drug-a-krovat-moya-krepost.webp
   badges:
   - type: act
     text: В свой ход

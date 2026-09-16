@@ -4,7 +4,7 @@ colors:
   glow: '#ffc07a'
   deep: '#2c1a0c'
   dark: '#0f0805'
-icon: /images/icons/words/artilleriya.webp
+icon: images/icons/words/artilleriya.webp
 description: 'Слово Сотворения: Артиллерия. Герои Слова Артиллерии никогда не окажутся без обычной амуниции.
   Они могут мгновенно призвать любое тяжёлое дальнобойное оружие в 10 и более футов длиной. Их атаки с
   зоной поражения могут оставлять после себя кратеры до 30 футов в ширину и могут пробивать столько футов
@@ -15,7 +15,7 @@ gifts:
 - name: Из-за горизонта
   slug: iz-za-gorizonta
   tier: lesser
-  icon: /images/icons/gifts/artilleriya/iz-za-gorizonta.webp
+  icon: images/icons/gifts/artilleriya/iz-za-gorizonta.webp
   badges:
   - type: act
     text: Постоянно
@@ -31,7 +31,7 @@ gifts:
 - name: Координаты переданы
   slug: koordinaty-peredany
   tier: lesser
-  icon: /images/icons/gifts/artilleriya/koordinaty-peredany.webp
+  icon: images/icons/gifts/artilleriya/koordinaty-peredany.webp
   badges:
   - type: act
     text: Действие
@@ -45,7 +45,7 @@ gifts:
 - name: Принять Удар
   slug: prinyat-udar
   tier: lesser
-  icon: /images/icons/gifts/artilleriya/prinyat-udar.webp
+  icon: images/icons/gifts/artilleriya/prinyat-udar.webp
   badges:
   - type: act
     text: Мгновенно
@@ -56,7 +56,7 @@ gifts:
 - name: Разрушитель Бункеров
   slug: razrushitel-bunkerov
   tier: lesser
-  icon: /images/icons/gifts/artilleriya/razrushitel-bunkerov.webp
+  icon: images/icons/gifts/artilleriya/razrushitel-bunkerov.webp
   badges:
   - type: act
     text: Мгновенно
@@ -69,7 +69,7 @@ gifts:
 - name: Свистящий Рок
   slug: svistyaschiy-rok
   tier: lesser
-  icon: /images/icons/gifts/artilleriya/svistyaschiy-rok.webp
+  icon: images/icons/gifts/artilleriya/svistyaschiy-rok.webp
   badges:
   - type: act
     text: Действие
@@ -83,7 +83,7 @@ gifts:
 - name: Тяжелая Артиллерия
   slug: tyazhelaya-artilleriya
   tier: lesser
-  icon: /images/icons/gifts/artilleriya/tyazhelaya-artilleriya.webp
+  icon: images/icons/gifts/artilleriya/tyazhelaya-artilleriya.webp
   badges:
   - type: act
     text: Постоянно
@@ -95,7 +95,7 @@ gifts:
 - name: Безразличное Уничтожение
   slug: bezrazlichnoe-unichtozhenie
   tier: greater
-  icon: /images/icons/gifts/artilleriya/bezrazlichnoe-unichtozhenie.webp
+  icon: images/icons/gifts/artilleriya/bezrazlichnoe-unichtozhenie.webp
   badges:
   - type: act
     text: В свой ход
@@ -108,7 +108,7 @@ gifts:
 - name: Бесконечный Железный Дождь
   slug: beskonechnyy-zheleznyy-dozhd
   tier: greater
-  icon: /images/icons/gifts/artilleriya/beskonechnyy-zheleznyy-dozhd.webp
+  icon: images/icons/gifts/artilleriya/beskonechnyy-zheleznyy-dozhd.webp
   badges:
   - type: act
     text: В свой ход
@@ -120,7 +120,7 @@ gifts:
 - name: Снаряды не падают в один и тот же кратер дважды
   slug: snaryady-ne-padayut-v-odin-i-tot-zhe-krater-dvazhdy
   tier: greater
-  icon: /images/icons/gifts/artilleriya/snaryady-ne-padayut-v-odin-i-tot-zhe-krater-dvazhdy.webp
+  icon: images/icons/gifts/artilleriya/snaryady-ne-padayut-v-odin-i-tot-zhe-krater-dvazhdy.webp
   badges:
   - type: act
     text: В свой ход

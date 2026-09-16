@@ -4,7 +4,7 @@ colors:
   glow: '#ff8d8d'
   deep: '#360d14'
   dark: '#130406'
-icon: /images/icons/words/mest.webp
+icon: images/icons/words/mest.webp
 description: |-
   Слово Мести требует расплаты за преступления. Однако это не подлинное правосудие, а самая грубая месть: боль за боль, око за око. Обожествлённый Мести обрушивает боль и кару на тех, кто первым совершил преступление. Это Слово не бьёт первым, но часто бьёт последним.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Заклеймить Нечестивца
   slug: zakleymit-nechestivtsa
   tier: lesser
-  icon: /images/icons/gifts/mest/zakleymit-nechestivtsa.webp
+  icon: images/icons/gifts/mest/zakleymit-nechestivtsa.webp
   badges:
   - type: act
     text: Действие
@@ -31,7 +31,7 @@ gifts:
 - name: Исполнить Закон
   slug: ispolnit-zakon
   tier: lesser
-  icon: /images/icons/gifts/mest/ispolnit-zakon.webp
+  icon: images/icons/gifts/mest/ispolnit-zakon.webp
   badges:
   - type: act
     text: Действие
@@ -47,7 +47,7 @@ gifts:
 - name: Кровь за Кровь
   slug: krov-za-krov
   tier: lesser
-  icon: /images/icons/gifts/mest/krov-za-krov.webp
+  icon: images/icons/gifts/mest/krov-za-krov.webp
   badges:
   - type: act
     text: Постоянно
@@ -60,7 +60,7 @@ gifts:
 - name: Мантия Немезиды
   slug: mantiya-nemezidy
   tier: lesser
-  icon: /images/icons/gifts/mest/mantiya-nemezidy.webp
+  icon: images/icons/gifts/mest/mantiya-nemezidy.webp
   badges:
   - type: act
     text: Мгновенно
@@ -74,7 +74,7 @@ gifts:
 - name: Обоюдоострый Меч
   slug: oboyudoostryy-mech
   tier: lesser
-  icon: /images/icons/gifts/mest/oboyudoostryy-mech.webp
+  icon: images/icons/gifts/mest/oboyudoostryy-mech.webp
   badges:
   - type: act
     text: Действие
@@ -87,7 +87,7 @@ gifts:
 - name: Пожать Вихрь
   slug: pozhat-vihr
   tier: lesser
-  icon: /images/icons/gifts/mest/pozhat-vihr.webp
+  icon: images/icons/gifts/mest/pozhat-vihr.webp
   badges:
   - type: act
     text: Постоянно
@@ -101,7 +101,7 @@ gifts:
 - name: Яростное Возмездие
   slug: yarostnoe-vozmezdie
   tier: lesser
-  icon: /images/icons/gifts/mest/yarostnoe-vozmezdie.webp
+  icon: images/icons/gifts/mest/yarostnoe-vozmezdie.webp
   badges:
   - type: act
     text: В свой ход
@@ -113,7 +113,7 @@ gifts:
 - name: Кроворукая Месть
   slug: krovorukaya-mest
   tier: greater
-  icon: /images/icons/gifts/mest/krovorukaya-mest.webp
+  icon: images/icons/gifts/mest/krovorukaya-mest.webp
   badges:
   - type: act
     text: В свой ход
@@ -126,7 +126,7 @@ gifts:
 - name: Неумолимое Преследование
   slug: neumolimoe-presledovanie
   tier: greater
-  icon: /images/icons/gifts/mest/neumolimoe-presledovanie.webp
+  icon: images/icons/gifts/mest/neumolimoe-presledovanie.webp
   badges:
   - type: act
     text: В свой ход
@@ -146,7 +146,7 @@ gifts:
 - name: Проклясть Нечестивца
   slug: proklyast-nechestivtsa
   tier: greater
-  icon: /images/icons/gifts/mest/proklyast-nechestivtsa.webp
+  icon: images/icons/gifts/mest/proklyast-nechestivtsa.webp
   badges:
   - type: act
     text: Действие

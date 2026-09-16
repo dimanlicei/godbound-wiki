@@ -4,7 +4,7 @@ colors:
   glow: '#b3a8ff'
   deep: '#1c1638'
   dark: '#0a0718'
-icon: /images/icons/words/sny.webp
+icon: images/icons/words/sny.webp
 description: |-
   Связанные со Словом Снов обладают безупречной памятью и неуязвимой защитой от изменения воспоминаний и от насильного погружения в сон. Они не нуждаются во сне, но во время сна временно невосприимчивы ко всем немагическим опасностям и условиям окружения, включая старение и нужду в еде и питье.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Воплотить Сон
   slug: voplotit-son
   tier: lesser
-  icon: /images/icons/gifts/sny/voplotit-son.webp
+  icon: images/icons/gifts/sny/voplotit-son.webp
   badges:
   - type: act
     text: В свой ход
@@ -27,7 +27,7 @@ gifts:
 - name: Клетка Мёртвого Прошлого
   slug: kletka-mertvogo-proshlogo
   tier: lesser
-  icon: /images/icons/gifts/sny/kletka-mertvogo-proshlogo.webp
+  icon: images/icons/gifts/sny/kletka-mertvogo-proshlogo.webp
   badges:
   - type: act
     text: Действие
@@ -42,7 +42,7 @@ gifts:
 - name: Отказ от Недоверия
   slug: otkaz-ot-nedoveriya
   tier: lesser
-  icon: /images/icons/gifts/sny/otkaz-ot-nedoveriya.webp
+  icon: images/icons/gifts/sny/otkaz-ot-nedoveriya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -57,7 +57,7 @@ gifts:
 - name: Прикосновение Леты
   slug: prikosnovenie-lety
   tier: lesser
-  icon: /images/icons/gifts/sny/prikosnovenie-lety.webp
+  icon: images/icons/gifts/sny/prikosnovenie-lety.webp
   badges:
   - type: act
     text: Действие
@@ -72,7 +72,7 @@ gifts:
 - name: Ужасное Видение
   slug: uzhasnoe-videnie
   tier: lesser
-  icon: /images/icons/gifts/sny/uzhasnoe-videnie.webp
+  icon: images/icons/gifts/sny/uzhasnoe-videnie.webp
   badges:
   - type: act
     text: В свой ход
@@ -88,7 +88,7 @@ gifts:
 - name: Украденные Мгновения
   slug: ukradennye-mgnoveniya
   tier: lesser
-  icon: /images/icons/gifts/sny/ukradennye-mgnoveniya.webp
+  icon: images/icons/gifts/sny/ukradennye-mgnoveniya.webp
   badges:
   - type: act
     text: Мгновенно
@@ -104,7 +104,7 @@ gifts:
 - name: Легенды в Туман
   slug: legendy-v-tuman
   tier: greater
-  icon: /images/icons/gifts/sny/legendy-v-tuman.webp
+  icon: images/icons/gifts/sny/legendy-v-tuman.webp
   badges:
   - type: act
     text: Действие
@@ -121,7 +121,7 @@ gifts:
 - name: Развеять Пыль Веков
   slug: razveyat-pyl-vekov
   tier: greater
-  icon: /images/icons/gifts/sny/razveyat-pyl-vekov.webp
+  icon: images/icons/gifts/sny/razveyat-pyl-vekov.webp
   badges:
   - type: act
     text: Действие
@@ -137,7 +137,7 @@ gifts:
 - name: Ткач Снов
   slug: tkach-snov
   tier: greater
-  icon: /images/icons/gifts/sny/tkach-snov.webp
+  icon: images/icons/gifts/sny/tkach-snov.webp
   badges:
   - type: act
     text: Постоянно

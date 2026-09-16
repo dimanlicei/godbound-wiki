@@ -4,7 +4,7 @@ colors:
   glow: '#d9a5ff'
   deep: '#2a1436'
   dark: '#110818'
-icon: /images/icons/words/pesn.webp
+icon: images/icons/words/pesn.webp
 description: |-
   Музыка — одна из древнейших сил красоты в мире, сложившаяся бессчётными способами у бессчётных культур и цивилизаций. Связанный со Словом Песни властвует над созвучием и звуком во всех их видах.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Арфист Играет на Струнах Сердца
   slug: arfist-igraet-na-strunah-serdtsa
   tier: lesser
-  icon: /images/icons/gifts/pesn/arfist-igraet-na-strunah-serdtsa.webp
+  icon: images/icons/gifts/pesn/arfist-igraet-na-strunah-serdtsa.webp
   badges:
   - type: act
     text: Действие
@@ -29,7 +29,7 @@ gifts:
 - name: Куплет Бессмертной Славы
   slug: kuplet-bessmertnoy-slavy
   tier: lesser
-  icon: /images/icons/gifts/pesn/kuplet-bessmertnoy-slavy.webp
+  icon: images/icons/gifts/pesn/kuplet-bessmertnoy-slavy.webp
   badges:
   - type: act
     text: Мгновенно
@@ -42,7 +42,7 @@ gifts:
 - name: Напев Диссонанса
   slug: napev-dissonansa
   tier: lesser
-  icon: /images/icons/gifts/pesn/napev-dissonansa.webp
+  icon: images/icons/gifts/pesn/napev-dissonansa.webp
   badges:
   - type: act
     text: В свой ход
@@ -55,7 +55,7 @@ gifts:
 - name: Несокрушимая Гармония
   slug: nesokrushimaya-garmoniya
   tier: lesser
-  icon: /images/icons/gifts/pesn/nesokrushimaya-garmoniya.webp
+  icon: images/icons/gifts/pesn/nesokrushimaya-garmoniya.webp
   badges:
   - type: act
     text: Действие
@@ -73,7 +73,7 @@ gifts:
 - name: Поэзия в Движении
   slug: poeziya-v-dvizhenii
   tier: lesser
-  icon: /images/icons/gifts/pesn/poeziya-v-dvizhenii.webp
+  icon: images/icons/gifts/pesn/poeziya-v-dvizhenii.webp
   badges:
   - type: act
     text: Постоянно
@@ -85,7 +85,7 @@ gifts:
 - name: Созвучие Творения
   slug: sozvuchie-tvoreniya
   tier: lesser
-  icon: /images/icons/gifts/pesn/sozvuchie-tvoreniya.webp
+  icon: images/icons/gifts/pesn/sozvuchie-tvoreniya.webp
   badges:
   - type: act
     text: В свой ход
@@ -102,7 +102,7 @@ gifts:
 - name: Хор, Подобный Дальнему Грому
   slug: hor-podobnyy-dalnemu-gromu
   tier: lesser
-  icon: /images/icons/gifts/pesn/hor-podobnyy-dalnemu-gromu.webp
+  icon: images/icons/gifts/pesn/hor-podobnyy-dalnemu-gromu.webp
   badges:
   - type: act
     text: Постоянно
@@ -119,7 +119,7 @@ gifts:
 - name: Зов Сирены
   slug: zov-sireny
   tier: greater
-  icon: /images/icons/gifts/pesn/zov-sireny.webp
+  icon: images/icons/gifts/pesn/zov-sireny.webp
   badges:
   - type: act
     text: В свой ход
@@ -136,7 +136,7 @@ gifts:
 - name: Темп Нарастает
   slug: temp-narastaet
   tier: greater
-  icon: /images/icons/gifts/pesn/temp-narastaet.webp
+  icon: images/icons/gifts/pesn/temp-narastaet.webp
   badges:
   - type: act
     text: Действие
@@ -157,7 +157,7 @@ gifts:
 - name: Хозяин/Хозяйка Мелодии
   slug: hozyain-hozyayka-melodii
   tier: greater
-  icon: /images/icons/gifts/pesn/hozyain-hozyayka-melodii.webp
+  icon: images/icons/gifts/pesn/hozyain-hozyayka-melodii.webp
   badges:
   - type: act
     text: Постоянно

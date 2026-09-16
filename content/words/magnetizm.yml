@@ -4,7 +4,7 @@ colors:
   glow: '#a9c4e0'
   deep: '#182636'
   dark: '#080e16'
-icon: /images/icons/words/magnetizm.webp
+icon: images/icons/words/magnetizm.webp
 description: 'Слово Сотворения: Магнетизм. Обожествлённые, связанные со словом Магнетизма, обладают невероятным
   контролем над природными магнитными полями, но так же искусственными и способны создавать свои собственные
   магнитные поля. Поднимите свой показатель Интеллекта или Харизмы на выбор до 16, если показатель уже
@@ -15,7 +15,7 @@ gifts:
 - name: Буря мыслей
   slug: burya-mysley
   tier: lesser
-  icon: /images/icons/gifts/magnetizm/burya-mysley.webp
+  icon: images/icons/gifts/magnetizm/burya-mysley.webp
   badges:
   - type: act
     text: В свой ход
@@ -28,7 +28,7 @@ gifts:
 - name: Властный щит
   slug: vlastnyy-schit
   tier: lesser
-  icon: /images/icons/gifts/magnetizm/vlastnyy-schit.webp
+  icon: images/icons/gifts/magnetizm/vlastnyy-schit.webp
   badges:
   - type: act
     text: Мгновенно
@@ -41,7 +41,7 @@ gifts:
 - name: Воплощая Чертеж
   slug: voploschaya-chertezh
   tier: lesser
-  icon: /images/icons/gifts/magnetizm/voploschaya-chertezh.webp
+  icon: images/icons/gifts/magnetizm/voploschaya-chertezh.webp
   badges:
   - type: act
     text: Действие
@@ -54,7 +54,7 @@ gifts:
 - name: За Пределами
   slug: za-predelami
   tier: lesser
-  icon: /images/icons/gifts/magnetizm/za-predelami.webp
+  icon: images/icons/gifts/magnetizm/za-predelami.webp
   badges:
   - type: act
     text: Постоянно
@@ -67,7 +67,7 @@ gifts:
 - name: Искажая путь
   slug: iskazhaya-put
   tier: lesser
-  icon: /images/icons/gifts/magnetizm/iskazhaya-put.webp
+  icon: images/icons/gifts/magnetizm/iskazhaya-put.webp
   badges:
   - type: act
     text: Мгновенно
@@ -80,7 +80,7 @@ gifts:
 - name: Искатель истинного пути
   slug: iskatel-istinnogo-puti
   tier: lesser
-  icon: /images/icons/gifts/magnetizm/iskatel-istinnogo-puti.webp
+  icon: images/icons/gifts/magnetizm/iskatel-istinnogo-puti.webp
   badges:
   - type: act
     text: Постоянно
@@ -92,7 +92,7 @@ gifts:
 - name: Лишенный света
   slug: lishennyy-sveta
   tier: lesser
-  icon: /images/icons/gifts/magnetizm/lishennyy-sveta.webp
+  icon: images/icons/gifts/magnetizm/lishennyy-sveta.webp
   badges:
   - type: act
     text: В свой ход
@@ -103,7 +103,7 @@ gifts:
 - name: Владыка полюсов
   slug: vladyka-polyusov
   tier: greater
-  icon: /images/icons/gifts/magnetizm/vladyka-polyusov.webp
+  icon: images/icons/gifts/magnetizm/vladyka-polyusov.webp
   badges:
   - type: act
     text: Действие
@@ -118,7 +118,7 @@ gifts:
 - name: Волей Гаусса
   slug: voley-gaussa
   tier: greater
-  icon: /images/icons/gifts/magnetizm/voley-gaussa.webp
+  icon: images/icons/gifts/magnetizm/voley-gaussa.webp
   badges:
   - type: act
     text: В свой ход
@@ -134,7 +134,7 @@ gifts:
 - name: Животный Магнетизм
   slug: zhivotnyy-magnetizm
   tier: greater
-  icon: /images/icons/gifts/magnetizm/zhivotnyy-magnetizm.webp
+  icon: images/icons/gifts/magnetizm/zhivotnyy-magnetizm.webp
   badges:
   - type: act
     text: Постоянно

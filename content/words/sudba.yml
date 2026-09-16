@@ -4,7 +4,7 @@ colors:
   glow: '#b6c6e8'
   deep: '#1e2436'
   dark: '#0a0d17'
-icon: /images/icons/words/sudba.webp
+icon: images/icons/words/sudba.webp
 description: |-
   Обожествлённый, связавший Слово Судьбы, овладел теми зыбкими промежутками, что лежат между несомненным и невозможным. Он может сделать почти невозможное предначертанной неизбежностью для человека или отыскать ту щель, сквозь которую можно ускользнуть от иначе неотвратимой гибели.
 
@@ -13,7 +13,7 @@ gifts:
 - name: Вытянуть Нить
   slug: vytyanut-nit
   tier: lesser
-  icon: /images/icons/gifts/sudba/vytyanut-nit.webp
+  icon: images/icons/gifts/sudba/vytyanut-nit.webp
   badges:
   - type: act
     text: Постоянно
@@ -24,7 +24,7 @@ gifts:
 - name: Отменить Последствие
   slug: otmenit-posledstvie
   tier: lesser
-  icon: /images/icons/gifts/sudba/otmenit-posledstvie.webp
+  icon: images/icons/gifts/sudba/otmenit-posledstvie.webp
   badges:
   - type: act
     text: В свой ход
@@ -37,7 +37,7 @@ gifts:
 - name: Прочесть Знаки
   slug: prochest-znaki
   tier: lesser
-  icon: /images/icons/gifts/sudba/prochest-znaki.webp
+  icon: images/icons/gifts/sudba/prochest-znaki.webp
   badges:
   - type: act
     text: Действие
@@ -49,7 +49,7 @@ gifts:
 - name: Разбить Оковы
   slug: razbit-okovy
   tier: lesser
-  icon: /images/icons/gifts/sudba/razbit-okovy.webp
+  icon: images/icons/gifts/sudba/razbit-okovy.webp
   badges:
   - type: act
     text: В свой ход
@@ -64,7 +64,7 @@ gifts:
 - name: Разрушитель Имени
   slug: razrushitel-imeni
   tier: lesser
-  icon: /images/icons/gifts/sudba/razrushitel-imeni.webp
+  icon: images/icons/gifts/sudba/razrushitel-imeni.webp
   badges:
   - type: act
     text: Действие
@@ -77,7 +77,7 @@ gifts:
 - name: Стойкость Бытия
   slug: stoykost-bytiya
   tier: lesser
-  icon: /images/icons/gifts/sudba/stoykost-bytiya.webp
+  icon: images/icons/gifts/sudba/stoykost-bytiya.webp
   badges:
   - type: act
     text: Постоянно
@@ -95,7 +95,7 @@ gifts:
 - name: Переписать Судьбу
   slug: perepisat-sudbu
   tier: greater
-  icon: /images/icons/gifts/sudba/perepisat-sudbu.webp
+  icon: images/icons/gifts/sudba/perepisat-sudbu.webp
   badges:
   - type: act
     text: Действие
@@ -110,7 +110,7 @@ gifts:
 - name: Раствориться в Полотне
   slug: rastvoritsya-v-polotne
   tier: greater
-  icon: /images/icons/gifts/sudba/rastvoritsya-v-polotne.webp
+  icon: images/icons/gifts/sudba/rastvoritsya-v-polotne.webp
   badges:
   - type: act
     text: Действие
@@ -129,7 +129,7 @@ gifts:
 - name: Узурпировать Судьбу
   slug: uzurpirovat-sudbu
   tier: greater
-  icon: /images/icons/gifts/sudba/uzurpirovat-sudbu.webp
+  icon: images/icons/gifts/sudba/uzurpirovat-sudbu.webp
   badges:
   - type: act
     text: Действие

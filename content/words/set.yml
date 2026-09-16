@@ -4,7 +4,7 @@ colors:
   glow: '#5fe0ff'
   deep: '#0e2434'
   dark: '#050e16'
-icon: /images/icons/words/set.webp
+icon: images/icons/words/set.webp
 description: |-
   Слово Сети предназначено для миров, где всемирная паутина или её подобие — обычная часть общества. В Арцеме такой основой для этого Слова могла бы стать Светлая Республика, но большинству сказочных миров Сеть предложить нечего.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Воин Правок
   slug: voin-pravok
   tier: lesser
-  icon: /images/icons/gifts/set/voin-pravok.webp
+  icon: images/icons/gifts/set/voin-pravok.webp
   badges:
   - type: act
     text: Действие
@@ -27,7 +27,7 @@ gifts:
 - name: Интернет Моих Вещей
   slug: internet-moih-veschey
   tier: lesser
-  icon: /images/icons/gifts/set/internet-moih-veschey.webp
+  icon: images/icons/gifts/set/internet-moih-veschey.webp
   badges:
   - type: act
     text: В свой ход
@@ -40,7 +40,7 @@ gifts:
 - name: Крушение Головок
   slug: krushenie-golovok
   tier: lesser
-  icon: /images/icons/gifts/set/krushenie-golovok.webp
+  icon: images/icons/gifts/set/krushenie-golovok.webp
   badges:
   - type: act
     text: В свой ход
@@ -53,7 +53,7 @@ gifts:
 - name: Личная Передача
   slug: lichnaya-peredacha
   tier: lesser
-  icon: /images/icons/gifts/set/lichnaya-peredacha.webp
+  icon: images/icons/gifts/set/lichnaya-peredacha.webp
   badges:
   - type: act
     text: Действие
@@ -65,7 +65,7 @@ gifts:
 - name: Переписать Программу
   slug: perepisat-programmu
   tier: lesser
-  icon: /images/icons/gifts/set/perepisat-programmu.webp
+  icon: images/icons/gifts/set/perepisat-programmu.webp
   badges:
   - type: act
     text: Действие
@@ -81,7 +81,7 @@ gifts:
 - name: Слияние Данных
   slug: sliyanie-dannyh
   tier: lesser
-  icon: /images/icons/gifts/set/sliyanie-dannyh.webp
+  icon: images/icons/gifts/set/sliyanie-dannyh.webp
   badges:
   - type: act
     text: Действие
@@ -96,7 +96,7 @@ gifts:
 - name: Вирусная Мысль
   slug: virusnaya-mysl
   tier: greater
-  icon: /images/icons/gifts/set/virusnaya-mysl.webp
+  icon: images/icons/gifts/set/virusnaya-mysl.webp
   badges:
   - type: act
     text: Действие
@@ -110,7 +110,7 @@ gifts:
 - name: Ткач Паутины
   slug: tkach-pautiny
   tier: greater
-  icon: /images/icons/gifts/set/tkach-pautiny.webp
+  icon: images/icons/gifts/set/tkach-pautiny.webp
   badges:
   - type: act
     text: Постоянно
@@ -127,7 +127,7 @@ gifts:
 - name: Чёрная Дыра
   slug: chernaya-dyra
   tier: greater
-  icon: /images/icons/gifts/set/chernaya-dyra.webp
+  icon: images/icons/gifts/set/chernaya-dyra.webp
   badges:
   - type: act
     text: Действие

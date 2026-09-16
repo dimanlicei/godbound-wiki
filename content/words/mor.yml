@@ -4,7 +4,7 @@ colors:
   glow: '#c2e07a'
   deep: '#1b2a10'
   dark: '#0a1106'
-icon: /images/icons/words/mor.webp
+icon: images/icons/words/mor.webp
 description: |-
   Владыки мора, голода и пожирающих полчищ — такие Обожествлённые несут за собой лишь саранчу, бедствие и страдание. Они владеют силами многочисленности, болезни и голода, чтобы карать целые народы.
 
@@ -15,7 +15,7 @@ gifts:
 - name: Голодная Хватка
   slug: golodnaya-hvatka
   tier: lesser
-  icon: /images/icons/gifts/mor/golodnaya-hvatka.webp
+  icon: images/icons/gifts/mor/golodnaya-hvatka.webp
   badges:
   - type: act
     text: В свой ход
@@ -28,7 +28,7 @@ gifts:
 - name: Имя Мне Легион
   slug: imya-mne-legion
   tier: lesser
-  icon: /images/icons/gifts/mor/imya-mne-legion.webp
+  icon: images/icons/gifts/mor/imya-mne-legion.webp
   badges:
   - type: act
     text: Мгновенно
@@ -49,7 +49,7 @@ gifts:
 - name: Иссушить Землю
   slug: issushit-zemlyu
   tier: lesser
-  icon: /images/icons/gifts/mor/issushit-zemlyu.webp
+  icon: images/icons/gifts/mor/issushit-zemlyu.webp
   badges:
   - type: act
     text: Действие
@@ -63,7 +63,7 @@ gifts:
 - name: Осквернить Плоть
   slug: oskvernit-plot
   tier: lesser
-  icon: /images/icons/gifts/mor/oskvernit-plot.webp
+  icon: images/icons/gifts/mor/oskvernit-plot.webp
   badges:
   - type: act
     text: В свой ход
@@ -83,7 +83,7 @@ gifts:
 - name: Призвать Рой
   slug: prizvat-roy
   tier: lesser
-  icon: /images/icons/gifts/mor/prizvat-roy.webp
+  icon: images/icons/gifts/mor/prizvat-roy.webp
   badges:
   - type: act
     text: Действие
@@ -97,7 +97,7 @@ gifts:
 - name: Тошнотворная Хворь
   slug: toshnotvornaya-hvor
   tier: lesser
-  icon: /images/icons/gifts/mor/toshnotvornaya-hvor.webp
+  icon: images/icons/gifts/mor/toshnotvornaya-hvor.webp
   badges:
   - type: act
     text: Действие
@@ -110,7 +110,7 @@ gifts:
 - name: Бледный Конь
   slug: blednyy-kon
   tier: greater
-  icon: /images/icons/gifts/mor/blednyy-kon.webp
+  icon: images/icons/gifts/mor/blednyy-kon.webp
   badges:
   - type: act
     text: Постоянно
@@ -123,7 +123,7 @@ gifts:
 - name: Владыка Саранчи
   slug: vladyka-saranchi
   tier: greater
-  icon: /images/icons/gifts/mor/vladyka-saranchi.webp
+  icon: images/icons/gifts/mor/vladyka-saranchi.webp
   badges:
   - type: act
     text: Действие
@@ -142,7 +142,7 @@ gifts:
 - name: Носитель Мора
   slug: nositel-mora
   tier: greater
-  icon: /images/icons/gifts/mor/nositel-mora.webp
+  icon: images/icons/gifts/mor/nositel-mora.webp
   badges:
   - type: act
     text: Действие
