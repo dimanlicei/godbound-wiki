@@ -8,7 +8,7 @@ backend:
 site_url: https://dimanlicei.github.io/godbound-wiki/
 display_url: https://dimanlicei.github.io/godbound-wiki/
 
-media_folder: "images/icons"
+media_folder: "/images/icons"
 public_folder: "https://dimanlicei.github.io/godbound-wiki/images/icons"
 
 collections:
@@ -47,7 +47,7 @@ collections:
       - label: "Иконка"
         name: "icon"
         widget: "image"
-        media_folder: "images/icons/words"
+        media_folder: "/images/icons/words"
         public_folder: "https://dimanlicei.github.io/godbound-wiki/images/icons/words"
       - {label: "Описание", name: "description", widget: "text"}
       - label: "Дары"
@@ -69,8 +69,8 @@ collections:
           - label: "Иконка"
             name: "icon"
             widget: "image"
-            media_folder: "images/icons/gifts/{{slug}}"
-            public_folder: "https://dimanlicei.github.io/godbound-wiki/images/icons/gifts/{{slug}}"
+            media_folder: "/images/icons/gifts"
+            public_folder: "https://dimanlicei.github.io/godbound-wiki/images/icons/gifts"
           - label: "Бейджи"
             name: "badges"
             widget: "list"
