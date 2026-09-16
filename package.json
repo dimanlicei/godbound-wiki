@@ -1,0 +1,12 @@
+{
+  "name": "slova-i-dary-godbound",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Словарь Слов и Даров Godbound — редактируемый через Decap CMS",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
