@@ -2,7 +2,7 @@ backend:
   name: github
   repo: dimanlicei/godbound-wiki
   branch: main
-  base_url: https://imaginative-sherbet-124199.netlify.app
+  base_url: https://api.netlify.com
   auth_endpoint: auth
 
 site_url: https://dimanlicei.github.io/godbound-wiki/
