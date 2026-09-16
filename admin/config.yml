@@ -17,6 +17,8 @@ collections:
     label_singular: "Слово"
     folder: "content/words"
     create: true
+    extension: "yml"
+    format: "yaml"
     slug: "{{fields.slug}}"
     identifier_field: "name"
     summary: "{{name}} ({{kind}})"
@@ -91,6 +93,7 @@ collections:
       - name: "order"
         label: "Порядок на странице"
         file: "content/order.yml"
+        format: "yaml"
         fields:
           - label: "Порядок"
             name: "order"
